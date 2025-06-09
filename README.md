@@ -1,4 +1,4 @@
-# 🛒 K-M Supermarket – Sales Data Analysis
+# 🛒 K-Smart Supermarket – Sales Data Analysis
 
 🔗 **[View Power BI Dashboard](https://app.powerbi.com/links/5aJNaD_JKQ?ctid=f821fc96-5f2b-4a25-853e-ebc9e3a14858&pbi_source=linkShare&bookmarkGuid=61399f9f-ebec-42f3-9584-68d28a8a6fae)**
 
