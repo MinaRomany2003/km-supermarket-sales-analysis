@@ -45,7 +45,7 @@ Using **Power BI**, we explore daily transactions, product-mix performance, seas
 
 ## 📈 Key Dashboards
 1. **Executive Summary**  
-   - Revenue, profit, and units sold trends; YoY & MoM growth KPIs.
+   - Revenue, profit, and units sold trends; MTD & YTD growth KPIs.
 
 2. **Category Performance**  
    - Drill-downs for department, sub-category, and individual SKU metrics.
