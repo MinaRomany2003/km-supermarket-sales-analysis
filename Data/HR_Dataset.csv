@@ -1,0 +1,969 @@
+Employee_ID,First Name,Middle Name,Last Name,Full Name,Country Code,Mobile Number,Email,Joining Date,Contract Perioud,Last Contract Start,Last Contract End,# 0f Contracts,Gender,Birthday,Age,Nationality,Education,Salary,Bonus %,Position,Branch,Manager ID
+1001,Zakaria,Bassem,Ramy,Zakaria Bassem Ramy,20,1202832805,Zakaria.Ramy@example.com,5/5/2018,5,5/5/2023,5/5/2028,2,Male,6/27/1967,58,Egyptian,PhD,114529,35,CEO,Head Office,
+1002,Dalia,Hussein,Lotfy,Dalia Hussein Lotfy,20,1154575186,Dalia.Lotfy@example.com,12/23/2019,4,12/23/2023,12/23/2027,2,Female,11/16/1969,56,Egyptian,PhD,70003,24,CFO,Head Office,1001
+1003,Nisreen,Abdelsalam,Qasem,Nisreen Abdelsalam Qasem,20,1205991908,Nisreen.Qasem@example.com,10/1/2021,3,10/1/2024,10/1/2027,2,Female,11/26/1969,56,Egyptian,PhD,19936,14,HR Manager,Head Office,1001
+1004,Lotfy,Soliman,Mansour,Lotfy Soliman Mansour,20,1279182995,Lotfy.Mansour@example.com,4/30/2015,3,4/30/2024,4/30/2027,4,Male,4/17/1968,57,Egyptian,Masters,12642,15,Warehouse Manager,Head Office,1001
+1005,Magdy,Saber,Moataz,Magdy Saber Moataz,20,1177872501,Magdy.Moataz@example.com,10/7/2022,3,10/7/2022,10/7/2025,1,Male,12/13/1967,58,Egyptian,Masters,32218,15,Regional Manager,Head Office,1001
+1006,Islam,Reda,Mounir,Islam Reda Mounir,20,1020414741,Islam.Mounir@example.com,11/4/2018,3,11/4/2024,11/4/2027,3,Male,1/10/1970,55,Egyptian,Masters,20753,20,Accountant Manager,Head Office,1002
+1007,Ayman,Qasem,Waheed,Ayman Qasem Waheed,20,1289080247,Ayman.Waheed@example.com,4/7/2020,3,4/7/2023,4/7/2026,2,Male,11/22/1968,57,Egyptian,PhD,20761,20,Financial Analyst Manager,Head Office,1002
+1008,Iman,Safwat,Abdelrahman,Iman Safwat Abdelrahman,20,1221118196,Iman.Abdelrahman@example.com,3/4/2020,3,3/4/2023,3/4/2026,2,Female,5/16/1984,41,Egyptian,Masters,12953,9,Senior HR,Head Office,1003
+1009,Moheb,Anwar,Nabil,Moheb Anwar Nabil,20,1248211246,Moheb.Nabil@example.com,4/20/2020,3,4/20/2023,4/20/2026,2,Male,5/23/1985,40,Egyptian,Masters,13460,11,Senior HR,Head Office,1003
+1010,Fouad,Shady,Basel,Fouad Shady Basel,20,1149274184,Fouad.Basel@example.com,7/2/2015,2,7/2/2023,7/2/2025,5,Male,2/2/1995,30,Egyptian,Bachelor,6982,7,Warehouse Operator,Head Office,1004
+1011,Waheed,Mohamed,Abdelkader,Waheed Mohamed Abdelkader,20,1232921471,Waheed.Abdelkader@example.com,5/3/2018,1,5/3/2024,5/3/2025,7,Male,11/10/1988,37,Egyptian,Bachelor,5388,6,Warehouse Operator,Head Office,1004
+1012,Mohamed,Anwar,Abdelkader,Mohamed Anwar Abdelkader,20,1242307784,Mohamed.Abdelkader@example.com,5/30/2016,2,5/30/2024,5/30/2026,5,Male,6/12/1984,41,Egyptian,Bachelor,6328,8,Warehouse Operator,Head Office,1004
+1013,Bassem,Hossni,Mohamed,Bassem Hossni Mohamed,20,1048289768,Bassem.Mohamed@example.com,9/3/2022,2,9/3/2024,9/3/2026,2,Male,10/8/1994,31,Egyptian,Bachelor,6998,7,Warehouse Operator,Head Office,1004
+1014,Waheed,Maged,Shady,Waheed Maged Shady,20,1158417344,Waheed.Shady@example.com,6/14/2020,3,6/14/2023,6/14/2026,2,Male,10/10/1980,45,Egyptian,Masters,22941,14,Store Manager,Cairo,1005
+1015,Farouk,Farouk,Ehab,Farouk Farouk Ehab,20,1296016477,Farouk.Ehab@example.com,11/24/2017,3,11/24/2023,11/24/2026,3,Male,8/6/1979,46,Egyptian,Masters,21017,16,Store Manager,Giza,1005
+1016,Hassan,Abdelhady,Nasr,Hassan Abdelhady Nasr,20,1291455616,Hassan.Nasr@example.com,3/23/2017,3,3/23/2023,3/23/2026,3,Male,12/3/1977,48,Egyptian,Masters,24694,15,Store Manager,Alexandria,1005
+1017,Ahmed,Yasser,Mohamed,Ahmed Yasser Mohamed,20,1143328868,Ahmed.Mohamed@example.com,4/28/2019,3,4/28/2022,4/28/2025,2,Male,2/18/1972,53,Sudanese,Bachelor,22941,14,Store Manager,Mansoura,1005
+1018,Bassem,Hany,Omar,Bassem Hany Omar,20,1006245386,Bassem.Omar@example.com,6/6/2021,3,6/6/2024,6/6/2027,2,Male,4/17/1979,46,Egyptian,Bachelor,20198,15,Store Manager,Sharm El Sheikh,1005
+1019,Galal,Ali,Mahmoud,Galal Ali Mahmoud,20,1041477384,Galal.Mahmoud@example.com,6/19/2015,3,6/19/2024,6/19/2027,4,Male,2/23/1973,52,Egyptian,Masters,21157,17,Store Manager,Luxor,1005
+1020,Hossni,Fouad,Abdelatif,Nihal Fouad Abdelatif,20,1289111340,Hossni.Abdelatif@example.com,4/7/2020,3,4/7/2023,4/7/2026,2,Female,12/10/1980,45,Egyptian,Masters,21278,12,Store Manager,Aswan,1005
+1021,Sohair,Sherif,Magdy,Sohair Sherif Magdy,20,1211971713,Sohair.Magdy@example.com,1/3/2020,3,1/3/2023,1/3/2026,2,Female,6/28/1981,44,Egyptian,Masters,12066,9,Senior Accountant,Head Office,1006
+1022,Nadia,Ziad,Mohamed,Nadia Ziad Mohamed,20,1264725809,Nadia.Mohamed@example.com,8/28/2015,3,8/28/2024,8/28/2027,4,Female,8/16/1971,54,Egyptian,Masters,11822,8,Senior Accountant,Head Office,1006
+1023,Dina,Morsy,Abdelhady,Dina Morsy Abdelhady,20,1150001853,Dina.Abdelhady@example.com,10/20/2018,3,10/20/2024,10/20/2027,3,Female,11/19/1974,51,Egyptian,Masters,13035,11,Senior Financial Analyst,Head Office,1007
+1024,Walaa,Hisham,Zakaria,Walaa Hisham Zakaria,20,1068471718,Walaa.Zakaria@example.com,6/22/2015,3,6/22/2024,6/22/2027,4,Female,4/20/1977,48,Egyptian,Masters,13960,10,Senior Financial Analyst,Head Office,1007
+1025,Hanan,Rami,Ali,Hanan Rami Ali,20,1277288904,Hanan.Ali@example.com,8/17/2017,3,8/17/2023,8/17/2026,3,Female,9/22/1973,52,Egyptian,Bachelor,13350,15,Assistant Manager,Cairo,1014
+1026,Gihan,Yehia,Rami,Gihan Yehia Rami,20,1014629889,Gihan.Rami@example.com,3/26/2020,3,3/26/2023,3/26/2026,2,Female,10/19/1984,41,Sudanese,Masters,10255,11,Assistant Manager,Cairo,1014
+1027,Rashed,Ashraf,Noureldin,Rashed Ashraf Noureldin,20,1061827094,Rashed.Noureldin@example.com,12/1/2021,3,12/1/2024,12/1/2027,2,Male,3/23/1972,53,Syrian,Bachelor,11419,15,Assistant Manager,Giza,1015
+1028,Farouk,Mohamed,Montasser,Farouk Mohamed Montasser,20,1102386888,Farouk.Montasser@example.com,3/21/2017,3,3/21/2023,3/21/2026,3,Male,2/6/1972,53,Egyptian,Bachelor,12675,9,Assistant Manager,Giza,1015
+1029,Rania,Abdelkader,Fouad,Rania Abdelkader Fouad,20,1099065177,Rania.Fouad@example.com,5/3/2018,3,5/3/2024,5/3/2027,3,Female,2/20/1985,40,Egyptian,Masters,11947,9,Assistant Manager,Alexandria,1016
+1030,Ehab,Yehia,Moataz,Ehab Yehia Moataz,20,1262517460,Ehab.Moataz@example.com,2/13/2018,3,2/13/2024,2/13/2027,3,Male,5/3/1988,37,Egyptian,Bachelor,11962,9,Assistant Manager,Alexandria,1016
+1031,Atef,Sayed,Magdy,Atef Sayed Magdy,20,1193489477,Atef.Magdy@example.com,7/2/2020,3,7/2/2023,7/2/2026,2,Male,4/13/1977,48,Egyptian,Bachelor,11788,14,Assistant Manager,Mansoura,1017
+1032,Bilal,Basel,Saber,Bilal Basel Saber,20,1282617166,Bilal.Saber@example.com,4/6/2018,3,4/6/2024,4/6/2027,3,Male,3/21/1971,54,Egyptian,Masters,12600,12,Assistant Manager,Mansoura,1017
+1033,Raouf,Abdelrahman,Sobhy,Raouf Abdelrahman Sobhy,20,1034309367,Raouf.Sobhy@example.com,5/20/2021,2,5/20/2023,5/20/2025,2,Male,9/2/1984,41,Egyptian,Bachelor,10894,10,Assistant Manager,Sharm El Sheikh,1018
+1034,Sahar,Reda,Fouad,Sahar Reda Fouad,20,1268772914,Sahar.Fouad@example.com,3/14/2020,2,3/14/2024,3/14/2026,3,Female,12/18/1979,46,Egyptian,Bachelor,11576,8,Assistant Manager,Sharm El Sheikh,1018
+1035,Ibrahim,Mansour,Karim,Ibrahim Mansour Karim,20,1128989336,Ibrahim.Karim@example.com,7/9/2018,2,7/9/2024,7/9/2026,4,Male,3/26/1981,44,Egyptian,Bachelor,12421,13,Assistant Manager,Luxor,1019
+1036,Hassan,Fares,Hatem,Hassan Fares Hatem,20,1107556519,Hassan.Hatem@example.com,5/23/2019,3,5/23/2022,5/23/2025,2,Male,6/1/1977,48,Egyptian,Masters,13484,12,Assistant Manager,Luxor,1019
+1037,Nasser,Basel,Abdelrahman,Nasser Basel Abdelrahman,20,1218777510,Nasser.Abdelrahman@example.com,12/30/2019,3,12/30/2022,12/30/2025,2,Male,12/18/1979,46,Egyptian,Bachelor,12376,14,Assistant Manager,Aswan,1020
+1038,Dalia,Noureldin,Qasem,Dalia Noureldin Qasem,20,1276799208,Dalia.Qasem@example.com,3/15/2015,2,3/15/2025,3/15/2027,6,Female,8/16/1980,45,Egyptian,Masters,13242,10,Assistant Manager,Aswan,1020
+1039,Samaa,Mostafa,Saeed,Samaa Mostafa Saeed,20,1035959222,Samaa.Saeed@example.com,6/1/2022,2,6/1/2024,6/1/2026,2,Female,7/14/1997,28,Egyptian,Diploma,6351,5,Cashier,Giza,1027
+1040,Abdelaziz,Essam,Farouk,Abdelaziz Essam Farouk,20,1079173670,Abdelaziz.Farouk@example.com,7/22/2022,1,7/22/2024,7/22/2025,3,Male,3/6/1982,43,Egyptian,Diploma,5825,5,Cashier,Cairo,1025
+1041,Dalia,Maged,Ehab,Dalia Maged Ehab,20,1027053064,Dalia.Ehab@example.com,6/23/2022,1,6/23/2024,6/23/2025,3,Female,10/15/1999,26,Egyptian,Diploma,7928,5,Customer Service,Luxor,1035
+1042,Sherif,Helmy,Moheb,Sherif Helmy Moheb,20,1054213656,Sherif.Moheb@example.com,7/12/2022,1,7/12/2024,7/12/2025,3,Male,6/22/1997,28,Egyptian,Bachelor,5045,6,Sales Associate,Sharm El Sheikh,1033
+1043,Abdelmonem,Sherif,Qasem,Abdelmonem Sherif Qasem,20,1298000457,Abdelmonem.Qasem@example.com,8/5/2022,1,8/5/2024,8/5/2025,3,Male,8/9/1996,29,Egyptian,Diploma,5792,8,Stock Keeper,Cairo,1025
+1044,Youssef,Morsy,Ismail,Youssef Morsy Ismail,20,1179967311,Youssef.Ismail@example.com,8/23/2023,2,8/23/2023,8/23/2025,1,Male,2/20/1983,42,Egyptian,Bachelor,5845,8,Cashier,Sharm El Sheikh,1034
+1045,Lina,Aref,Kamal,Lina Aref Kamal,20,1177349646,Lina.Kamal@example.com,9/22/2023,2,9/22/2023,9/22/2025,1,Female,5/6/1983,42,Egyptian,Diploma,5640,9,Sales Associate,Alexandria,1029
+1046,Hana,Nasr,Tawfik,Hana Nasr Tawfik,20,1206915995,Hana.Tawfik@example.com,10/5/2023,2,10/5/2023,10/5/2025,1,Female,2/22/1974,51,Sudanese,Diploma,5208,8,Cashier,Cairo,1025
+1047,Hana,Ramy,Nabil,Hana Ramy Nabil,20,1074086133,Hana.Nabil@example.com,10/29/2023,2,10/29/2023,10/29/2025,1,Female,6/1/1992,33,Egyptian,Bachelor,4227,5,Sales Associate,Mansoura,1031
+1048,Nisreen,Mahmoud,Moataz,Nisreen Mahmoud Moataz,20,1275050930,Nisreen.Moataz@example.com,11/11/2023,2,11/11/2023,11/11/2025,1,Female,1/21/1976,49,Egyptian,Bachelor,5545,10,Sales Associate,Aswan,1038
+1049,Dalia,Yehia,Helmy,Dalia Yehia Helmy,20,1048551343,Dalia.Helmy@example.com,12/8/2023,1,12/8/2024,12/8/2025,2,Female,9/9/1977,48,Egyptian,Diploma,5667,10,Sales Associate,Cairo,1025
+1050,Hana,Waheed,Fouad,Hana Waheed Fouad,20,1245808998,Hana.Fouad@example.com,12/29/2023,2,12/29/2023,12/29/2025,1,Female,11/7/1986,39,Egyptian,Diploma,6325,10,Cashier,Sharm El Sheikh,1033
+1051,Radwa,Ziad,Magdy,Radwa Ziad Magdy,20,1189867033,Radwa.Magdy@example.com,1/17/2024,2,1/17/2024,1/17/2026,1,Female,11/8/1995,30,Sudanese,Diploma,4516,6,Stock Keeper,Luxor,1035
+1052,Mostafa,Mamdouh,Sherif,Mostafa Mamdouh Sherif,20,1077166026,Mostafa.Sherif@example.com,2/16/2024,1,2/16/2025,2/16/2026,2,Male,4/20/1991,34,Egyptian,Bachelor,4179,6,Sales Associate,Sharm El Sheikh,1033
+1053,Rasha,Ibrahim,Fouad,Rasha Ibrahim Fouad,20,1277761671,Rasha.Fouad@example.com,3/9/2024,2,3/9/2024,3/9/2026,1,Female,7/25/1996,29,Sudanese,Bachelor,6119,6,Customer Service,Alexandria,1029
+1054,Helmy,Reda,Kamal,Helmy Reda Kamal,20,1190596131,Helmy.Kamal@example.com,4/6/2024,2,4/6/2024,4/6/2026,1,Male,6/21/1995,30,Egyptian,Bachelor,4166,8,Sales Associate,Aswan,1038
+1055,Heba,Fouad,Basel,Heba Fouad Basel,20,1228352125,Heba.Basel@example.com,4/20/2024,1,4/20/2024,4/20/2025,1,Female,9/22/1983,42,Egyptian,Diploma,5331,7,Cashier,Giza,1027
+1056,Shaimaa,Youssef,Khaled,Shaimaa Youssef Khaled,20,1198502268,Shaimaa.Khaled@example.com,5/3/2024,2,5/3/2024,5/3/2026,1,Female,4/4/1998,27,Egyptian,Diploma,6579,10,Cashier,Sharm El Sheikh,1034
+1057,Mansour,Safwat,Nasr,Mansour Safwat Nasr,20,1135396347,Mansour.Nasr@example.com,5/19/2024,2,5/19/2024,5/19/2026,1,Male,8/13/1976,49,Egyptian,Diploma,6672,8,Cashier,Aswan,1038
+1058,Sahar,Farouk,Yasser,Sahar Farouk Yasser,20,1046438685,Sahar.Yasser@example.com,6/8/2024,2,6/8/2024,6/8/2026,1,Female,1/18/1989,36,Egyptian,Bachelor,6448,7,Security,Sharm El Sheikh,1033
+1059,Rashed,Magdy,Saber,Rashed Magdy Saber,20,1041536570,Rashed.Saber@example.com,6/24/2024,2,6/24/2024,6/24/2026,1,Male,8/23/1976,49,Egyptian,Bachelor,6727,10,Customer Service,Sharm El Sheikh,1033
+1060,Wael,Rami,Omar,Wael Rami Omar,20,1004558404,Wael.Omar@example.com,7/22/2024,2,7/22/2024,7/22/2026,1,Male,10/1/1976,49,Egyptian,Diploma,6191,7,Customer Service,Mansoura,1032
+1061,Radwa,Soliman,Emad,Radwa Soliman Emad,20,1163018517,Radwa.Emad@example.com,8/7/2024,1,8/7/2024,8/7/2025,1,Female,4/20/1983,42,Egyptian,Diploma,6301,8,Security,Sharm El Sheikh,1033
+1062,Shaimaa,Emad,Yehia,Shaimaa Emad Yehia,20,1156926287,Shaimaa.Yehia@example.com,8/19/2024,2,8/19/2024,8/19/2026,1,Female,11/15/1987,38,Egyptian,Diploma,4424,8,Sales Associate,Alexandria,1029
+1063,Abdelhady,Bahaa,Ezzat,Abdelhady Bahaa Ezzat,20,1034507236,Abdelhady.Ezzat@example.com,9/2/2024,1,9/2/2024,9/2/2025,1,Male,7/3/1990,35,Egyptian,Bachelor,4702,6,Sales Associate,Alexandria,1029
+1064,Walaa,Islam,Hassan,Walaa Islam Hassan,20,1089536713,Walaa.Hassan@example.com,9/17/2024,2,9/17/2024,9/17/2026,1,Female,5/28/1977,48,Egyptian,Diploma,7075,10,Customer Service,Sharm El Sheikh,1033
+1065,Reham,Bahaa,Fady,Reham Bahaa Fady,20,1068148322,Reham.Fady@example.com,10/2/2024,2,10/2/2024,10/2/2026,1,Female,6/7/1980,45,Sudanese,Bachelor,4663,7,Sales Associate,Mansoura,1031
+1066,Sahar,Noureldin,Mounir,Sahar Noureldin Mounir,20,1066556070,Sahar.Mounir@example.com,10/29/2024,1,10/29/2024,10/29/2025,1,Female,4/25/1984,41,Egyptian,Bachelor,5779,9,Sales Associate,Alexandria,1029
+1067,Asmaa,Galal,Gamal,Asmaa Galal Gamal,20,1002656780,Asmaa.Gamal@example.com,11/28/2024,2,11/28/2024,11/28/2026,1,Female,5/3/1994,31,Egyptian,Bachelor,5389,7,Sales Associate,Mansoura,1031
+1068,Nesrine,Mounir,Tamer,Nesrine Mounir Tamer,20,1112669868,Nesrine.Tamer@example.com,12/17/2024,1,12/17/2024,12/17/2025,1,Female,4/26/1990,35,Egyptian,Bachelor,5937,7,Stock Keeper,Luxor,1035
+1069,Mansour,Bilal,Kamal,Mansour Bilal Kamal,20,1026787571,Mansour.Kamal@example.com,12/31/2024,2,12/31/2024,12/31/2026,1,Male,4/6/1992,33,Egyptian,Diploma,5554,10,Sales Associate,Luxor,1035
+1070,Qasem,Osama,Khalil,Qasem Osama Khalil,20,1041149710,Qasem.Khalil@example.com,1/15/2025,1,1/15/2025,1/15/2026,1,Male,11/2/1971,54,Egyptian,Bachelor,7601,9,Customer Service,Cairo,1025
+1071,Hoda,Saeed,Nasser,Hoda Saeed Nasser,20,1134415862,Hoda.Nasser@example.com,1/28/2025,2,1/28/2025,1/28/2027,1,Female,10/28/1970,55,Egyptian,Bachelor,6566,10,Customer Service,Giza,1027
+1072,Magda,Mahmoud,Morsy,Magda Mahmoud Morsy,20,1035934466,Magda.Morsy@example.com,2/10/2025,1,2/10/2025,2/10/2026,1,Female,5/8/1973,52,Egyptian,Bachelor,5927,7,Stock Keeper,Sharm El Sheikh,1033
+1073,Nahed,Soliman,Mahmoud,Nahed Soliman Mahmoud,20,1281428729,Nahed.Mahmoud@example.com,3/12/2025,1,3/12/2025,3/12/2026,1,Female,4/4/1986,39,Egyptian,Bachelor,4704,7,Sales Associate,Aswan,1038
+1074,Moataz,Hatem,Khaled,Moataz Hatem Khaled,20,1026643114,Moataz.Khaled@example.com,3/29/2015,2,3/29/2023,3/29/2025,5,Male,6/10/1967,58,Egyptian,Bachelor,5124,9,Sales Associate,Giza,1027
+1075,Helmy,Sameh,Ahmed,Helmy Sameh Ahmed,20,1194947913,Helmy.Ahmed@example.com,4/23/2018,2,4/23/2024,4/23/2026,4,Male,1/20/1995,30,Egyptian,Bachelor,5471,9,Sales Associate,Alexandria,1029
+1076,Montasser,Maged,Tawfik,Montasser Maged Tawfik,20,1081216713,Montasser.Tawfik@example.com,5/4/2021,2,5/4/2023,5/4/2025,2,Male,4/23/1972,53,Syrian,Bachelor,4894,6,Stock Keeper,Sharm El Sheikh,1033
+1077,Fatma,Kamal,Qasem,Fatma Kamal Qasem,20,1099974735,Fatma.Qasem@example.com,5/21/2016,1,5/21/2025,5/21/2026,9,Female,12/8/1988,37,Egyptian,Bachelor,6615,5,Security,Luxor,1036
+1078,Abdelrahman,Ramy,Saber,Abdelrahman Ramy Saber,20,1057910340,Abdelrahman.Saber@example.com,6/15/2015,1,6/15/2024,6/15/2025,10,Male,7/28/1999,26,Egyptian,Bachelor,4783,10,Sales Associate,Luxor,1035
+1079,Yehia,Qasem,Hassan,Yehia Qasem Hassan,20,1047739772,Yehia.Hassan@example.com,7/8/2019,1,7/8/2024,7/8/2025,6,Male,12/17/2001,24,Egyptian,Bachelor,5455,5,Stock Keeper,Aswan,1037
+1080,Nahed,Mounir,Wael,Nahed Mounir Wael,20,1163667577,Nahed.Wael@example.com,8/2/2020,2,8/2/2024,8/2/2026,3,Female,11/15/1979,46,Egyptian,Bachelor,7474,9,Customer Service,Luxor,1035
+1081,Islam,Hany,Rashed,Islam Hany Rashed,20,1117692176,Islam.Rashed@example.com,8/14/2016,1,8/14/2025,8/14/2026,9,Male,9/26/1985,40,Egyptian,Bachelor,5422,6,Cashier,Mansoura,1031
+1082,Anwar,Abdelhady,Wael,Anwar Abdelhady Wael,20,1075498632,Anwar.Wael@example.com,9/7/2018,1,9/7/2024,9/7/2025,7,Male,11/28/1988,37,Sudanese,Bachelor,6613,9,Customer Service,Giza,1027
+1083,Hany,Mohamed,Bahaa,Hany Mohamed Bahaa,20,1102605521,Hany.Bahaa@example.com,9/21/2016,2,9/21/2024,9/21/2026,5,Male,12/13/1973,52,Egyptian,Diploma,6718,5,Customer Service,Aswan,1037
+1084,Shaimaa,Abdelnasser,Khaled,Shaimaa Abdelnasser Khaled,20,1162333395,Shaimaa.Khaled@example.com,10/2/2019,1,10/2/2024,10/2/2025,6,Female,6/28/1990,35,Egyptian,Diploma,4984,5,Sales Associate,Luxor,1035
+1085,Ibrahim,Bilal,Shady,Ibrahim Bilal Shady,20,1146742690,Ibrahim.Shady@example.com,10/31/2020,2,10/31/2024,10/31/2026,3,Male,11/26/1977,48,Egyptian,Diploma,7022,5,Customer Service,Mansoura,1032
+1086,Basma,Montasser,Ezzat,Basma Montasser Ezzat,20,1122273363,Basma.Ezzat@example.com,11/19/2020,1,11/19/2024,11/19/2025,5,Female,1/26/1998,27,Egyptian,Bachelor,5821,5,Cashier,Cairo,1025
+1087,Rania,Farouk,Shady,Rania Farouk Shady,20,1095762141,Rania.Shady@example.com,12/7/2018,2,12/7/2024,12/7/2026,4,Female,12/3/1976,49,Sudanese,Diploma,5573,5,Security,Cairo,1025
+1088,Aref,Ehab,Ashraf,Aref Ehab Ashraf,20,1123562839,Aref.Ashraf@example.com,12/17/2019,1,12/17/2024,12/17/2025,6,Male,12/21/1997,28,Egyptian,Bachelor,5857,8,Sales Associate,Sharm El Sheikh,1033
+1089,Hend,Bilal,Abdelsalam,Hend Bilal Abdelsalam,20,1280041765,Hend.Abdelsalam@example.com,12/29/2016,2,12/29/2024,12/29/2026,5,Female,10/28/1994,31,Egyptian,Bachelor,6632,7,Cashier,Alexandria,1029
+1090,Sara,Omar,Yehia,Sara Omar Yehia,20,1066090254,Sara.Yehia@example.com,1/24/2021,1,1/24/2025,1/24/2026,5,Female,9/6/1992,33,Egyptian,Bachelor,4948,10,Sales Associate,Aswan,1038
+1091,Aya,Ashraf,Bahaa,Aya Ashraf Bahaa,20,1223420700,Aya.Bahaa@example.com,2/14/2019,2,2/14/2025,2/14/2027,4,Female,7/25/1997,28,Egyptian,Bachelor,5913,7,Sales Associate,Sharm El Sheikh,1033
+1092,Amal,Raouf,Atef,Amal Raouf Atef,20,1229287619,Amal.Atef@example.com,3/1/2018,2,3/1/2024,3/1/2026,4,Female,10/25/1977,48,Egyptian,Bachelor,5650,10,Sales Associate,Cairo,1025
+1093,Heba,Yasser,Safwat,Heba Yasser Safwat,20,1286256845,Heba.Safwat@example.com,3/11/2020,1,3/11/2025,3/11/2026,6,Female,1/8/1968,57,Egyptian,Undergraduate,6061,10,Customer Service,Cairo,1025
+1094,Nahed,Tawfik,Hossni,Nahed Tawfik Hossni,20,1284085180,Nahed.Hossni@example.com,4/7/2021,2,4/7/2023,4/7/2025,2,Female,5/23/2001,24,Egyptian,Bachelor,5702,5,Stock Keeper,Luxor,1035
+1095,Nadia,Nasr,Fares,Nadia Nasr Fares,20,1025830094,Nadia.Fares@example.com,5/28/2019,2,5/28/2023,5/28/2025,3,Female,11/5/1987,38,Egyptian,Diploma,5856,6,Cashier,Aswan,1038
+1096,Sara,Hatem,Mansour,Sara Hatem Mansour,20,1173982084,Sara.Mansour@example.com,6/13/2017,1,6/13/2024,6/13/2025,8,Female,9/3/1999,26,Egyptian,Diploma,5181,6,Sales Associate,Mansoura,1032
+1097,Soliman,Abdelkader,Hisham,Soliman Abdelkader Hisham,20,1069212015,Soliman.Hisham@example.com,7/11/2021,2,7/11/2023,7/11/2025,2,Male,8/24/1977,48,Egyptian,Diploma,4836,8,Sales Associate,Luxor,1035
+1098,Kamal,Osama,Safwat,Kamal Osama Safwat,20,1105062117,Kamal.Safwat@example.com,8/8/2021,1,8/8/2024,8/8/2025,4,Male,1/5/1974,51,Egyptian,Bachelor,5637,6,Sales Associate,Cairo,1025
+1099,Nour,Abdelhady,Mamdouh,Nour Abdelhady Mamdouh,20,1081281815,Nour.Mamdouh@example.com,9/5/2020,2,9/5/2024,9/5/2026,3,Female,10/22/1997,28,Egyptian,Diploma,7464,9,Customer Service,Mansoura,1031
+1100,Yasmin,Atef,Abdelhady,Yasmin Atef Abdelhady,20,1177955704,Yasmin.Abdelhady@example.com,9/30/2019,1,9/30/2024,9/30/2025,6,Female,12/20/1985,40,Egyptian,Diploma,5743,9,Sales Associate,Cairo,1025
+1101,Fares,Safwat,Ibrahim,Fares Safwat Ibrahim,20,1215675327,Fares.Ibrahim@example.com,10/24/2017,1,10/24/2024,10/24/2025,8,Male,8/20/1990,35,Sudanese,Bachelor,4541,9,Sales Associate,Sharm El Sheikh,1033
+1102,Diaa,Ali,Ziad,Diaa Ali Ziad,20,1168179605,Diaa.Ziad@example.com,11/10/2020,1,11/10/2024,11/10/2025,5,Male,9/17/1998,27,Egyptian,Bachelor,6247,5,Cashier,Alexandria,1029
+1103,Salma,Mahmoud,Mohamed,Salma Mahmoud Mohamed,20,1175254773,Salma.Mohamed@example.com,12/1/2019,2,12/1/2023,12/1/2025,3,Female,2/2/1994,31,Egyptian,Bachelor,5639,8,Sales Associate,Sharm El Sheikh,1033
+1104,Mansour,Wael,Nasr,Mansour Wael Nasr,20,1224135795,Mansour.Nasr@example.com,12/29/2017,1,12/29/2024,12/29/2025,8,Male,4/19/1978,47,Sudanese,Bachelor,4987,7,Stock Keeper,Giza,1027
+1105,Maged,Nasser,Gamal,Maged Nasser Gamal,20,1266933358,Maged.Gamal@example.com,1/21/2018,2,1/21/2024,1/21/2026,4,Male,7/1/1975,50,Egyptian,Bachelor,5057,7,Stock Keeper,Aswan,1037
+1106,Soliman,Abdelsalam,Sherif,Soliman Abdelsalam Sherif,20,1254265232,Soliman.Sherif@example.com,2/19/2020,1,2/19/2025,2/19/2026,6,Male,11/27/1994,31,Egyptian,Diploma,7266,7,Customer Service,Aswan,1037
+1107,Nahed,Nasser,Osama,Nahed Nasser Osama,20,1053118929,Nahed.Osama@example.com,4/2/2016,1,4/2/2025,4/2/2026,9,Female,10/23/1967,58,Egyptian,Bachelor,7033,10,Customer Service,Sharm El Sheikh,1033
+1108,Hatem,Bahaa,Waheed,Hatem Bahaa Waheed,20,1046339400,Hatem.Waheed@example.com,4/13/2018,2,4/13/2024,4/13/2026,4,Male,3/1/1997,28,Egyptian,Bachelor,4455,7,Sales Associate,Giza,1027
+1109,Abdelatif,Rashed,Emad,Abdelatif Rashed Emad,20,1104154846,Abdelatif.Emad@example.com,4/30/2020,2,4/30/2024,4/30/2026,3,Male,6/1/1982,43,Egyptian,Diploma,6450,5,Security,Sharm El Sheikh,1033
+1110,Walaa,Essam,Abdelatif,Walaa Essam Abdelatif,20,1155917593,Walaa.Abdelatif@example.com,5/27/2020,1,5/27/2024,5/27/2025,5,Female,9/20/1986,39,Egyptian,Diploma,5891,5,Sales Associate,Giza,1027
+1111,Mariam,Khaled,Adel,Mariam Khaled Adel,20,1126380614,Mariam.Adel@example.com,6/11/2016,2,6/11/2024,6/11/2026,5,Female,9/21/1978,47,Egyptian,Diploma,4326,6,Sales Associate,Mansoura,1032
+1112,Amal,Bassem,Zakaria,Amal Bassem Zakaria,20,1099980619,Amal.Zakaria@example.com,6/30/2020,1,6/30/2024,6/30/2025,5,Female,4/16/1974,51,Egyptian,Diploma,6282,8,Cashier,Giza,1027
+1113,Yasmin,Nasser,Adel,Yasmin Nasser Adel,20,1252740413,Yasmin.Adel@example.com,7/13/2021,1,7/13/2024,7/13/2025,4,Female,3/15/1973,52,Egyptian,Diploma,6082,9,Cashier,Mansoura,1031
+1114,Ayman,Morsy,Raouf,Ayman Morsy Raouf,20,1021546066,Ayman.Raouf@example.com,7/24/2020,2,7/24/2024,7/24/2026,3,Male,11/10/1980,45,Egyptian,Bachelor,5202,6,Sales Associate,Mansoura,1032
+1115,Laila,Mahmoud,Ziad,Laila Mahmoud Ziad,20,1091791665,Laila.Ziad@example.com,8/13/2019,2,8/13/2023,8/13/2025,3,Female,6/10/1975,50,Egyptian,Bachelor,7307,8,Customer Service,Sharm El Sheikh,1033
+1116,Dalia,Maged,Aref,Dalia Maged Aref,20,1187217349,Dalia.Aref@example.com,9/8/2016,1,9/8/2025,9/8/2026,9,Female,3/28/1978,47,Egyptian,Bachelor,4645,6,Sales Associate,Giza,1027
+1117,Osama,Abdelsalam,Ahmed,Osama Abdelsalam Ahmed,20,1185712593,Osama.Ahmed@example.com,10/5/2020,2,10/5/2024,10/5/2026,3,Male,10/17/1999,26,Egyptian,Bachelor,6090,9,Junior Accountant,Head Office,1021
+1118,Khalil,Mahmoud,Karim,Khalil Mahmoud Karim,20,1076195271,Khalil.Karim@example.com,10/15/2021,2,10/15/2023,10/15/2025,2,Male,12/3/1974,51,Sudanese,Diploma,5158,8,Sales Associate,Alexandria,1030
+1119,Noureldin,Nasser,Shady,Noureldin Nasser Shady,20,1294299098,Noureldin.Shady@example.com,11/6/2019,2,11/6/2023,11/6/2025,3,Male,9/4/1977,48,Egyptian,Bachelor,5041,5,Sales Associate,Alexandria,1030
+1120,Reham,Moataz,Yasser,Reham Moataz Yasser,20,1019423220,Reham.Yasser@example.com,12/6/2016,1,12/6/2025,12/6/2026,9,Female,9/17/1977,48,Egyptian,Bachelor,6950,9,Customer Service,Cairo,1026
+1121,Mona,Essam,Soliman,Mona Essam Soliman,20,1275349238,Mona.Soliman@example.com,12/25/2017,2,12/25/2023,12/25/2025,4,Female,3/28/1972,53,Sudanese,Diploma,6337,6,Customer Service,Cairo,1026
+1122,Nesrine,Ali,Sayed,Nesrine Ali Sayed,20,1246568369,Nesrine.Sayed@example.com,1/4/2020,2,1/4/2024,1/4/2026,3,Female,3/20/1999,26,Egyptian,Bachelor,6650,8,Junior Accountant,Head Office,1021
+1123,Radwa,Moheb,Ezzat,Radwa Moheb Ezzat,20,1074356437,Radwa.Ezzat@example.com,2/3/2015,2,2/3/2025,2/3/2027,6,Female,7/9/1970,55,Egyptian,Diploma,6795,5,Security,Alexandria,1030
+1124,Nehal,Helmy,Saeed,Nehal Helmy Saeed,20,1281267376,Nehal.Saeed@example.com,2/13/2016,1,2/13/2025,2/13/2026,10,Female,4/7/1999,26,Egyptian,Diploma,4020,8,Sales Associate,Alexandria,1030
+1125,Noureldin,Hossni,Helmy,Noureldin Hossni Helmy,20,1075640788,Noureldin.Helmy@example.com,3/13/2017,1,3/13/2026,3/13/2027,9,Male,7/16/1970,55,Egyptian,Diploma,5062,9,Sales Associate,Alexandria,1030
+1126,Radwa,Shady,Hussein,Radwa Shady Hussein,20,1280997356,Radwa.Hussein@example.com,4/10/2017,1,4/10/2024,4/10/2025,8,Female,6/24/1992,33,Egyptian,Bachelor,6188,5,Stock Keeper,Cairo,1026
+1127,Tarek,Abdelkader,Aref,Tarek Abdelkader Aref,20,1083885713,Tarek.Aref@example.com,5/10/2021,2,5/10/2023,5/10/2025,2,Male,4/14/1980,45,Egyptian,Diploma,5238,5,Sales Associate,Alexandria,1030
+1128,Fatma,Hassan,Montasser,Fatma Hassan Montasser,20,1051937514,Fatma.Montasser@example.com,5/23/2019,2,5/23/2023,5/23/2025,3,Female,11/28/1985,40,Egyptian,Bachelor,5414,5,Sales Associate,Alexandria,1030
+1129,Samira,Atef,Basel,Samira Atef Basel,20,1047517669,Samira.Basel@example.com,6/5/2021,2,6/5/2023,6/5/2025,2,Female,11/28/1998,27,Egyptian,Bachelor,4621,9,Sales Associate,Aswan,1038
+1130,Safwat,Ibrahim,Abdelaziz,Safwat Ibrahim Abdelaziz,20,1143463110,Safwat.Abdelaziz@example.com,6/17/2016,2,6/17/2024,6/17/2026,5,Male,10/6/1998,27,Egyptian,Bachelor,7539,7,Junior Accountant,Head Office,1021
+1131,Hoda,Noureldin,Kamal,Hoda Noureldin Kamal,20,1167869574,Hoda.Kamal@example.com,7/8/2020,1,7/8/2024,7/8/2025,5,Female,10/3/1976,49,Egyptian,Bachelor,6238,9,Cashier,Alexandria,1029
+1132,Hanan,Sherif,Montasser,Hanan Sherif Montasser,20,1036307858,Hanan.Montasser@example.com,7/30/2019,1,7/30/2024,7/30/2025,6,Female,1/2/1990,35,Egyptian,Bachelor,5974,5,Stock Keeper,Cairo,1026
+1133,Adel,Soliman,Basel,Adel Soliman Basel,20,1180804124,Adel.Basel@example.com,8/11/2017,2,8/11/2023,8/11/2025,4,Male,1/1/1984,41,Egyptian,Bachelor,5795,9,Sales Associate,Cairo,1026
+1134,Omar,Abdelnasser,Tamer,Omar Abdelnasser Tamer,20,1128377899,Omar.Tamer@example.com,8/21/2018,2,8/21/2024,8/21/2026,4,Male,9/20/2001,24,Sudanese,Undergraduate,6218,9,Cashier,Sharm El Sheikh,1033
+1135,Magda,Raouf,Basel,Magda Raouf Basel,20,1288546717,Magda.Basel@example.com,9/1/2016,1,9/1/2025,9/1/2026,9,Female,1/10/1980,45,Syrian,Bachelor,6052,6,Cashier,Aswan,1037
+1136,Hend,Hassan,Nasr,Hend Hassan Nasr,20,1122166381,Hend.Nasr@example.com,9/30/2017,1,9/30/2024,9/30/2025,8,Female,2/5/1998,27,Egyptian,Diploma,7172,9,Customer Service,Cairo,1026
+1137,Aya,Mamdouh,Khalil,Aya Mamdouh Khalil,20,1272676922,Aya.Khalil@example.com,10/11/2018,2,10/11/2024,10/11/2026,4,Female,9/26/1969,56,Egyptian,Diploma,6676,5,Security,Aswan,1038
+1138,Omar,Emad,Tamer,Omar Emad Tamer,20,1268341006,Omar.Tamer@example.com,10/29/2018,2,10/29/2024,10/29/2026,4,Male,9/21/1981,44,Egyptian,Diploma,4511,5,Stock Keeper,Cairo,1026
+1139,Inas,Lotfy,Mohamed,Inas Lotfy Mohamed,20,1245545078,Inas.Mohamed@example.com,11/16/2016,2,11/16/2024,11/16/2026,5,Female,4/17/1989,36,Egyptian,Diploma,7900,7,Customer Service,Giza,1028
+1140,Ghada,Ismail,Shady,Ghada Ismail Shady,20,1155392540,Ghada.Shady@example.com,12/9/2017,2,12/9/2023,12/9/2025,4,Female,12/14/1979,46,Syrian,Bachelor,5787,7,Cashier,Giza,1028
+1141,Yasser,Yasser,Ziad,Yasser Yasser Ziad,20,1297494094,Yasser.Ziad@example.com,12/26/2015,1,12/26/2024,12/26/2025,10,Male,3/18/1985,40,Egyptian,Bachelor,5616,8,Cashier,Aswan,1037
+1142,Sohair,Abdelrahman,Fady,Sohair Abdelrahman Fady,20,1018646201,Sohair.Fady@example.com,1/6/2019,1,1/6/2025,1/6/2026,7,Female,2/28/1974,51,Egyptian,Diploma,6079,9,Cashier,Cairo,1025
+1143,Iman,Nasr,Nasr,Iman Nasr Nasr,20,1049098209,Iman.Nasr@example.com,1/29/2021,2,1/29/2025,1/29/2027,3,Female,12/3/1990,35,Egyptian,Bachelor,5227,8,Cashier,Cairo,1025
+1144,Nadia,Mahmoud,Fares,Nadia Mahmoud Fares,20,1273033530,Nadia.Fares@example.com,2/10/2018,1,2/10/2025,2/10/2026,8,Female,1/17/2001,24,Egyptian,Bachelor,4898,3,Accountant Trainee,Head Office,1021
+1145,Abdelkader,Omar,Moataz,Abdelkader Omar Moataz,20,1005762745,Abdelkader.Moataz@example.com,3/11/2015,1,3/11/2024,3/11/2025,10,Male,11/1/1976,49,Egyptian,Bachelor,5150,5,Cashier,Aswan,1037
+1146,Fatma,Abdelnasser,Moheb,Fatma Abdelnasser Moheb,20,1192905791,Fatma.Moheb@example.com,4/13/2021,2,4/13/2023,4/13/2025,2,Female,10/26/1978,47,Sudanese,Bachelor,5900,7,Stock Keeper,Cairo,1026
+1147,Nahed,Tarek,Moheb,Nahed Tarek Moheb,20,1090322958,Nahed.Moheb@example.com,5/10/2020,2,5/10/2024,5/10/2026,3,Female,9/15/1967,58,Egyptian,Bachelor,6341,8,Security,Cairo,1026
+1148,Fatma,Sameh,Yehia,Fatma Sameh Yehia,20,1166443846,Fatma.Yehia@example.com,6/2/2018,1,6/2/2024,6/2/2025,7,Female,5/11/1999,26,Egyptian,Diploma,6727,8,Security,Cairo,1026
+1149,Reda,Khaled,Galal,Reda Khaled Galal,20,1228705940,Reda.Galal@example.com,6/12/2021,1,6/12/2024,6/12/2025,4,Male,3/7/1999,26,Egyptian,Bachelor,6470,5,Cashier,Aswan,1037
+1150,Diaa,Tarek,Osama,Diaa Tarek Osama,20,1087578404,Diaa.Osama@example.com,6/30/2018,1,6/30/2024,6/30/2025,7,Male,10/20/1977,48,Egyptian,Bachelor,5562,6,Sales Associate,Cairo,1026
+1151,Hisham,Essam,Abdelatif,Hisham Essam Abdelatif,20,1070058697,Hisham.Abdelatif@example.com,7/13/2018,2,7/13/2024,7/13/2026,4,Male,9/7/2002,23,Egyptian,Bachelor,5883,6,Sales Associate,Cairo,1026
+1152,Hossni,Montasser,Soliman,Hossni Montasser Soliman,20,1090307435,Hossni.Soliman@example.com,8/1/2018,1,8/1/2024,8/1/2025,7,Male,7/7/1974,51,Egyptian,Diploma,5466,9,Sales Associate,Cairo,1026
+1153,Sara,Rami,Mostafa,Sara Rami Mostafa,20,1270985056,Sara.Mostafa@example.com,8/24/2015,1,8/24/2024,8/24/2025,10,Female,1/10/1969,56,Egyptian,Bachelor,4878,6,Stock Keeper,Cairo,1026
+1154,Nahed,Magdy,Abdelmonem,Nahed Magdy Abdelmonem,20,1217256425,Nahed.Abdelmonem@example.com,9/21/2015,2,9/21/2023,9/21/2025,5,Female,11/15/1969,56,Egyptian,Bachelor,5210,6,Sales Associate,Cairo,1026
+1155,Abdelhady,Ziad,Islam,Abdelhady Ziad Islam,20,1120789543,Abdelhady.Islam@example.com,10/13/2020,2,10/13/2024,10/13/2026,3,Male,9/3/1968,57,Sudanese,Diploma,6771,5,Cashier,Cairo,1025
+1156,Mona,Wael,Bahaa,Mona Wael Bahaa,20,1101941365,Mona.Bahaa@example.com,11/1/2019,2,11/1/2023,11/1/2025,3,Female,8/5/1996,29,Egyptian,Diploma,5236,8,Cashier,Giza,1027
+1157,Rasha,Hossni,Soliman,Rasha Hossni Soliman,20,1160810275,Rasha.Soliman@example.com,11/28/2015,1,11/28/2024,11/28/2025,10,Female,5/3/1985,40,Egyptian,Bachelor,4860,9,Sales Associate,Giza,1028
+1158,Nisreen,Abdelsalam,Abdelrahman,Nisreen Abdelsalam Abdelrahman,20,1240624630,Nisreen.Abdelrahman@example.com,12/17/2017,2,12/17/2023,12/17/2025,4,Female,2/5/1983,42,Egyptian,Bachelor,6006,7,Stock Keeper,Cairo,1026
+1159,Hend,Ramy,Abdelnasser,Hend Ramy Abdelnasser,20,1007379510,Hend.Abdelnasser@example.com,1/8/2020,2,1/8/2024,1/8/2026,3,Female,5/12/1998,27,Sudanese,Bachelor,6227,6,Customer Service,Giza,1028
+1160,Ramy,Zakaria,Hussein,Ramy Zakaria Hussein,20,1091455203,Ramy.Hussein@example.com,1/24/2021,1,1/24/2025,1/24/2026,5,Male,10/24/1979,46,Egyptian,Bachelor,4635,7,Sales Associate,Giza,1028
+1161,Basma,Shady,Abdelsalam,Basma Shady Abdelsalam,20,1049742421,Basma.Abdelsalam@example.com,2/16/2018,2,2/16/2024,2/16/2026,4,Female,9/1/1980,45,Syrian,Diploma,5416,7,Cashier,Sharm El Sheikh,1033
+1162,Nasr,Mahmoud,Soliman,Nasr Mahmoud Soliman,20,1036866791,Nasr.Soliman@example.com,3/2/2018,2,3/2/2024,3/2/2026,4,Male,2/25/1986,39,Egyptian,Bachelor,4315,8,Sales Associate,Giza,1028
+1163,Nisreen,Anwar,Saeed,Nisreen Anwar Saeed,20,1113064990,Nisreen.Saeed@example.com,3/31/2018,1,3/31/2024,3/31/2025,7,Female,5/13/1974,51,Sudanese,Diploma,6361,8,Security,Cairo,1026
+1164,Mohamed,Emad,Basel,Mohamed Emad Basel,20,1264175530,Mohamed.Basel@example.com,4/24/2020,2,4/24/2024,4/24/2026,3,Male,10/16/1973,52,Egyptian,Diploma,5924,5,Security,Cairo,1026
+1165,Ibrahim,Mamdouh,Fady,Ibrahim Mamdouh Fady,20,1025075993,Ibrahim.Fady@example.com,5/6/2017,2,5/6/2023,5/6/2025,4,Male,8/7/1972,53,Egyptian,Diploma,5095,9,Cashier,Giza,1028
+1166,Eman,Abdelsalam,Reda,Eman Abdelsalam Reda,20,1294018842,Eman.Reda@example.com,5/20/2020,2,5/20/2024,5/20/2026,3,Female,2/10/1977,48,Egyptian,Bachelor,5233,5,Cashier,Giza,1028
+1167,Omar,Ahmed,Safwat,Omar Ahmed Safwat,20,1181438200,Omar.Safwat@example.com,5/30/2017,2,5/30/2023,5/30/2025,4,Male,2/28/2001,24,Syrian,Diploma,6045,6,Stock Keeper,Cairo,1026
+1168,Iman,Tarek,Tamer,Iman Tarek Tamer,20,1198186092,Iman.Tamer@example.com,6/17/2016,2,6/17/2024,6/17/2026,5,Female,11/26/1980,45,Egyptian,Diploma,4629,5,Sales Associate,Giza,1028
+1169,Sherine,Helmy,Moheb,Sherine Helmy Moheb,20,1038792286,Sherine.Moheb@example.com,7/2/2016,1,7/2/2025,7/2/2026,9,Female,6/2/2002,23,Egyptian,Bachelor,6128,7,Stock Keeper,Cairo,1026
+1170,Yasmin,Tamer,Hossam,Yasmin Tamer Hossam,20,1078344681,Yasmin.Hossam@example.com,7/16/2020,2,7/16/2024,7/16/2026,3,Female,3/3/1979,46,Syrian,Diploma,6069,5,Security,Cairo,1026
+1171,Nesrine,Bassem,Magdy,Nesrine Bassem Magdy,20,1173000652,Nesrine.Magdy@example.com,8/3/2016,1,8/3/2025,8/3/2026,9,Female,12/12/1980,45,Egyptian,Diploma,5681,9,Cashier,Cairo,1025
+1172,Magdy,Galal,Hassan,Magdy Galal Hassan,20,1032165010,Magdy.Hassan@example.com,8/31/2015,1,8/31/2024,8/31/2025,10,Male,1/14/1979,46,Egyptian,Bachelor,5137,7,Stock Keeper,Cairo,1026
+1173,Atef,Amr,Hisham,Atef Amr Hisham,20,1081927623,Atef.Hisham@example.com,9/17/2018,1,9/17/2024,9/17/2025,7,Male,11/19/1983,42,Egyptian,Bachelor,4819,8,Sales Associate,Giza,1028
+1174,Dalia,Ziad,Galal,Dalia Ziad Galal,20,1260282848,Dalia.Galal@example.com,10/16/2020,2,10/16/2024,10/16/2026,3,Female,5/1/1983,42,Egyptian,Bachelor,4184,5,Sales Associate,Giza,1028
+1175,Hussein,Mostafa,Kamal,Hussein Mostafa Kamal,20,1272357671,Hussein.Kamal@example.com,11/6/2021,2,11/6/2023,11/6/2025,2,Male,2/14/1971,54,Egyptian,Bachelor,4592,5,Stock Keeper,Cairo,1026
+1176,Lina,Hisham,Ismail,Lina Hisham Ismail,20,1019355181,Lina.Ismail@example.com,12/27/2017,2,12/27/2023,12/27/2025,4,Female,3/27/2001,24,Egyptian,Bachelor,5265,5,Cashier,Cairo,1025
+1177,Fares,Gamal,Galal,Fares Gamal Galal,20,1101653879,Fares.Galal@example.com,1/10/2015,2,1/10/2025,1/10/2027,6,Male,7/21/1973,52,Egyptian,Diploma,7327,9,Customer Service,Giza,1028
+1178,Yasser,Omar,Moheb,Yasser Omar Moheb,20,1226372281,Yasser.Moheb@example.com,1/28/2019,1,1/28/2025,1/28/2026,7,Male,11/14/1998,27,Egyptian,Bachelor,5852,6,Sales Associate,Giza,1028
+1179,Emad,Fady,Mamdouh,Emad Fady Mamdouh,20,1145736205,Emad.Mamdouh@example.com,2/10/2017,2,2/10/2025,2/10/2027,5,Male,9/17/1975,50,Egyptian,Masters,6784,7,Customer Service,Giza,1028
+1180,Amal,Sayed,Fady,Amal Sayed Fady,20,1011917176,Amal.Fady@example.com,3/1/2018,1,3/1/2025,3/1/2026,8,Female,8/12/1982,43,Egyptian,Bachelor,5453,8,Cashier,Giza,1028
+1181,Hana,Magdy,Moheb,Hana Magdy Moheb,20,1254718858,Hana.Moheb@example.com,3/16/2016,2,3/16/2024,3/16/2026,5,Female,7/11/1975,50,Egyptian,Undergraduate,5612,10,Cashier,Giza,1027
+1182,Shaimaa,Ali,Abdelhady,Shaimaa Ali Abdelhady,20,1033844042,Shaimaa.Abdelhady@example.com,4/4/2021,1,4/4/2024,4/4/2025,4,Female,8/4/1985,40,Egyptian,Bachelor,5201,7,Stock Keeper,Cairo,1026
+1183,Marwa,Tawfik,Farouk,Marwa Tawfik Farouk,20,1192225498,Marwa.Farouk@example.com,5/1/2015,2,5/1/2023,5/1/2025,5,Female,8/24/1994,31,Egyptian,Diploma,5261,5,Cashier,Aswan,1037
+1184,Abdelatif,Wael,Hossam,Abdelatif Wael Hossam,20,1036785345,Abdelatif.Hossam@example.com,5/28/2016,1,5/28/2025,5/28/2026,9,Male,1/25/1999,26,Sudanese,Bachelor,5889,8,Stock Keeper,Cairo,1026
+1185,Nasr,Abdelnasser,Lotfy,Nasr Abdelnasser Lotfy,20,1201444060,Nasr.Lotfy@example.com,6/19/2015,2,6/19/2023,6/19/2025,5,Male,10/24/1983,42,Egyptian,Diploma,7057,7,Customer Service,Giza,1028
+1186,Basel,Amr,Tarek,Basel Amr Tarek,20,1044981705,Basel.Tarek@example.com,6/29/2021,2,6/29/2023,6/29/2025,2,Male,4/20/1997,28,Egyptian,Bachelor,5843,7,Sales Associate,Giza,1028
+1187,Hend,Qasem,Ahmed,Hend Qasem Ahmed,20,1236918402,Hend.Ahmed@example.com,7/22/2021,2,7/22/2023,7/22/2025,2,Female,2/6/1986,39,Syrian,Bachelor,5993,5,Sales Associate,Giza,1028
+1188,Sohair,Saeed,Soliman,Sohair Saeed Soliman,20,1051528739,Sohair.Soliman@example.com,8/6/2017,2,8/6/2023,8/6/2025,4,Female,2/9/1979,46,Egyptian,Bachelor,5515,7,Stock Keeper,Cairo,1026
+1189,Nour,Zakaria,Hassan,Nour Zakaria Hassan,20,1221589357,Nour.Hassan@example.com,9/3/2016,2,9/3/2024,9/3/2026,5,Female,8/15/1994,31,Egyptian,Bachelor,6205,6,Stock Keeper,Cairo,1026
+1190,Yasmin,Fouad,Montasser,Yasmin Fouad Montasser,20,1040354147,Yasmin.Montasser@example.com,9/23/2020,2,9/23/2024,9/23/2026,3,Female,4/23/1981,44,Egyptian,Diploma,4927,7,Sales Associate,Sharm El Sheikh,1034
+1191,Emad,Osama,Ezzat,Emad Osama Ezzat,20,1047975510,Emad.Ezzat@example.com,10/3/2015,1,10/3/2024,10/3/2025,10,Male,3/27/1967,58,Egyptian,Bachelor,4752,6,Sales Associate,Sharm El Sheikh,1034
+1192,Samira,Qasem,Nasser,Samira Qasem Nasser,20,1196653681,Samira.Nasser@example.com,10/28/2021,2,10/28/2023,10/28/2025,2,Female,1/2/1973,52,Egyptian,Bachelor,6879,6,Cashier,Sharm El Sheikh,1033
+1193,Hoda,Adel,Moheb,Hoda Adel Moheb,20,1040528016,Hoda.Moheb@example.com,11/11/2017,1,11/11/2024,11/11/2025,8,Female,4/21/1982,43,Egyptian,Undergraduate,6582,6,Customer Service,Giza,1028
+1194,Nour,Mamdouh,Hisham,Nour Mamdouh Hisham,20,1163832450,Nour.Hisham@example.com,11/27/2020,2,11/27/2024,11/27/2026,3,Female,6/27/1974,51,Egyptian,Diploma,5394,5,Security,Cairo,1026
+1195,Bahaa,Gamal,Qasem,Bahaa Gamal Qasem,20,1178987489,Bahaa.Qasem@example.com,12/8/2020,1,12/8/2024,12/8/2025,5,Male,9/9/2000,25,Syrian,Diploma,6198,5,Stock Keeper,Cairo,1026
+1196,Eman,Bahaa,Sameh,Eman Bahaa Sameh,20,1224768523,Eman.Sameh@example.com,1/18/2016,1,1/18/2025,1/18/2026,10,Female,7/11/2002,23,Egyptian,Diploma,7940,6,Customer Service,Alexandria,1030
+1197,Essam,Abdelatif,Farouk,Essam Abdelatif Farouk,20,1038300655,Essam.Farouk@example.com,2/2/2016,2,2/2/2024,2/2/2026,5,Male,11/10/1981,44,Egyptian,Diploma,5598,10,Sales Associate,Cairo,1026
+1198,Lobna,Gamal,Khalil,Lobna Gamal Khalil,20,1213886266,Lobna.Khalil@example.com,2/19/2021,2,2/19/2025,2/19/2027,3,Female,10/8/1981,44,Egyptian,Bachelor,6412,6,Security,Cairo,1026
+1199,Sherine,Fady,Abdelaziz,Sherine Fady Abdelaziz,20,1271592435,Sherine.Abdelaziz@example.com,3/11/2015,1,3/11/2024,3/11/2025,10,Female,10/18/1968,57,Egyptian,Bachelor,4565,7,Stock Keeper,Cairo,1026
+1200,Asmaa,Reda,Nasser,Asmaa Reda Nasser,20,1162145487,Asmaa.Nasser@example.com,4/3/2019,1,4/3/2024,4/3/2025,6,Female,1/13/1986,39,Egyptian,Bachelor,5173,5,Cashier,Giza,1027
+1201,Atef,Galal,Ibrahim,Atef Galal Ibrahim,20,1148470052,Atef.Ibrahim@example.com,4/22/2015,2,4/22/2023,4/22/2025,5,Male,5/21/1978,47,Egyptian,Undergraduate,5572,7,Cashier,Cairo,1025
+1202,Reham,Osama,Hossni,Reham Osama Hossni,20,1253401443,Reham.Hossni@example.com,5/22/2016,2,5/22/2024,5/22/2026,5,Female,8/15/1987,38,Egyptian,Bachelor,4511,8,Sales Associate,Alexandria,1030
+1203,Nisreen,Bahaa,Anwar,Nisreen Bahaa Anwar,20,1055948577,Nisreen.Anwar@example.com,6/3/2019,1,6/3/2024,6/3/2025,6,Female,1/17/2002,23,Egyptian,Diploma,5969,9,Cashier,Cairo,1025
+1204,Ghada,Khalil,Safwat,Ghada Khalil Safwat,20,1158916116,Ghada.Safwat@example.com,7/3/2021,1,7/3/2024,7/3/2025,4,Female,3/2/1995,30,Egyptian,Diploma,5522,9,Cashier,Sharm El Sheikh,1034
+1205,Ramy,Mansour,Saber,Ramy Mansour Saber,20,1093826481,Ramy.Saber@example.com,7/23/2020,1,7/23/2024,7/23/2025,5,Male,4/6/1983,42,Egyptian,Diploma,6370,6,Cashier,Aswan,1037
+1206,Yasmin,Khaled,Abdelkader,Yasmin Khaled Abdelkader,20,1229128179,Yasmin.Abdelkader@example.com,9/6/2018,1,9/6/2024,9/6/2025,7,Female,10/25/2001,24,Sudanese,Diploma,6921,7,Cashier,Alexandria,1029
+1207,Basel,Khalil,Zakaria,Basel Khalil Zakaria,20,1022159320,Basel.Zakaria@example.com,11/15/2020,2,11/15/2024,11/15/2026,3,Male,9/24/1967,58,Egyptian,Bachelor,4682,5,Stock Keeper,Giza,1028
+1208,Nour,Hany,Montasser,Nour Hany Montasser,20,1224172447,Nour.Montasser@example.com,12/4/2017,1,12/4/2024,12/4/2025,8,Female,8/16/2000,25,Egyptian,Bachelor,4860,7,Sales Associate,Mansoura,1031
+1209,Nesrine,Wael,Tamer,Nesrine Wael Tamer,20,1206277919,Nesrine.Tamer@example.com,12/24/2021,2,12/24/2023,12/24/2025,2,Female,3/21/1987,38,Syrian,Bachelor,5297,8,Sales Associate,Aswan,1037
+1210,Nihal,Bilal,Magdy,Nihal Bilal Magdy,20,1091894667,Nihal.Magdy@example.com,1/14/2018,2,1/14/2024,1/14/2026,4,Female,9/8/1971,54,Egyptian,Bachelor,4535,7,Sales Associate,Aswan,1037
+1211,Eman,Waheed,Rashed,Eman Waheed Rashed,20,1050979521,Eman.Rashed@example.com,2/6/2020,1,2/6/2025,2/6/2026,6,Female,3/2/1974,51,Egyptian,Bachelor,5349,5,Cashier,Sharm El Sheikh,1033
+1212,Lina,Safwat,Saber,Lina Safwat Saber,20,1096987457,Lina.Saber@example.com,3/1/2019,2,3/1/2025,3/1/2027,4,Female,6/24/1978,47,Egyptian,Bachelor,5369,8,Stock Keeper,Giza,1027
+1213,Nehal,Sherif,Bassem,Nehal Sherif Bassem,20,1187953814,Nehal.Bassem@example.com,3/22/2017,1,3/22/2024,3/22/2025,8,Female,4/18/1967,58,Egyptian,Diploma,5999,8,Cashier,Aswan,1037
+1214,Rania,Adel,Ibrahim,Rania Adel Ibrahim,20,1072776219,Rania.Ibrahim@example.com,4/7/2017,2,4/7/2023,4/7/2025,4,Female,7/19/1993,32,Egyptian,Bachelor,5028,10,Sales Associate,Aswan,1037
+1215,Nour,Basel,Tawfik,Nour Basel Tawfik,20,1128507855,Nour.Tawfik@example.com,4/23/2020,1,4/23/2024,4/23/2025,5,Female,2/27/1972,53,Egyptian,Bachelor,5859,8,Sales Associate,Giza,1027
+1216,Morsy,Helmy,Kamal,Morsy Helmy Kamal,20,1240678843,Morsy.Kamal@example.com,5/16/2021,2,5/16/2023,5/16/2025,2,Male,10/27/1994,31,Egyptian,Masters,7838,7,Junior Accountant,Head Office,1021
+1217,Hend,Moataz,Mamdouh,Hend Moataz Mamdouh,20,1186951418,Hend.Mamdouh@example.com,5/30/2018,2,5/30/2024,5/30/2026,4,Female,4/18/1980,45,Egyptian,Bachelor,5332,8,Sales Associate,Luxor,1035
+1218,Nour,Abdelsalam,Sobhy,Nour Abdelsalam Sobhy,20,1095040995,Nour.Sobhy@example.com,6/23/2020,1,6/23/2024,6/23/2025,5,Female,2/1/1968,57,Sudanese,Undergraduate,5602,6,Cashier,Mansoura,1031
+1219,Manar,Saeed,Tamer,Manar Saeed Tamer,20,1072456755,Manar.Tamer@example.com,7/20/2021,1,7/20/2024,7/20/2025,4,Female,4/6/1976,49,Egyptian,Diploma,4683,9,Sales Associate,Mansoura,1032
+1220,Lobna,Hany,Amr,Lobna Hany Amr,20,1008611149,Lobna.Amr@example.com,8/5/2016,1,8/5/2025,8/5/2026,9,Female,3/25/1996,29,Syrian,Bachelor,6745,8,Cashier,Luxor,1035
+1221,Shady,Khaled,Diaa,Shady Khaled Diaa,20,1219350736,Shady.Diaa@example.com,9/2/2015,2,9/2/2023,9/2/2025,5,Male,4/23/1985,40,Egyptian,Diploma,6755,8,Customer Service,Mansoura,1031
+1222,Lobna,Fady,Abdelnasser,Lobna Fady Abdelnasser,20,1080281355,Lobna.Abdelnasser@example.com,9/26/2018,1,9/26/2024,9/26/2025,7,Female,4/19/1979,46,Egyptian,Bachelor,5113,5,Stock Keeper,Sharm El Sheikh,1033
+1223,Diaa,Ismail,Fares,Diaa Ismail Fares,20,1022831089,Diaa.Fares@example.com,10/18/2016,2,10/18/2024,10/18/2026,5,Male,5/21/1983,42,Egyptian,Undergraduate,5244,6,Cashier,Mansoura,1031
+1224,Rashed,Anwar,Kamal,Rashed Anwar Kamal,20,1045413131,Rashed.Kamal@example.com,11/7/2018,2,11/7/2024,11/7/2026,4,Male,8/14/1995,30,Egyptian,Bachelor,7849,9,Junior Accountant,Head Office,1022
+1225,Hend,Ezzat,Farouk,Hend Ezzat Farouk,20,1037779076,Hend.Farouk@example.com,12/2/2020,2,12/2/2024,12/2/2026,3,Female,2/18/1969,56,Sudanese,Bachelor,4711,5,Sales Associate,Sharm El Sheikh,1033
+1226,Eman,Saeed,Sayed,Eman Saeed Sayed,20,1016785684,Eman.Sayed@example.com,12/22/2021,1,12/22/2024,12/22/2025,4,Female,6/18/1971,54,Syrian,Diploma,5568,8,Security,Alexandria,1029
+1227,Abdelsalam,Abdelaziz,Moheb,Abdelsalam Abdelaziz Moheb,20,1029939046,Abdelsalam.Moheb@example.com,1/14/2015,2,1/14/2025,1/14/2027,6,Male,5/23/1981,44,Egyptian,Bachelor,5291,8,Sales Associate,Alexandria,1029
+1228,Asmaa,Soliman,Moataz,Asmaa Soliman Moataz,20,1184296263,Asmaa.Moataz@example.com,2/6/2015,2,2/6/2025,2/6/2027,6,Female,5/5/1975,50,Egyptian,Diploma,5439,5,Security,Cairo,1025
+1229,Hanan,Montasser,Hossam,Hanan Montasser Hossam,20,1282187818,Hanan.Hossam@example.com,2/18/2017,2,2/18/2025,2/18/2027,5,Female,10/2/1977,48,Egyptian,Diploma,5852,7,Sales Associate,Sharm El Sheikh,1033
+1230,Mostafa,Adel,Sobhy,Mostafa Adel Sobhy,20,1194085373,Mostafa.Sobhy@example.com,3/11/2018,2,3/11/2024,3/11/2026,4,Male,7/26/1984,41,Egyptian,Bachelor,6492,8,Stock Keeper,Mansoura,1032
+1231,Basma,Ismail,Osama,Basma Ismail Osama,20,1171122744,Basma.Osama@example.com,3/21/2019,2,3/21/2023,3/21/2025,3,Female,6/25/1973,52,Syrian,Bachelor,5676,7,Stock Keeper,Giza,1028
+1232,Fouad,Anwar,Hossam,Fouad Anwar Hossam,20,1122712870,Fouad.Hossam@example.com,4/23/2020,1,4/23/2024,4/23/2025,5,Male,3/27/1975,50,Egyptian,Bachelor,6292,8,Stock Keeper,Mansoura,1031
+1233,Tarek,Nasser,Emad,Tarek Nasser Emad,20,1010100538,Tarek.Emad@example.com,5/14/2019,2,5/14/2023,5/14/2025,3,Male,12/22/1980,45,Egyptian,Bachelor,4693,7,Sales Associate,Aswan,1037
+1234,Dina,Reda,Reda,Dina Reda Reda,20,1214834876,Dina.Reda@example.com,6/6/2018,1,6/6/2024,6/6/2025,7,Female,8/21/2002,23,Egyptian,Bachelor,5370,5,Sales Associate,Giza,1027
+1235,Ehab,Islam,Mounir,Ehab Islam Mounir,20,1230457301,Ehab.Mounir@example.com,6/21/2020,1,6/21/2024,6/21/2025,5,Male,2/11/1972,53,Egyptian,Diploma,6529,9,Customer Service,Cairo,1026
+1236,Farouk,Khaled,Ismail,Farouk Khaled Ismail,20,1174628263,Farouk.Ismail@example.com,7/20/2015,2,7/20/2023,7/20/2025,5,Male,6/14/1998,27,Egyptian,Bachelor,5919,7,Sales Associate,Mansoura,1031
+1237,Adel,Wael,Mohamed,Adel Wael Mohamed,20,1293043694,Adel.Mohamed@example.com,7/30/2019,1,7/30/2024,7/30/2025,6,Male,12/24/1996,29,Egyptian,Diploma,4692,10,Sales Associate,Sharm El Sheikh,1033
+1238,Rania,Ezzat,Sayed,Rania Ezzat Sayed,20,1124506164,Rania.Sayed@example.com,8/16/2020,1,8/16/2024,8/16/2025,5,Female,8/2/1967,58,Egyptian,Diploma,5699,8,Sales Associate,Aswan,1038
+1239,Reham,Ashraf,Gamal,Reham Ashraf Gamal,20,1196850990,Reham.Gamal@example.com,9/14/2017,1,9/14/2024,9/14/2025,8,Female,1/21/1972,53,Egyptian,Bachelor,4938,6,Stock Keeper,Alexandria,1029
+1240,Helmy,Anwar,Diaa,Helmy Anwar Diaa,20,1200865285,Helmy.Diaa@example.com,9/29/2020,2,9/29/2024,9/29/2026,3,Male,9/10/1971,54,Egyptian,Diploma,4029,5,Sales Associate,Sharm El Sheikh,1033
+1241,Eman,Emad,Fouad,Eman Emad Fouad,20,1026959397,Eman.Fouad@example.com,10/11/2020,1,10/11/2024,10/11/2025,5,Female,4/13/1972,53,Egyptian,Bachelor,5497,8,Sales Associate,Cairo,1025
+1242,Hend,Raouf,Gamal,Hend Raouf Gamal,20,1166714065,Hend.Gamal@example.com,10/31/2018,2,10/31/2024,10/31/2026,4,Female,12/23/1999,26,Egyptian,Diploma,4386,7,Sales Associate,Mansoura,1031
+1243,Abdelatif,Safwat,Fares,Abdelatif Safwat Fares,20,1102589808,Abdelatif.Fares@example.com,11/15/2018,1,11/15/2024,11/15/2025,7,Male,9/19/1996,29,Egyptian,Bachelor,4748,5,Stock Keeper,Alexandria,1029
+1244,Samira,Rami,Helmy,Samira Rami Helmy,20,1117730064,Samira.Helmy@example.com,12/3/2015,2,12/3/2023,12/3/2025,5,Female,6/16/1975,50,Egyptian,Diploma,4984,6,Sales Associate,Aswan,1038
+1245,Salma,Moheb,Hossni,Salma Moheb Hossni,20,1126699252,Salma.Hossni@example.com,12/19/2021,2,12/19/2023,12/19/2025,2,Female,12/13/1981,44,Egyptian,Bachelor,4191,6,Sales Associate,Alexandria,1029
+1246,Abdelhady,Mamdouh,Hany,Abdelhady Mamdouh Hany,20,1262599120,Abdelhady.Hany@example.com,1/1/2016,1,1/1/2025,1/1/2026,10,Male,3/19/1986,39,Egyptian,Bachelor,5471,5,Security,Alexandria,1029
+1247,Nihal,Sherif,Ismail,Nihal Sherif Ismail,20,1037428878,Nihal.Ismail@example.com,1/20/2019,2,1/20/2025,1/20/2027,4,Female,9/3/1985,40,Egyptian,Bachelor,5845,9,Cashier,Giza,1028
+1248,Samira,Mansour,Abdelnasser,Samira Mansour Abdelnasser,20,1120479192,Samira.Abdelnasser@example.com,2/12/2019,1,2/12/2025,2/12/2026,7,Female,1/13/1975,50,Egyptian,Bachelor,4796,10,Sales Associate,Sharm El Sheikh,1033
+1249,Hoda,Yehia,Ramy,Hoda Yehia Ramy,20,1270178503,Hoda.Ramy@example.com,3/8/2019,1,3/8/2025,3/8/2026,7,Female,7/9/1974,51,Egyptian,Bachelor,6425,5,Stock Keeper,Alexandria,1029
+1250,Osama,Tawfik,Youssef,Osama Tawfik Youssef,20,1278515073,Osama.Youssef@example.com,3/24/2017,2,3/24/2023,3/24/2025,4,Male,10/27/1999,26,Egyptian,Undergraduate,5158,7,Cashier,Mansoura,1031
+1251,Salma,Safwat,Amr,Salma Safwat Amr,20,1206171865,Salma.Amr@example.com,4/13/2019,1,4/13/2024,4/13/2025,6,Female,2/15/2001,24,Egyptian,Bachelor,5457,8,Stock Keeper,Alexandria,1029
+1252,Doaa,Nabil,Abdelatif,Doaa Nabil Abdelatif,20,1296050103,Doaa.Abdelatif@example.com,5/24/2020,2,5/24/2024,5/24/2026,3,Female,12/7/1979,46,Egyptian,Bachelor,5221,8,Sales Associate,Mansoura,1031
+1253,Laila,Bilal,Emad,Laila Bilal Emad,20,1196963416,Laila.Emad@example.com,6/8/2017,2,6/8/2023,6/8/2025,4,Female,3/20/1976,49,Egyptian,Bachelor,5233,6,Stock Keeper,Alexandria,1029
+1254,Tarek,Abdelkader,Mounir,Tarek Abdelkader Mounir,20,1238133273,Tarek.Mounir@example.com,7/4/2017,1,7/4/2024,7/4/2025,8,Male,9/21/1994,31,Egyptian,Bachelor,4397,5,Sales Associate,Alexandria,1029
+1255,Hoda,Mohamed,Mostafa,Hoda Mohamed Mostafa,20,1126848608,Hoda.Mostafa@example.com,7/30/2017,2,7/30/2023,7/30/2025,4,Female,10/23/1985,40,Egyptian,Diploma,5063,9,Cashier,Giza,1028
+1256,Sohair,Omar,Morsy,Sohair Omar Morsy,20,1194454223,Sohair.Morsy@example.com,8/29/2016,1,8/29/2025,8/29/2026,9,Female,7/1/1980,45,Egyptian,Diploma,5615,7,Security,Cairo,1025
+1257,Fares,Ismail,Ramy,Fares Ismail Ramy,20,1070410624,Fares.Ramy@example.com,9/13/2016,2,9/13/2024,9/13/2026,5,Male,1/8/1974,51,Egyptian,Diploma,6525,9,Cashier,Aswan,1037
+1258,Doaa,Moataz,Essam,Doaa Moataz Essam,20,1171551784,Doaa.Essam@example.com,10/3/2020,2,10/3/2024,10/3/2026,3,Female,7/7/1982,43,Egyptian,Masters,9205,11,Recruitment Specialist,Head Office,1003
+1259,Salma,Shady,Farouk,Salma Shady Farouk,20,1034366778,Salma.Farouk@example.com,10/20/2020,2,10/20/2024,10/20/2026,3,Female,6/16/1984,41,Egyptian,Diploma,6612,7,Security,Luxor,1035
+1260,Iman,Aref,Abdelrahman,Iman Aref Abdelrahman,20,1271746348,Iman.Abdelrahman@example.com,11/18/2019,1,11/18/2024,11/18/2025,6,Female,2/17/1975,50,Egyptian,Undergraduate,6493,8,Cashier,Aswan,1037
+1261,Amal,Soliman,Ali,Amal Soliman Ali,20,1037140784,Amal.Ali@example.com,12/4/2019,1,12/4/2024,12/4/2025,6,Female,3/8/1983,42,Egyptian,Bachelor,5831,6,Stock Keeper,Giza,1028
+1262,Abdelatif,Abdelaziz,Farouk,Abdelatif Abdelaziz Farouk,20,1127649456,Abdelatif.Farouk@example.com,12/27/2018,1,12/27/2024,12/27/2025,7,Male,12/15/2001,24,Sudanese,Bachelor,7316,10,Customer Service,Cairo,1025
+1263,Basma,Farouk,Islam,Basma Farouk Islam,20,1118205640,Basma.Islam@example.com,1/19/2016,2,1/19/2024,1/19/2026,5,Female,7/12/1998,27,Egyptian,Diploma,4123,5,Sales Associate,Aswan,1037
+1264,Rasha,Khaled,Abdelaziz,Rasha Khaled Abdelaziz,20,1197664732,Rasha.Abdelaziz@example.com,2/1/2015,2,2/1/2025,2/1/2027,6,Female,1/10/1975,50,Egyptian,Bachelor,5618,5,Cashier,Giza,1027
+1265,Magda,Mounir,Bahaa,Magda Mounir Bahaa,20,1016900690,Magda.Bahaa@example.com,2/13/2017,2,2/13/2025,2/13/2027,5,Female,10/16/1990,35,Egyptian,Diploma,6475,5,Security,Cairo,1026
+1266,Hatem,Osama,Sobhy,Hatem Osama Sobhy,20,1024898614,Hatem.Sobhy@example.com,2/24/2017,1,2/24/2026,2/24/2027,9,Male,7/12/1970,55,Egyptian,Undergraduate,6248,6,Customer Service,Sharm El Sheikh,1033
+1267,Samira,Galal,Ramy,Samira Galal Ramy,20,1265466223,Samira.Ramy@example.com,3/21/2016,1,3/21/2025,3/21/2026,9,Female,12/9/1994,31,Sudanese,Diploma,5372,8,Sales Associate,Sharm El Sheikh,1033
+1268,Heba,Hisham,Fouad,Heba Hisham Fouad,20,1114344363,Heba.Fouad@example.com,4/17/2021,1,4/17/2024,4/17/2025,4,Female,5/19/1978,47,Egyptian,Bachelor,5524,7,Cashier,Aswan,1037
+1269,Yasser,Osama,Shady,Yasser Osama Shady,20,1181254726,Yasser.Shady@example.com,4/28/2016,2,4/28/2024,4/28/2026,5,Male,10/2/2002,23,Egyptian,Diploma,6470,9,Customer Service,Giza,1027
+1270,Shaimaa,Soliman,Fares,Shaimaa Soliman Fares,20,1160629621,Shaimaa.Fares@example.com,5/8/2018,1,5/8/2024,5/8/2025,7,Female,11/7/1979,46,Egyptian,Diploma,5232,8,Stock Keeper,Alexandria,1029
+1271,Ismail,Nasser,Waheed,Ismail Nasser Waheed,20,1246289119,Ismail.Waheed@example.com,5/24/2020,2,5/24/2024,5/24/2026,3,Male,1/4/1989,36,Egyptian,Diploma,5900,6,Security,Luxor,1035
+1272,Noureldin,Tarek,Aref,Noureldin Tarek Aref,20,1133329751,Noureldin.Aref@example.com,6/3/2019,1,6/3/2024,6/3/2025,6,Male,5/9/1989,36,Egyptian,Diploma,5996,8,Sales Associate,Aswan,1037
+1273,Bahaa,Nasr,Diaa,Bahaa Nasr Diaa,20,1121243793,Bahaa.Diaa@example.com,6/26/2019,2,6/26/2023,6/26/2025,3,Male,10/25/1988,37,Egyptian,Bachelor,6336,9,Cashier,Luxor,1035
+1274,Lobna,Ahmed,Ahmed,Lobna Ahmed Ahmed,20,1097840243,Lobna.Ahmed@example.com,7/16/2015,1,7/16/2024,7/16/2025,10,Female,4/7/1974,51,Egyptian,Diploma,6801,10,Cashier,Alexandria,1030
+1275,Rania,Moheb,Abdelrahman,Rania Moheb Abdelrahman,20,1052692265,Rania.Abdelrahman@example.com,8/11/2019,2,8/11/2023,8/11/2025,3,Female,10/22/1971,54,Sudanese,Diploma,6082,5,Cashier,Luxor,1035
+1276,Nisreen,Mansour,Magdy,Nisreen Mansour Magdy,20,1032349848,Nisreen.Magdy@example.com,8/27/2015,2,8/27/2023,8/27/2025,5,Female,12/9/1985,40,Egyptian,Diploma,7450,10,Customer Service,Sharm El Sheikh,1033
+1277,Salma,Abdelhady,Mostafa,Salma Abdelhady Mostafa,20,1258161219,Salma.Mostafa@example.com,9/16/2021,2,9/16/2023,9/16/2025,2,Female,7/27/1975,50,Egyptian,Bachelor,4869,7,Sales Associate,Alexandria,1029
+1278,Heba,Hisham,Safwat,Heba Hisham Safwat,20,1098579508,Heba.Safwat@example.com,10/13/2016,2,10/13/2024,10/13/2026,5,Female,3/13/1991,34,Syrian,Bachelor,4606,7,Stock Keeper,Mansoura,1032
+1279,Nabil,Safwat,Tarek,Nabil Safwat Tarek,20,1179225625,Nabil.Tarek@example.com,10/28/2018,1,10/28/2024,10/28/2025,7,Male,7/11/1996,29,Egyptian,Bachelor,5849,10,Sales Associate,Alexandria,1029
+1280,Ehab,Mahmoud,Osama,Ehab Mahmoud Osama,20,1274259341,Ehab.Osama@example.com,11/19/2015,2,11/19/2023,11/19/2025,5,Male,10/11/1973,52,Egyptian,Bachelor,4122,5,Sales Associate,Alexandria,1029
+1281,Dina,Ehab,Safwat,Dina Ehab Safwat,20,1003540172,Dina.Safwat@example.com,12/6/2018,2,12/6/2024,12/6/2026,4,Female,7/1/1974,51,Egyptian,Diploma,5077,8,Security,Aswan,1037
+1282,Manar,Osama,Bahaa,Manar Osama Bahaa,20,1286921626,Manar.Bahaa@example.com,12/26/2020,2,12/26/2024,12/26/2026,3,Female,9/15/1978,47,Egyptian,Bachelor,6117,8,Stock Keeper,Mansoura,1031
+1283,Bilal,Ahmed,Hussein,Bilal Ahmed Hussein,20,1291159142,Bilal.Hussein@example.com,1/21/2020,2,1/21/2024,1/21/2026,3,Male,2/6/1972,53,Egyptian,Diploma,5324,6,Stock Keeper,Giza,1027
+1284,Hatem,Zakaria,Ziad,Hatem Zakaria Ziad,20,1014424160,Hatem.Ziad@example.com,2/3/2015,2,2/3/2025,2/3/2027,6,Male,4/17/2002,23,Egyptian,Bachelor,4565,9,Sales Associate,Giza,1027
+1285,Heba,Anwar,Abdelkader,Heba Anwar Abdelkader,20,1046957329,Heba.Abdelkader@example.com,2/19/2021,2,2/19/2025,2/19/2027,3,Female,2/23/1997,28,Egyptian,Bachelor,6199,8,Junior Accountant,Head Office,1022
+1286,Samaa,Maged,Hany,Samaa Maged Hany,20,1000423031,Samaa.Hany@example.com,3/17/2020,2,3/17/2024,3/17/2026,3,Female,3/14/1981,44,Egyptian,Bachelor,6070,5,Stock Keeper,Alexandria,1030
+1287,Morsy,Abdelrahman,Ahmed,Morsy Abdelrahman Ahmed,20,1054781586,Morsy.Ahmed@example.com,4/1/2017,1,4/1/2024,4/1/2025,8,Male,7/23/1972,53,Egyptian,Diploma,6173,7,Cashier,Luxor,1035
+1288,Magda,Abdelhady,Nasr,Magda Abdelhady Nasr,20,1218009404,Magda.Nasr@example.com,4/20/2015,2,4/20/2023,4/20/2025,5,Female,2/19/1973,52,Egyptian,Bachelor,5726,7,Sales Associate,Aswan,1037
+1289,Nisreen,Ramy,Youssef,Nisreen Ramy Youssef,20,1131427212,Nisreen.Youssef@example.com,5/5/2017,2,5/5/2023,5/5/2025,4,Female,9/10/1973,52,Egyptian,Bachelor,5954,5,Sales Associate,Alexandria,1030
+1290,Lina,Morsy,Hussein,Lina Morsy Hussein,20,1273360369,Lina.Hussein@example.com,6/2/2019,1,6/2/2024,6/2/2025,6,Female,4/25/1969,56,Egyptian,Diploma,4952,10,Sales Associate,Mansoura,1031
+1291,Sohair,Qasem,Bilal,Sohair Qasem Bilal,20,1061485893,Sohair.Bilal@example.com,6/22/2018,2,6/22/2024,6/22/2026,4,Female,9/24/1980,45,Egyptian,Bachelor,4054,9,Sales Associate,Alexandria,1029
+1292,Essam,Abdelaziz,Gamal,Essam Abdelaziz Gamal,20,1042190597,Essam.Gamal@example.com,7/2/2015,1,7/2/2024,7/2/2025,10,Male,10/23/1971,54,Egyptian,Bachelor,5205,5,Stock Keeper,Giza,1027
+1293,Yasmin,Tarek,Waheed,Yasmin Tarek Waheed,20,1278991087,Yasmin.Waheed@example.com,8/1/2018,2,8/1/2024,8/1/2026,4,Female,9/12/1996,29,Egyptian,Bachelor,5866,5,Sales Associate,Mansoura,1031
+1294,Reham,Hisham,Diaa,Reham Hisham Diaa,20,1222405638,Reham.Diaa@example.com,8/28/2015,1,8/28/2024,8/28/2025,10,Female,5/18/1978,47,Egyptian,Bachelor,5107,10,Sales Associate,Alexandria,1029
+1295,Fady,Anwar,Ahmed,Fady Anwar Ahmed,20,1220155355,Fady.Ahmed@example.com,9/24/2015,1,9/24/2024,9/24/2025,10,Male,7/6/1976,49,Egyptian,Bachelor,5729,6,Sales Associate,Mansoura,1031
+1296,Walaa,Nabil,Ezzat,Walaa Nabil Ezzat,20,1215388108,Walaa.Ezzat@example.com,10/4/2021,2,10/4/2023,10/4/2025,2,Female,7/28/1981,44,Egyptian,Bachelor,5757,6,Sales Associate,Alexandria,1030
+1297,Hossni,Wael,Galal,Hossni Wael Galal,20,1118507012,Hossni.Galal@example.com,10/25/2020,2,10/25/2024,10/25/2026,3,Male,3/8/1968,57,Egyptian,Diploma,7601,8,Customer Service,Mansoura,1032
+1298,Nihal,Yehia,Tamer,Nihal Yehia Tamer,20,1030216256,Nihal.Tamer@example.com,11/8/2019,2,11/8/2023,11/8/2025,3,Female,11/26/1973,52,Egyptian,Bachelor,4532,6,Stock Keeper,Alexandria,1030
+1299,Gamal,Soliman,Nasser,Gamal Soliman Nasser,20,1016057671,Gamal.Nasser@example.com,11/22/2019,2,11/22/2023,11/22/2025,3,Male,4/15/2002,23,Egyptian,Diploma,6895,6,Security,Alexandria,1029
+1300,Inas,Reda,Mansour,Inas Reda Mansour,20,1073777877,Inas.Mansour@example.com,12/9/2018,1,12/9/2024,12/9/2025,7,Female,3/12/1982,43,Egyptian,Bachelor,5400,7,Stock Keeper,Giza,1027
+1301,Sameh,Magdy,Hossam,Sameh Magdy Hossam,20,1045042776,Sameh.Hossam@example.com,1/4/2016,2,1/4/2024,1/4/2026,5,Male,4/11/1988,37,Syrian,Bachelor,6303,6,Stock Keeper,Giza,1028
+1302,Lobna,Reda,Essam,Lobna Reda Essam,20,1117579412,Lobna.Essam@example.com,1/26/2021,1,1/26/2025,1/26/2026,5,Female,9/24/1984,41,Egyptian,Diploma,5440,7,Security,Alexandria,1029
+1303,Bahaa,Sameh,Yasser,Bahaa Sameh Yasser,20,1273738911,Bahaa.Yasser@example.com,2/9/2021,2,2/9/2025,2/9/2027,3,Male,12/17/1996,29,Egyptian,Bachelor,6346,6,Junior Accountant,Head Office,1022
+1304,Gihan,Moheb,Nasser,Gihan Moheb Nasser,20,1137085250,Gihan.Nasser@example.com,3/1/2020,2,3/1/2024,3/1/2026,3,Female,8/9/1983,42,Egyptian,Diploma,5688,6,Sales Associate,Aswan,1037
+1305,Inas,Abdelmonem,Abdelkader,Inas Abdelmonem Abdelkader,20,1255456254,Inas.Abdelkader@example.com,3/13/2020,1,3/13/2025,3/13/2026,6,Female,6/4/1984,41,Egyptian,Bachelor,6042,5,Stock Keeper,Alexandria,1029
+1306,Bahaa,Ismail,Gamal,Bahaa Ismail Gamal,20,1129943554,Bahaa.Gamal@example.com,3/24/2019,2,3/24/2023,3/24/2025,3,Male,10/27/1986,39,Egyptian,Diploma,6578,8,Security,Luxor,1035
+1307,Doaa,Ismail,Tarek,Doaa Ismail Tarek,20,1196097057,Doaa.Tarek@example.com,4/23/2019,1,4/23/2024,4/23/2025,6,Female,8/14/1980,45,Egyptian,Diploma,4255,6,Sales Associate,Cairo,1025
+1308,Karim,Mounir,Abdelatif,Karim Mounir Abdelatif,20,1021267827,Karim.Abdelatif@example.com,5/18/2015,1,5/18/2024,5/18/2025,10,Male,6/22/1983,42,Egyptian,Diploma,4833,6,Sales Associate,Alexandria,1030
+1309,Osama,Atef,Gamal,Osama Atef Gamal,20,1018790243,Osama.Gamal@example.com,6/5/2018,2,6/5/2024,6/5/2026,4,Male,7/19/1987,38,Egyptian,Bachelor,7549,6,Customer Service,Sharm El Sheikh,1033
+1310,Galal,Omar,Adel,Galal Omar Adel,20,1064675016,Galal.Adel@example.com,6/16/2021,1,6/16/2024,6/16/2025,4,Male,9/12/1998,27,Egyptian,Bachelor,5250,7,Stock Keeper,Alexandria,1030
+1311,Rasha,Bassem,Mounir,Rasha Bassem Mounir,20,1062312361,Rasha.Mounir@example.com,6/27/2016,2,6/27/2024,6/27/2026,5,Female,8/10/1996,29,Egyptian,Bachelor,5444,6,Cashier,Cairo,1025
+1312,Tamer,Atef,Hassan,Tamer Atef Hassan,20,1218357112,Tamer.Hassan@example.com,7/27/2017,1,7/27/2024,7/27/2025,8,Male,12/27/1982,43,Egyptian,Bachelor,5819,5,Sales Associate,Sharm El Sheikh,1033
+1313,Ghada,Yehia,Bassem,Ghada Yehia Bassem,20,1229396959,Ghada.Bassem@example.com,8/7/2019,1,8/7/2024,8/7/2025,6,Female,10/3/1986,39,Egyptian,Masters,6821,9,Customer Service,Cairo,1025
+1314,Asmaa,Bilal,Nasser,Asmaa Bilal Nasser,20,1285680115,Asmaa.Nasser@example.com,8/18/2020,1,8/18/2024,8/18/2025,5,Female,9/6/1973,52,Egyptian,Bachelor,6898,6,Cashier,Mansoura,1031
+1315,Heba,Bassem,Ehab,Heba Bassem Ehab,20,1263841863,Heba.Ehab@example.com,9/1/2017,1,9/1/2024,9/1/2025,8,Female,5/2/1973,52,Egyptian,Bachelor,5469,7,Stock Keeper,Mansoura,1032
+1316,Fares,Mohamed,Bassem,Fares Mohamed Bassem,20,1118089260,Fares.Bassem@example.com,9/19/2016,1,9/19/2025,9/19/2026,9,Male,8/16/1975,50,Egyptian,Bachelor,4243,6,Sales Associate,Aswan,1037
+1317,Nehal,Khalil,Rashed,Nehal Khalil Rashed,20,1222015156,Nehal.Rashed@example.com,10/8/2015,2,10/8/2023,10/8/2025,5,Female,2/15/1974,51,Sudanese,Bachelor,5016,5,Stock Keeper,Sharm El Sheikh,1033
+1318,Islam,Khalil,Wael,Islam Khalil Wael,20,1181088469,Islam.Wael@example.com,11/1/2016,1,11/1/2025,11/1/2026,9,Male,6/12/1998,27,Egyptian,Bachelor,6268,8,Customer Service,Giza,1027
+1319,Ahmed,Sherif,Ashraf,Ahmed Sherif Ashraf,20,1149308819,Ahmed.Ashraf@example.com,11/14/2018,1,11/14/2024,11/14/2025,7,Male,12/15/1981,44,Egyptian,Bachelor,5783,7,Sales Associate,Giza,1027
+1320,Sohair,Nabil,Karim,Sohair Nabil Karim,20,1152917119,Sohair.Karim@example.com,12/12/2016,2,12/12/2024,12/12/2026,5,Female,10/3/2000,25,Egyptian,Bachelor,5581,9,Sales Associate,Giza,1027
+1321,Dalia,Bilal,Mostafa,Dalia Bilal Mostafa,20,1204375166,Dalia.Mostafa@example.com,12/27/2021,2,12/27/2023,12/27/2025,2,Female,11/24/1994,31,Egyptian,Diploma,4297,8,Sales Associate,Aswan,1037
+1322,Kamal,Magdy,Sayed,Kamal Magdy Sayed,20,1063738327,Kamal.Sayed@example.com,1/22/2015,2,1/22/2025,1/22/2027,6,Male,10/17/1983,42,Egyptian,Diploma,4196,10,Sales Associate,Mansoura,1031
+1323,Abdelmonem,Kamal,Hany,Abdelmonem Kamal Hany,20,1095224679,Abdelmonem.Hany@example.com,2/15/2017,2,2/15/2025,2/15/2027,5,Male,7/16/1991,34,Egyptian,Masters,7429,5,Junior Accountant,Head Office,1022
+1324,Sobhy,Tawfik,Moataz,Sobhy Tawfik Moataz,20,1158223775,Sobhy.Moataz@example.com,2/26/2018,2,2/26/2024,2/26/2026,4,Male,1/8/1985,40,Egyptian,Diploma,4213,10,Sales Associate,Cairo,1025
+1325,Iman,Amr,Moataz,Iman Amr Moataz,20,1232538683,Iman.Moataz@example.com,3/22/2020,1,3/22/2024,3/22/2025,5,Female,12/17/2000,25,Egyptian,Bachelor,6197,6,Stock Keeper,Giza,1028
+1326,Abdelaziz,Lotfy,Mamdouh,Abdelaziz Lotfy Mamdouh,20,1257128636,Abdelaziz.Mamdouh@example.com,4/12/2019,2,4/12/2023,4/12/2025,3,Male,1/27/1984,41,Egyptian,Bachelor,5056,6,Cashier,Giza,1027
+1327,Samaa,Saber,Magdy,Samaa Saber Magdy,20,1142225989,Samaa.Magdy@example.com,4/28/2020,2,4/28/2024,4/28/2026,3,Female,8/16/1988,37,Egyptian,Bachelor,7427,9,Customer Service,Cairo,1025
+1328,Ghada,Emad,Shady,Ghada Emad Shady,20,1040774744,Ghada.Shady@example.com,5/22/2016,1,5/22/2025,5/22/2026,9,Female,6/9/1997,28,Egyptian,Diploma,5281,5,Stock Keeper,Alexandria,1029
+1329,Fatma,Khalil,Hatem,Fatma Khalil Hatem,20,1116347173,Fatma.Hatem@example.com,6/19/2019,1,6/19/2024,6/19/2025,6,Female,4/11/2002,23,Egyptian,Undergraduate,4411,2,Accountant Trainee,Head Office,1022
+1330,Amal,Raouf,Abdelaziz,Amal Raouf Abdelaziz,20,1132388150,Amal.Abdelaziz@example.com,7/5/2019,2,7/5/2023,7/5/2025,3,Female,3/21/1986,39,Egyptian,Diploma,4259,8,Sales Associate,Cairo,1025
+1331,Salma,Aref,Saber,Salma Aref Saber,20,1292971391,Salma.Saber@example.com,8/2/2017,2,8/2/2023,8/2/2025,4,Female,10/15/2001,24,Egyptian,Bachelor,4435,6,Sales Associate,Mansoura,1031
+1332,Nour,Reda,Abdelhady,Nour Reda Abdelhady,20,1152645726,Nour.Abdelhady@example.com,8/22/2015,2,8/22/2023,8/22/2025,5,Female,6/1/1978,47,Egyptian,Bachelor,6338,10,Cashier,Aswan,1037
+1333,Sherine,Ashraf,Galal,Sherine Ashraf Galal,20,1199398963,Sherine.Galal@example.com,9/10/2021,1,9/10/2024,9/10/2025,4,Female,11/14/1981,44,Syrian,Bachelor,6786,8,Cashier,Mansoura,1031
+1334,Hana,Raouf,Moheb,Hana Raouf Moheb,20,1044257669,Hana.Moheb@example.com,10/7/2019,2,10/7/2023,10/7/2025,3,Female,7/11/1972,53,Sudanese,Diploma,6526,6,Cashier,Sharm El Sheikh,1033
+1335,Sahar,Fady,Ziad,Sahar Fady Ziad,20,1283764694,Sahar.Ziad@example.com,10/26/2021,1,10/26/2024,10/26/2025,4,Female,4/15/1982,43,Egyptian,Bachelor,6256,7,Cashier,Mansoura,1031
+1336,Nehal,Basel,Montasser,Nehal Basel Montasser,20,1073373412,Nehal.Montasser@example.com,11/18/2016,1,11/18/2025,11/18/2026,9,Female,9/5/1986,39,Syrian,Diploma,7124,8,Customer Service,Alexandria,1030
+1337,Rasha,Atef,Galal,Rasha Atef Galal,20,1173197210,Rasha.Galal@example.com,12/12/2020,1,12/12/2024,12/12/2025,5,Female,5/21/2001,24,Sudanese,Undergraduate,4987,4,Accountant Trainee,Head Office,1022
+1338,Mamdouh,Ahmed,Rami,Mamdouh Ahmed Rami,20,1287654137,Mamdouh.Rami@example.com,12/27/2015,2,12/27/2023,12/27/2025,5,Male,7/27/1969,56,Syrian,Bachelor,4004,8,Sales Associate,Cairo,1025
+1339,Naglaa,Hossam,Ehab,Naglaa Hossam Ehab,20,1289689849,Naglaa.Ehab@example.com,1/16/2016,2,1/16/2024,1/16/2026,5,Female,8/12/1991,34,Syrian,Masters,7452,8,Junior Accountant,Head Office,1021
+1340,Rania,Saber,Abdelsalam,Rania Saber Abdelsalam,20,1164662582,Rania.Abdelsalam@example.com,2/6/2019,2,2/6/2025,2/6/2027,4,Female,11/16/1968,57,Egyptian,Diploma,5640,9,Cashier,Alexandria,1030
+1341,Nehal,Maged,Wael,Nehal Maged Wael,20,1288673114,Nehal.Wael@example.com,3/6/2015,2,3/6/2025,3/6/2027,6,Female,11/1/1986,39,Egyptian,Bachelor,6441,8,Stock Keeper,Sharm El Sheikh,1033
+1342,Bilal,Gamal,Abdelkader,Bilal Gamal Abdelkader,20,1096317724,Bilal.Abdelkader@example.com,3/18/2018,1,3/18/2024,3/18/2025,7,Male,6/8/1985,40,Egyptian,Bachelor,5191,7,Cashier,Alexandria,1029
+1343,Nahed,Tamer,Soliman,Nahed Tamer Soliman,20,1134886584,Nahed.Soliman@example.com,4/12/2015,1,4/12/2024,4/12/2025,10,Female,3/28/1967,58,Sudanese,Bachelor,6210,6,Stock Keeper,Alexandria,1030
+1344,Nabil,Abdelmonem,Ahmed,Nabil Abdelmonem Ahmed,20,1236682602,Nabil.Ahmed@example.com,5/7/2021,2,5/7/2023,5/7/2025,2,Male,8/8/1984,41,Egyptian,Bachelor,5695,7,Sales Associate,Aswan,1038
+1345,Sameh,Abdelhady,Morsy,Sameh Abdelhady Morsy,20,1242129028,Sameh.Morsy@example.com,5/28/2021,1,5/28/2024,5/28/2025,4,Male,9/27/1997,28,Egyptian,Diploma,6555,10,Cashier,Luxor,1035
+1346,Nesrine,Sayed,Abdelmonem,Nesrine Sayed Abdelmonem,20,1122301666,Nesrine.Abdelmonem@example.com,6/8/2020,1,6/8/2024,6/8/2025,5,Female,4/21/1993,32,Egyptian,Bachelor,4269,10,Sales Associate,Cairo,1025
+1347,Ibrahim,Bassem,Maged,Ibrahim Bassem Maged,20,1038786163,Ibrahim.Maged@example.com,7/5/2016,1,7/5/2025,7/5/2026,9,Male,11/22/1991,34,Egyptian,Diploma,6427,10,Customer Service,Luxor,1035
+1348,Nahed,Ismail,Galal,Nahed Ismail Galal,20,1187138287,Nahed.Galal@example.com,7/21/2020,1,7/21/2024,7/21/2025,5,Female,2/14/1994,31,Egyptian,Undergraduate,6637,6,Customer Service,Giza,1027
+1349,Diaa,Shady,Mansour,Diaa Shady Mansour,20,1294244963,Diaa.Mansour@example.com,8/13/2021,3,8/13/2024,8/13/2027,2,Male,4/19/1975,50,Egyptian,Masters,8179,8,Logistics Coordinator,Head Office,1004
+1350,Radwa,Nasr,Hassan,Radwa Nasr Hassan,20,1156472540,Radwa.Hassan@example.com,8/29/2015,2,8/29/2023,8/29/2025,5,Female,9/17/1993,32,Egyptian,Masters,7929,9,Junior Accountant,Head Office,1022
+1351,Mariam,Hatem,Saeed,Mariam Hatem Saeed,20,1047045744,Mariam.Saeed@example.com,9/14/2019,2,9/14/2023,9/14/2025,3,Female,1/19/1992,33,Egyptian,Bachelor,4842,5,Sales Associate,Cairo,1025
+1352,Bilal,Ehab,Sameh,Bilal Ehab Sameh,20,1014279968,Bilal.Sameh@example.com,10/3/2018,2,10/3/2024,10/3/2026,4,Male,10/7/1999,26,Egyptian,Diploma,4783,7,Sales Associate,Aswan,1038
+1353,Iman,Waheed,Amr,Iman Waheed Amr,20,1110322022,Iman.Amr@example.com,11/1/2016,2,11/1/2024,11/1/2026,5,Female,6/21/1983,42,Egyptian,Diploma,5914,7,Cashier,Sharm El Sheikh,1034
+1354,Mona,Anwar,Mansour,Mona Anwar Mansour,20,1140258307,Mona.Mansour@example.com,11/16/2021,1,11/16/2024,11/16/2025,4,Female,11/26/1975,50,Syrian,Diploma,5289,7,Cashier,Sharm El Sheikh,1033
+1355,Walaa,Tamer,Abdelnasser,Walaa Tamer Abdelnasser,20,1137089519,Walaa.Abdelnasser@example.com,11/27/2019,2,11/27/2023,11/27/2025,3,Female,2/23/1979,46,Egyptian,Diploma,7342,7,Customer Service,Aswan,1037
+1356,Raouf,Khaled,Youssef,Raouf Khaled Youssef,20,1290178478,Raouf.Youssef@example.com,12/8/2017,2,12/8/2023,12/8/2025,4,Male,7/7/1978,47,Egyptian,Bachelor,5166,7,Stock Keeper,Cairo,1025
+1357,Heba,Bilal,Reda,Heba Bilal Reda,20,1100182737,Heba.Reda@example.com,1/2/2015,1,1/2/2025,1/2/2026,11,Female,1/19/1993,32,Egyptian,Bachelor,4674,8,Sales Associate,Giza,1027
+1358,Helmy,Abdelaziz,Qasem,Helmy Abdelaziz Qasem,20,1214150725,Helmy.Qasem@example.com,1/25/2021,1,1/25/2025,1/25/2026,5,Male,12/25/1978,47,Egyptian,Bachelor,6799,9,Cashier,Cairo,1025
+1359,Salma,Morsy,Sobhy,Salma Morsy Sobhy,20,1150122771,Salma.Sobhy@example.com,2/15/2017,2,2/15/2025,2/15/2027,5,Female,9/19/1992,33,Egyptian,Diploma,4775,10,Sales Associate,Sharm El Sheikh,1033
+1360,Magda,Hisham,Lotfy,Magda Hisham Lotfy,20,1262493081,Magda.Lotfy@example.com,3/7/2017,1,3/7/2026,3/7/2027,9,Female,8/25/1970,55,Egyptian,Diploma,6998,9,Cashier,Sharm El Sheikh,1034
+1361,Heba,Rashed,Ashraf,Heba Rashed Ashraf,20,1289268890,Heba.Ashraf@example.com,3/17/2016,1,3/17/2025,3/17/2026,10,Female,8/18/1984,41,Sudanese,Bachelor,4229,9,Sales Associate,Aswan,1038
+1362,Nisreen,Noureldin,Nasr,Nisreen Noureldin Nasr,20,1257320372,Nisreen.Nasr@example.com,4/5/2020,1,4/5/2024,4/5/2025,5,Female,7/20/1975,50,Sudanese,Diploma,5215,7,Sales Associate,Sharm El Sheikh,1033
+1363,Dalia,Hossam,Safwat,Dalia Hossam Safwat,20,1119699106,Dalia.Safwat@example.com,5/3/2020,1,5/3/2024,5/3/2025,5,Female,6/15/1992,33,Egyptian,Bachelor,5693,7,Security,Aswan,1037
+1364,Heba,Sayed,Gamal,Heba Sayed Gamal,20,1169973877,Heba.Gamal@example.com,6/2/2016,2,6/2/2024,6/2/2026,5,Female,2/7/1976,49,Egyptian,Bachelor,8695,9,Recruitment Specialist,Head Office,1003
+1365,Kamal,Bassem,Abdelrahman,Kamal Bassem Abdelrahman,20,1085048867,Kamal.Abdelrahman@example.com,6/25/2021,2,6/25/2023,6/25/2025,2,Male,6/21/1982,43,Egyptian,Bachelor,4263,7,Sales Associate,Giza,1027
+1366,Gamal,Raouf,Amr,Gamal Raouf Amr,20,1134377656,Gamal.Amr@example.com,7/12/2020,2,7/12/2024,7/12/2026,3,Male,8/9/1978,47,Egyptian,Bachelor,6376,5,Stock Keeper,Cairo,1025
+1367,Magda,Abdelnasser,Mansour,Magda Abdelnasser Mansour,20,1046960866,Magda.Mansour@example.com,7/25/2015,1,7/25/2024,7/25/2025,10,Female,7/25/1993,32,Egyptian,Diploma,6872,7,Cashier,Mansoura,1032
+1368,Sayed,Maged,Morsy,Sayed Maged Morsy,20,1188780341,Sayed.Morsy@example.com,8/16/2020,1,8/16/2024,8/16/2025,5,Male,12/19/1979,46,Egyptian,Diploma,6337,8,Cashier,Alexandria,1029
+1369,Asmaa,Abdelaziz,Nabil,Asmaa Abdelaziz Nabil,20,1188833126,Asmaa.Nabil@example.com,9/9/2019,1,9/9/2024,9/9/2025,6,Female,12/10/1983,42,Syrian,Diploma,6560,5,Customer Service,Sharm El Sheikh,1034
+1370,Yasmin,Magdy,Abdelkader,Yasmin Magdy Abdelkader,20,1015032034,Yasmin.Abdelkader@example.com,9/26/2021,1,9/26/2024,9/26/2025,4,Female,8/17/1975,50,Sudanese,Bachelor,5516,7,Security,Luxor,1036
+1371,Noureldin,Mahmoud,Mounir,Noureldin Mahmoud Mounir,20,1015774479,Noureldin.Mounir@example.com,10/9/2020,1,10/9/2024,10/9/2025,5,Male,1/21/1988,37,Sudanese,Diploma,5862,5,Sales Associate,Giza,1027
+1372,Tawfik,Hisham,Hossam,Tawfik Hisham Hossam,20,1281591171,Tawfik.Hossam@example.com,10/24/2019,2,10/24/2023,10/24/2025,3,Male,3/21/1987,38,Egyptian,Diploma,5840,6,Sales Associate,Aswan,1038
+1373,Rasha,Emad,Ramy,Rasha Emad Ramy,20,1034134238,Rasha.Ramy@example.com,11/19/2020,2,11/19/2024,11/19/2026,3,Female,9/25/1971,54,Egyptian,Diploma,5576,8,Sales Associate,Luxor,1035
+1374,Mostafa,Reda,Morsy,Mostafa Reda Morsy,20,1068217148,Mostafa.Morsy@example.com,12/11/2016,2,12/11/2024,12/11/2026,5,Male,1/22/1996,29,Egyptian,Bachelor,7316,10,Junior Financial Analyst,Head Office,1023
+1375,Anwar,Ibrahim,Osama,Anwar Ibrahim Osama,20,1169077224,Anwar.Osama@example.com,1/5/2015,2,1/5/2025,1/5/2027,6,Male,12/7/1970,55,Egyptian,Diploma,6535,6,Security,Cairo,1025
+1376,Radwa,Magdy,Anwar,Radwa Magdy Anwar,20,1254803780,Radwa.Anwar@example.com,1/20/2017,1,1/20/2026,1/20/2027,9,Female,11/14/1998,27,Egyptian,Diploma,5611,9,Sales Associate,Alexandria,1030
+1377,Magdy,Noureldin,Yasser,Magdy Noureldin Yasser,20,1105503423,Magdy.Yasser@example.com,2/2/2017,1,2/2/2026,2/2/2027,9,Male,7/2/2002,23,Egyptian,Bachelor,5426,10,Sales Associate,Aswan,1037
+1378,Nihal,Magdy,Hassan,Nihal Magdy Hassan,20,1284601886,Nihal.Hassan@example.com,3/4/2020,1,3/4/2025,3/4/2026,6,Female,5/23/1974,51,Egyptian,Diploma,6052,8,Cashier,Sharm El Sheikh,1033
+1379,Sahar,Ezzat,Hossni,Sahar Ezzat Hossni,20,1252376930,Sahar.Hossni@example.com,3/29/2018,1,3/29/2024,3/29/2025,7,Female,4/16/1987,38,Egyptian,Bachelor,4608,7,Sales Associate,Alexandria,1030
+1380,Adel,Tarek,Maged,Adel Tarek Maged,20,1226077989,Adel.Maged@example.com,5/19/2018,2,5/19/2024,5/19/2026,4,Male,4/10/1994,31,Egyptian,Bachelor,7380,8,Junior Financial Analyst,Head Office,1023
+1381,Nehal,Ashraf,Sameh,Nehal Ashraf Sameh,20,1106192445,Nehal.Sameh@example.com,6/11/2018,2,6/11/2024,6/11/2026,4,Female,5/19/1998,27,Egyptian,Diploma,7085,6,Customer Service,Alexandria,1029
+1382,Dina,Rashed,Abdelrahman,Dina Rashed Abdelrahman,20,1164079817,Dina.Abdelrahman@example.com,7/6/2018,1,7/6/2024,7/6/2025,7,Female,4/11/2002,23,Egyptian,Undergraduate,4936,4,Accountant Trainee,Head Office,1021
+1383,Samaa,Nasr,Saeed,Samaa Nasr Saeed,20,1073854671,Samaa.Saeed@example.com,8/5/2019,2,8/5/2023,8/5/2025,3,Female,8/3/1968,57,Egyptian,Bachelor,6755,5,Customer Service,Aswan,1038
+1384,Tarek,Sameh,Hany,Tarek Sameh Hany,20,1216149129,Tarek.Hany@example.com,8/31/2021,1,8/31/2024,8/31/2025,4,Male,10/23/1971,54,Egyptian,Diploma,5023,8,Sales Associate,Cairo,1026
+1385,Gamal,Farouk,Yasser,Gamal Farouk Yasser,20,1196298808,Gamal.Yasser@example.com,9/28/2018,1,9/28/2024,9/28/2025,7,Male,4/26/1990,35,Egyptian,Undergraduate,6976,10,Cashier,Cairo,1025
+1386,Tamer,Qasem,Basel,Tamer Qasem Basel,20,1066799011,Tamer.Basel@example.com,10/15/2015,2,10/15/2023,10/15/2025,5,Male,7/25/1971,54,Egyptian,Bachelor,6039,8,Stock Keeper,Cairo,1025
+1387,Hend,Saeed,Qasem,Hend Saeed Qasem,20,1243647371,Hend.Qasem@example.com,10/25/2016,1,10/25/2025,10/25/2026,9,Female,2/2/2001,24,Egyptian,Undergraduate,5897,8,Cashier,Giza,1027
+1388,Mamdouh,Ziad,Wael,Mamdouh Ziad Wael,20,1100903935,Mamdouh.Wael@example.com,11/23/2019,2,11/23/2023,11/23/2025,3,Male,8/6/1988,37,Egyptian,Bachelor,7744,6,Customer Service,Aswan,1038
+1389,Hany,Abdelnasser,Abdelatif,Hany Abdelnasser Abdelatif,20,1143086077,Hany.Abdelatif@example.com,12/16/2021,1,12/16/2024,12/16/2025,4,Male,7/28/1991,34,Egyptian,Bachelor,5700,6,Stock Keeper,Sharm El Sheikh,1033
+1390,Khaled,Youssef,Youssef,Khaled Youssef Youssef,20,1003930321,Khaled.Youssef@example.com,1/2/2018,2,1/2/2024,1/2/2026,4,Male,10/13/1985,40,Egyptian,Bachelor,6004,6,Stock Keeper,Cairo,1025
+1391,Radwa,Ashraf,Shady,Radwa Ashraf Shady,20,1280775343,Radwa.Shady@example.com,1/17/2018,2,1/17/2024,1/17/2026,4,Female,4/8/1970,55,Egyptian,Bachelor,5395,7,Stock Keeper,Giza,1027
+1392,Rania,Hossam,Abdelnasser,Rania Hossam Abdelnasser,20,1194476027,Rania.Abdelnasser@example.com,2/9/2021,2,2/9/2025,2/9/2027,3,Female,10/5/1978,47,Egyptian,Diploma,5208,8,Sales Associate,Aswan,1038
+1393,Safwat,Yasser,Nabil,Safwat Yasser Nabil,20,1105357208,Safwat.Nabil@example.com,3/6/2021,1,3/6/2025,3/6/2026,5,Male,5/3/1979,46,Syrian,Bachelor,7836,7,Customer Service,Alexandria,1029
+1394,Khaled,Soliman,Essam,Khaled Soliman Essam,20,1063870973,Khaled.Essam@example.com,3/22/2018,1,3/22/2024,3/22/2025,7,Male,1/18/1997,28,Egyptian,Bachelor,6638,5,Customer Service,Alexandria,1029
+1395,Magda,Reda,Basel,Magda Reda Basel,20,1294000306,Magda.Basel@example.com,4/12/2018,1,4/12/2024,4/12/2025,7,Female,9/26/1981,44,Egyptian,Bachelor,6642,7,Cashier,Luxor,1035
+1396,Hend,Sayed,Mamdouh,Hend Sayed Mamdouh,20,1162923652,Hend.Mamdouh@example.com,5/9/2015,2,5/9/2023,5/9/2025,5,Female,6/14/1992,33,Egyptian,Bachelor,6687,9,Cashier,Giza,1027
+1397,Iman,Abdelkader,Ezzat,Iman Abdelkader Ezzat,20,1136719356,Iman.Ezzat@example.com,6/1/2019,2,6/1/2023,6/1/2025,3,Female,3/1/1979,46,Egyptian,Bachelor,4107,6,Sales Associate,Sharm El Sheikh,1033
+1398,Youssef,Soliman,Rashed,Youssef Soliman Rashed,20,1294109849,Youssef.Rashed@example.com,6/19/2017,2,6/19/2023,6/19/2025,4,Male,4/10/1968,57,Egyptian,Diploma,5749,5,Security,Mansoura,1031
+1399,Nisreen,Abdelkader,Islam,Nisreen Abdelkader Islam,20,1059848254,Nisreen.Islam@example.com,7/5/2015,1,7/5/2024,7/5/2025,10,Female,11/8/1994,31,Egyptian,Diploma,6405,10,Cashier,Alexandria,1029
+1400,Fouad,Fares,Moheb,Fouad Fares Moheb,20,1241865060,Fouad.Moheb@example.com,8/2/2021,2,8/2/2023,8/2/2025,2,Male,9/16/1980,45,Egyptian,Masters,6158,6,Customer Service,Giza,1027
+1401,Hany,Helmy,Safwat,Hany Helmy Safwat,20,1030842387,Hany.Safwat@example.com,8/24/2017,1,8/24/2024,8/24/2025,8,Male,10/28/1976,49,Egyptian,Diploma,7383,9,Customer Service,Mansoura,1031
+1402,Sohair,Rami,Sherif,Sohair Rami Sherif,20,1102586181,Sohair.Sherif@example.com,9/6/2019,1,9/6/2024,9/6/2025,6,Female,9/19/1974,51,Egyptian,Bachelor,6161,7,Stock Keeper,Alexandria,1030
+1403,Waheed,Helmy,Hossam,Waheed Helmy Hossam,20,1183259401,Waheed.Hossam@example.com,10/1/2016,2,10/1/2024,10/1/2026,5,Male,10/3/1998,27,Egyptian,Bachelor,5291,6,Stock Keeper,Sharm El Sheikh,1033
+1404,Rania,Youssef,Safwat,Rania Youssef Safwat,20,1177026450,Rania.Safwat@example.com,10/29/2018,1,10/29/2024,10/29/2025,7,Female,10/25/1995,30,Egyptian,Bachelor,5287,7,Stock Keeper,Sharm El Sheikh,1033
+1405,Naglaa,Fouad,Abdelatif,Naglaa Fouad Abdelatif,20,1009192946,Naglaa.Abdelatif@example.com,11/15/2020,1,11/15/2024,11/15/2025,5,Female,2/3/1982,43,Egyptian,Bachelor,5977,6,Stock Keeper,Mansoura,1031
+1406,Lina,Abdelmonem,Bahaa,Lina Abdelmonem Bahaa,20,1229096074,Lina.Bahaa@example.com,12/11/2018,1,12/11/2024,12/11/2025,7,Female,10/27/1983,42,Egyptian,Diploma,5342,10,Sales Associate,Aswan,1038
+1407,Rania,Mansour,Ramy,Rania Mansour Ramy,20,1211976894,Rania.Ramy@example.com,12/26/2021,1,12/26/2024,12/26/2025,4,Female,12/27/1972,53,Sudanese,Diploma,6954,7,Customer Service,Mansoura,1031
+1408,Sohair,Omar,Anwar,Sohair Omar Anwar,20,1015473707,Sohair.Anwar@example.com,1/22/2018,1,1/22/2025,1/22/2026,8,Female,10/14/1978,47,Egyptian,Bachelor,5778,7,Stock Keeper,Mansoura,1031
+1409,Nihal,Tawfik,Youssef,Nihal Tawfik Youssef,20,1190017401,Nihal.Youssef@example.com,2/2/2021,2,2/2/2025,2/2/2027,3,Female,2/8/1990,35,Egyptian,Bachelor,5774,8,Stock Keeper,Luxor,1035
+1410,Sobhy,Abdelsalam,Farouk,Sobhy Abdelsalam Farouk,20,1001238123,Sobhy.Farouk@example.com,2/12/2017,1,2/12/2026,2/12/2027,9,Male,11/20/1990,35,Egyptian,Bachelor,4532,7,Stock Keeper,Cairo,1025
+1411,Hisham,Anwar,Safwat,Hisham Anwar Safwat,20,1266087001,Hisham.Safwat@example.com,2/23/2016,2,2/23/2024,2/23/2026,5,Male,2/13/1991,34,Egyptian,Bachelor,5488,7,Cashier,Alexandria,1029
+1412,Farouk,Essam,Tawfik,Farouk Essam Tawfik,20,1260216396,Farouk.Tawfik@example.com,3/18/2015,2,3/18/2023,3/18/2025,5,Male,1/9/1971,54,Egyptian,Bachelor,5381,7,Sales Associate,Luxor,1035
+1413,Reham,Mohamed,Emad,Reham Mohamed Emad,20,1123578823,Reham.Emad@example.com,5/2/2018,2,5/2/2024,5/2/2026,4,Female,11/21/1995,30,Egyptian,Diploma,5091,5,Sales Associate,Aswan,1038
+1414,Nahed,Montasser,Basel,Nahed Montasser Basel,20,1188014080,Nahed.Basel@example.com,5/23/2015,2,5/23/2023,5/23/2025,5,Female,3/3/1968,57,Egyptian,Bachelor,4812,7,Sales Associate,Alexandria,1029
+1415,Essam,Kamal,Khaled,Essam Kamal Khaled,20,1000199622,Essam.Khaled@example.com,6/8/2020,1,6/8/2024,6/8/2025,5,Male,9/18/2001,24,Syrian,Diploma,6078,7,Cashier,Sharm El Sheikh,1034
+1416,Nihal,Raouf,Bilal,Nihal Raouf Bilal,20,1050277069,Nihal.Bilal@example.com,6/22/2017,2,6/22/2023,6/22/2025,4,Female,2/4/1989,36,Egyptian,Bachelor,6859,8,Cashier,Cairo,1025
+1417,Magda,Yehia,Ramy,Magda Yehia Ramy,20,1104321393,Magda.Ramy@example.com,7/15/2019,1,7/15/2024,7/15/2025,6,Female,8/28/1979,46,Syrian,Bachelor,6009,7,Stock Keeper,Aswan,1037
+1418,Nour,Mahmoud,Wael,Nour Mahmoud Wael,20,1127163903,Nour.Wael@example.com,8/5/2017,1,8/5/2024,8/5/2025,8,Female,5/4/1974,51,Egyptian,Bachelor,5680,8,Stock Keeper,Luxor,1035
+1419,Hana,Fady,Hatem,Hana Fady Hatem,20,1144502228,Hana.Hatem@example.com,8/18/2020,1,8/18/2024,8/18/2025,5,Female,4/10/1974,51,Egyptian,Bachelor,5854,6,Sales Associate,Sharm El Sheikh,1033
+1420,Omar,Lotfy,Gamal,Omar Lotfy Gamal,20,1263412865,Omar.Gamal@example.com,9/4/2021,2,9/4/2023,9/4/2025,2,Male,9/18/1968,57,Egyptian,Diploma,6393,5,Customer Service,Aswan,1038
+1421,Samaa,Waheed,Fouad,Samaa Waheed Fouad,20,1206440408,Samaa.Fouad@example.com,9/18/2017,1,9/18/2024,9/18/2025,8,Female,7/20/1973,52,Egyptian,Diploma,7256,6,Customer Service,Luxor,1035
+1422,Heba,Hossam,Ayman,Heba Hossam Ayman,20,1231809225,Heba.Ayman@example.com,10/5/2016,2,10/5/2024,10/5/2026,5,Female,8/17/1979,46,Syrian,Bachelor,4608,5,Sales Associate,Sharm El Sheikh,1033
+1423,Gihan,Waheed,Amr,Gihan Waheed Amr,20,1196140709,Gihan.Amr@example.com,10/21/2020,1,10/21/2024,10/21/2025,5,Female,12/3/1969,56,Egyptian,Bachelor,5286,6,Sales Associate,Alexandria,1029
+1424,Ramy,Abdelaziz,Abdelatif,Ramy Abdelaziz Abdelatif,20,1209164946,Ramy.Abdelatif@example.com,11/12/2017,1,11/12/2024,11/12/2025,8,Male,7/18/1986,39,Egyptian,Bachelor,5425,7,Sales Associate,Aswan,1038
+1425,Aref,Khaled,Basel,Aref Khaled Basel,20,1209754461,Aref.Basel@example.com,12/10/2017,2,12/10/2023,12/10/2025,4,Male,11/26/1992,33,Egyptian,Bachelor,5828,9,Sales Associate,Luxor,1035
+1426,Sherif,Wael,Raouf,Sherif Wael Raouf,20,1268514384,Sherif.Raouf@example.com,12/28/2020,1,12/28/2024,12/28/2025,5,Male,2/28/2002,23,Sudanese,Bachelor,6794,6,Cashier,Giza,1027
+1427,Ismail,Mostafa,Waheed,Ismail Mostafa Waheed,20,1095789006,Ismail.Waheed@example.com,1/21/2016,2,1/21/2024,1/21/2026,5,Male,12/7/1989,36,Egyptian,Bachelor,5116,8,Stock Keeper,Sharm El Sheikh,1034
+1428,Magda,Fady,Bassem,Magda Fady Bassem,20,1187268448,Magda.Bassem@example.com,1/31/2020,1,1/31/2025,1/31/2026,6,Female,5/8/1999,26,Egyptian,Diploma,5620,10,Cashier,Aswan,1038
+1429,Hanan,Diaa,Hatem,Hanan Diaa Hatem,20,1041190981,Hanan.Hatem@example.com,2/20/2020,2,2/20/2024,2/20/2026,3,Female,2/22/2002,23,Egyptian,Bachelor,4619,6,Sales Associate,Sharm El Sheikh,1034
+1430,Hend,Ismail,Ziad,Hend Ismail Ziad,20,1051719945,Hend.Ziad@example.com,3/5/2020,1,3/5/2025,3/5/2026,6,Female,6/1/1982,43,Egyptian,Diploma,5405,7,Security,Mansoura,1031
+1431,Abdelmonem,Abdelsalam,Reda,Abdelmonem Abdelsalam Reda,20,1006617651,Abdelmonem.Reda@example.com,4/1/2016,1,4/1/2025,4/1/2026,9,Male,12/9/1996,29,Egyptian,Bachelor,6064,6,Stock Keeper,Mansoura,1032
+1432,Khalil,Kamal,Kamal,Khalil Kamal Kamal,20,1042479980,Khalil.Kamal@example.com,4/12/2018,2,4/12/2024,4/12/2026,4,Male,6/2/1975,50,Egyptian,Bachelor,6975,5,Cashier,Mansoura,1032
+1433,Soliman,Ezzat,Ismail,Soliman Ezzat Ismail,20,1103026654,Soliman.Ismail@example.com,5/11/2016,2,5/11/2024,5/11/2026,5,Male,12/28/1969,56,Egyptian,Diploma,5817,9,Cashier,Alexandria,1030
+1434,Tamer,Farouk,Ayman,Tamer Farouk Ayman,20,1254411897,Tamer.Ayman@example.com,6/19/2021,2,6/19/2023,6/19/2025,2,Male,11/5/1977,48,Egyptian,Bachelor,5233,10,Cashier,Luxor,1035
+1435,Mansour,Lotfy,Ahmed,Mansour Lotfy Ahmed,20,1103187582,Mansour.Ahmed@example.com,7/3/2019,2,7/3/2023,7/3/2025,3,Male,12/16/1979,46,Egyptian,Bachelor,5793,7,Cashier,Luxor,1035
+1436,Karim,Islam,Fouad,Karim Islam Fouad,20,1058089716,Karim.Fouad@example.com,7/19/2015,2,7/19/2023,7/19/2025,5,Male,5/14/1982,43,Egyptian,Diploma,5906,5,Security,Mansoura,1031
+1437,Samira,Wael,Abdelmonem,Samira Wael Abdelmonem,20,1174315647,Samira.Abdelmonem@example.com,8/7/2021,2,8/7/2023,8/7/2025,2,Female,11/4/2002,23,Egyptian,Bachelor,4886,5,Stock Keeper,Aswan,1037
+1438,Manar,Mahmoud,Fady,Manar Mahmoud Fady,20,1285261556,Manar.Fady@example.com,9/1/2020,2,9/1/2024,9/1/2026,3,Female,8/14/1983,42,Egyptian,Bachelor,5982,8,Sales Associate,Giza,1027
+1439,Reham,Ashraf,Youssef,Reham Ashraf Youssef,20,1014422278,Reham.Youssef@example.com,9/17/2021,1,9/17/2024,9/17/2025,4,Female,12/21/1979,46,Egyptian,Bachelor,5334,8,Stock Keeper,Luxor,1035
+1440,Maged,Bassem,Farouk,Maged Bassem Farouk,20,1077822099,Maged.Farouk@example.com,10/5/2020,3,10/5/2023,10/5/2026,2,Male,6/5/1968,57,Egyptian,Masters,9795,12,Logistics Coordinator,Head Office,1004
+1441,Bahaa,Yehia,Ezzat,Bahaa Yehia Ezzat,20,1251998538,Bahaa.Ezzat@example.com,10/29/2016,1,10/29/2025,10/29/2026,9,Male,1/28/1980,45,Egyptian,Diploma,5308,6,Security,Mansoura,1031
+1442,Walaa,Abdelsalam,Helmy,Walaa Abdelsalam Helmy,20,1121068292,Walaa.Helmy@example.com,11/11/2015,2,11/11/2023,11/11/2025,5,Female,2/28/1994,31,Egyptian,Diploma,7701,6,Customer Service,Alexandria,1029
+1443,Laila,Zakaria,Gamal,Laila Zakaria Gamal,20,1044622090,Laila.Gamal@example.com,11/27/2021,2,11/27/2023,11/27/2025,2,Female,4/23/1991,34,Egyptian,Bachelor,5788,10,Cashier,Luxor,1036
+1444,Fatma,Kamal,Ezzat,Fatma Kamal Ezzat,20,1032013092,Fatma.Ezzat@example.com,12/9/2019,1,12/9/2024,12/9/2025,6,Female,5/2/1999,26,Egyptian,Diploma,6260,9,Cashier,Cairo,1025
+1445,Rashed,Sayed,Shady,Rashed Sayed Shady,20,1216003173,Rashed.Shady@example.com,12/24/2020,2,12/24/2024,12/24/2026,3,Male,2/2/1984,41,Egyptian,Diploma,6271,6,Customer Service,Mansoura,1031
+1446,Ahmed,Khaled,Shady,Ahmed Khaled Shady,20,1258216203,Ahmed.Shady@example.com,1/10/2019,2,1/10/2025,1/10/2027,4,Male,2/21/1999,26,Egyptian,Bachelor,5958,8,Sales Associate,Giza,1027
+1447,Moataz,Adel,Karim,Moataz Adel Karim,20,1079267768,Moataz.Karim@example.com,2/2/2018,2,2/2/2024,2/2/2026,4,Male,8/21/1975,50,Egyptian,Diploma,5358,10,Cashier,Giza,1028
+1448,Bassem,Abdelatif,Tamer,Bassem Abdelatif Tamer,20,1292357001,Bassem.Tamer@example.com,3/1/2019,1,3/1/2025,3/1/2026,7,Male,6/24/1978,47,Syrian,Bachelor,4604,7,Stock Keeper,Alexandria,1030
+1449,Hanan,Mostafa,Sameh,Hanan Mostafa Sameh,20,1242854397,Hanan.Sameh@example.com,3/26/2016,1,3/26/2025,3/26/2026,9,Female,3/13/1980,45,Syrian,Diploma,5100,7,Sales Associate,Aswan,1038
+1450,Shaimaa,Atef,Atef,Shaimaa Atef Atef,20,1059031245,Shaimaa.Atef@example.com,4/7/2020,1,4/7/2024,4/7/2025,5,Female,12/13/1987,38,Egyptian,Undergraduate,6220,8,Cashier,Alexandria,1029
+1451,Inas,Waheed,Helmy,Inas Waheed Helmy,20,1180533448,Inas.Helmy@example.com,4/19/2017,1,4/19/2024,4/19/2025,8,Female,2/1/1970,55,Egyptian,Bachelor,4557,6,Stock Keeper,Aswan,1037
+1452,Raouf,Omar,Ibrahim,Raouf Omar Ibrahim,20,1137590514,Raouf.Ibrahim@example.com,5/2/2019,2,5/2/2023,5/2/2025,3,Male,12/11/1974,51,Egyptian,Bachelor,5686,9,Cashier,Luxor,1035
+1453,Montasser,Mahmoud,Montasser,Montasser Mahmoud Montasser,20,1190818108,Montasser.Montasser@example.com,5/18/2021,1,5/18/2024,5/18/2025,4,Male,5/23/1973,52,Egyptian,Bachelor,6663,7,Cashier,Alexandria,1030
+1454,Nesrine,Gamal,Tawfik,Nesrine Gamal Tawfik,20,1229326719,Nesrine.Tawfik@example.com,5/29/2018,2,5/29/2024,5/29/2026,4,Female,6/12/2002,23,Egyptian,Bachelor,5180,8,Cashier,Giza,1028
+1455,Fatma,Waheed,Aref,Fatma Waheed Aref,20,1264222380,Fatma.Aref@example.com,6/8/2015,1,6/8/2024,6/8/2025,10,Female,12/22/1983,42,Egyptian,Bachelor,4237,5,Sales Associate,Cairo,1026
+1456,Diaa,Karim,Tawfik,Diaa Karim Tawfik,20,1178315712,Diaa.Tawfik@example.com,7/6/2021,2,7/6/2023,7/6/2025,2,Male,11/21/1990,35,Egyptian,Bachelor,4293,7,Sales Associate,Giza,1027
+1457,Laila,Abdelmonem,Adel,Laila Abdelmonem Adel,20,1096254306,Laila.Adel@example.com,7/29/2020,1,7/29/2024,7/29/2025,5,Female,1/26/1982,43,Egyptian,Diploma,6502,5,Cashier,Luxor,1035
+1458,Salma,Reda,Moataz,Salma Reda Moataz,20,1285922013,Salma.Moataz@example.com,8/15/2021,2,8/15/2023,8/15/2025,2,Female,8/2/1973,52,Egyptian,Bachelor,7101,6,Customer Service,Giza,1027
+1459,Gihan,Essam,Abdelatif,Gihan Essam Abdelatif,20,1062083872,Gihan.Abdelatif@example.com,9/14/2019,2,9/14/2023,9/14/2025,3,Female,4/7/1976,49,Egyptian,Masters,7229,7,Customer Service,Aswan,1038
+1460,Lina,Shady,Ali,Lina Shady Ali,20,1235835838,Lina.Ali@example.com,10/11/2021,1,10/11/2024,10/11/2025,4,Female,9/24/1998,27,Egyptian,Diploma,5255,7,Sales Associate,Luxor,1035
+1461,Marwa,Fouad,Abdelsalam,Marwa Fouad Abdelsalam,20,1278987233,Marwa.Abdelsalam@example.com,11/3/2019,2,11/3/2023,11/3/2025,3,Female,6/6/1978,47,Egyptian,Diploma,5986,7,Sales Associate,Luxor,1035
+1462,Mona,Ahmed,Fares,Mona Ahmed Fares,20,1271346698,Mona.Fares@example.com,11/26/2016,2,11/26/2024,11/26/2026,5,Female,1/15/1986,39,Sudanese,Bachelor,6317,7,Stock Keeper,Sharm El Sheikh,1034
+1463,Rania,Gamal,Diaa,Rania Gamal Diaa,20,1269104302,Rania.Diaa@example.com,12/26/2017,2,12/26/2023,12/26/2025,4,Female,11/17/1985,40,Egyptian,Diploma,6818,8,Security,Cairo,1025
+1464,Samaa,Bassem,Mostafa,Samaa Bassem Mostafa,20,1022166219,Samaa.Mostafa@example.com,1/23/2016,2,1/23/2024,1/23/2026,5,Female,5/3/1974,51,Egyptian,Bachelor,5368,6,Cashier,Cairo,1025
+1465,Mansour,Diaa,Kamal,Mansour Diaa Kamal,20,1101801623,Mansour.Kamal@example.com,2/7/2019,1,2/7/2025,2/7/2026,7,Male,4/2/1980,45,Egyptian,Masters,6960,8,Customer Service,Alexandria,1030
+1466,Shaimaa,Basel,Reda,Shaimaa Basel Reda,20,1097665157,Shaimaa.Reda@example.com,2/28/2021,1,2/28/2025,2/28/2026,5,Female,3/14/1978,47,Egyptian,Diploma,5653,8,Stock Keeper,Sharm El Sheikh,1034
+1467,Sherif,Abdelaziz,Hatem,Sherif Abdelaziz Hatem,20,1183919162,Sherif.Hatem@example.com,3/12/2020,2,3/12/2024,3/12/2026,3,Male,1/13/1983,42,Egyptian,Bachelor,5418,6,Stock Keeper,Luxor,1036
+1468,Dalia,Hisham,Mahmoud,Dalia Hisham Mahmoud,20,1227382741,Dalia.Mahmoud@example.com,4/8/2016,1,4/8/2025,4/8/2026,9,Female,10/13/1976,49,Egyptian,Bachelor,5298,5,Sales Associate,Giza,1027
+1469,Hossam,Hossam,Abdelmonem,Hossam Hossam Abdelmonem,20,1234542209,Hossam.Abdelmonem@example.com,5/5/2017,2,5/5/2023,5/5/2025,4,Male,7/12/1976,49,Egyptian,Diploma,5787,10,Sales Associate,Sharm El Sheikh,1034
+1470,Farouk,Hatem,Ramy,Farouk Hatem Ramy,20,1297631829,Farouk.Ramy@example.com,5/22/2020,2,5/22/2024,5/22/2026,3,Male,3/19/1988,37,Egyptian,Bachelor,4630,8,Sales Associate,Sharm El Sheikh,1034
+1471,Eman,Osama,Abdelsalam,Eman Osama Abdelsalam,20,1054059690,Eman.Abdelsalam@example.com,6/21/2015,1,6/21/2024,6/21/2025,10,Female,12/19/1973,52,Egyptian,Bachelor,4421,5,Sales Associate,Aswan,1038
+1472,Aya,Hossam,Ramy,Aya Hossam Ramy,20,1135315220,Aya.Ramy@example.com,7/15/2015,2,7/15/2023,7/15/2025,5,Female,9/1/1980,45,Egyptian,Diploma,6663,8,Cashier,Sharm El Sheikh,1034
+1473,Hend,Khalil,Rashed,Hend Khalil Rashed,20,1081199323,Hend.Rashed@example.com,7/28/2016,2,7/28/2024,7/28/2026,5,Female,1/19/1994,31,Egyptian,Diploma,6893,7,Security,Giza,1027
+1474,Nahed,Rami,Tarek,Nahed Rami Tarek,20,1037384179,Nahed.Tarek@example.com,8/19/2016,1,8/19/2025,8/19/2026,9,Female,6/7/1971,54,Egyptian,Bachelor,5398,8,Stock Keeper,Alexandria,1030
+1475,Moataz,Youssef,Mostafa,Moataz Youssef Mostafa,20,1153432053,Moataz.Mostafa@example.com,9/10/2017,2,9/10/2023,9/10/2025,4,Male,4/24/1997,28,Egyptian,Bachelor,5385,5,Sales Associate,Cairo,1026
+1476,Bahaa,Nasr,Emad,Bahaa Nasr Emad,20,1001005635,Bahaa.Emad@example.com,9/22/2015,2,9/22/2023,9/22/2025,5,Male,4/20/1990,35,Egyptian,Diploma,7169,7,Customer Service,Giza,1028
+1477,Fatma,Raouf,Reda,Fatma Raouf Reda,20,1064176286,Fatma.Reda@example.com,10/19/2016,1,10/19/2025,10/19/2026,9,Female,6/18/1977,48,Egyptian,Bachelor,6175,9,Cashier,Luxor,1036
+1478,Mona,Nabil,Ismail,Mona Nabil Ismail,20,1157465743,Mona.Ismail@example.com,11/4/2020,2,11/4/2024,11/4/2026,3,Female,6/23/1984,41,Egyptian,Bachelor,5646,9,Sales Associate,Cairo,1026
+1479,Naglaa,Ahmed,Ziad,Naglaa Ahmed Ziad,20,1080122564,Naglaa.Ziad@example.com,11/22/2019,1,11/22/2024,11/22/2025,6,Female,8/28/1987,38,Egyptian,Diploma,5915,8,Cashier,Aswan,1038
+1480,Mounir,Sayed,Wael,Mounir Sayed Wael,20,1137298170,Mounir.Wael@example.com,12/20/2017,1,12/20/2024,12/20/2025,8,Male,9/26/1976,49,Egyptian,Diploma,5949,6,Sales Associate,Giza,1028
+1481,Moheb,Sobhy,Youssef,Moheb Sobhy Youssef,20,1036078486,Moheb.Youssef@example.com,1/6/2020,1,1/6/2025,1/6/2026,6,Male,10/17/2000,25,Egyptian,Bachelor,5048,6,Sales Associate,Mansoura,1032
+1482,Rania,Atef,Abdelsalam,Rania Atef Abdelsalam,20,1012861622,Rania.Abdelsalam@example.com,1/25/2015,1,1/25/2025,1/25/2026,11,Female,2/10/1982,43,Egyptian,Undergraduate,5691,6,Cashier,Cairo,1026
+1483,Sherine,Abdelaziz,Adel,Sherine Abdelaziz Adel,20,1247429967,Sherine.Adel@example.com,2/11/2015,2,2/11/2025,2/11/2027,6,Female,1/12/2001,24,Egyptian,Bachelor,6164,8,Stock Keeper,Giza,1027
+1484,Fatma,Montasser,Yasser,Fatma Montasser Yasser,20,1139952497,Fatma.Yasser@example.com,2/25/2018,2,2/25/2024,2/25/2026,4,Female,10/27/1973,52,Egyptian,Bachelor,5076,8,Sales Associate,Mansoura,1032
+1485,Heba,Tawfik,Lotfy,Heba Tawfik Lotfy,20,1254075474,Heba.Lotfy@example.com,3/22/2018,1,3/22/2024,3/22/2025,7,Female,3/27/1970,55,Egyptian,Bachelor,7185,7,Customer Service,Mansoura,1031
+1486,Manar,Tamer,Mounir,Manar Tamer Mounir,20,1044768712,Manar.Mounir@example.com,4/8/2019,2,4/8/2023,4/8/2025,3,Female,2/9/1980,45,Egyptian,Bachelor,5815,7,Sales Associate,Alexandria,1029
+1487,Gihan,Aref,Galal,Gihan Aref Galal,20,1129863928,Gihan.Galal@example.com,4/26/2019,1,4/26/2024,4/26/2025,6,Female,1/24/1975,50,Egyptian,Bachelor,6074,5,Stock Keeper,Sharm El Sheikh,1034
+1488,Aya,Bassem,Ayman,Aya Bassem Ayman,20,1028940927,Aya.Ayman@example.com,5/12/2020,2,5/12/2024,5/12/2026,3,Female,7/7/1996,29,Egyptian,Diploma,7865,10,Customer Service,Luxor,1035
+1489,Hany,Saeed,Mansour,Hany Saeed Mansour,20,1027573721,Hany.Mansour@example.com,5/24/2018,1,5/24/2024,5/24/2025,7,Male,9/10/1976,49,Egyptian,Bachelor,5881,7,Sales Associate,Cairo,1026
+1490,Reham,Anwar,Yehia,Reham Anwar Yehia,20,1207246907,Reham.Yehia@example.com,6/7/2016,1,6/7/2025,6/7/2026,9,Female,4/14/1995,30,Egyptian,Bachelor,4371,7,Sales Associate,Alexandria,1029
+1491,Adel,Ayman,Nabil,Adel Ayman Nabil,20,1034244884,Adel.Nabil@example.com,7/18/2019,2,7/18/2023,7/18/2025,3,Male,1/12/1981,44,Egyptian,Bachelor,4786,7,Sales Associate,Giza,1028
+1492,Fatma,Diaa,Ramy,Fatma Diaa Ramy,20,1182330277,Fatma.Ramy@example.com,8/1/2018,1,8/1/2024,8/1/2025,7,Female,5/20/1975,50,Syrian,Diploma,5262,7,Cashier,Aswan,1038
+1493,Mariam,Mohamed,Ashraf,Mariam Mohamed Ashraf,20,1105687083,Mariam.Ashraf@example.com,8/13/2020,1,8/13/2024,8/13/2025,5,Female,11/26/1975,50,Egyptian,Diploma,6356,10,Cashier,Cairo,1026
+1494,Sherine,Ahmed,Hossni,Sherine Ahmed Hossni,20,1033765007,Sherine.Hossni@example.com,8/30/2018,2,8/30/2024,8/30/2026,4,Female,11/12/1993,32,Egyptian,Diploma,6471,6,Security,Aswan,1038
+1495,Ayman,Hany,Omar,Ayman Hany Omar,20,1202689084,Ayman.Omar@example.com,9/13/2017,2,9/13/2023,9/13/2025,4,Male,8/14/1977,48,Sudanese,Diploma,6820,5,Security,Alexandria,1030
+1496,Nihal,Basel,Abdelrahman,Nihal Basel Abdelrahman,20,1143806650,Nihal.Abdelrahman@example.com,9/26/2016,1,9/26/2025,9/26/2026,9,Female,2/9/1992,33,Egyptian,Diploma,6527,9,Cashier,Sharm El Sheikh,1034
+1497,Dalia,Shady,Ehab,Dalia Shady Ehab,20,1069141152,Dalia.Ehab@example.com,10/18/2021,1,10/18/2024,10/18/2025,4,Female,2/21/1975,50,Egyptian,Diploma,5953,5,Security,Giza,1027
+1498,Nisreen,Helmy,Essam,Nisreen Helmy Essam,20,1061320771,Nisreen.Essam@example.com,11/12/2021,2,11/12/2023,11/12/2025,2,Female,10/17/2002,23,Egyptian,Masters,7328,9,Customer Service,Mansoura,1031
+1499,Hossam,Safwat,Montasser,Hossam Safwat Montasser,20,1260011074,Hossam.Montasser@example.com,12/2/2019,2,12/2/2023,12/2/2025,3,Male,10/18/1979,46,Egyptian,Diploma,7031,8,Customer Service,Luxor,1035
+1500,Rasha,Mounir,Saber,Rasha Mounir Saber,20,1151707288,Rasha.Saber@example.com,12/15/2021,2,12/15/2023,12/15/2025,2,Female,7/23/1984,41,Syrian,Bachelor,5445,7,Stock Keeper,Aswan,1037
+1501,Magda,Hossam,Fady,Magda Hossam Fady,20,1281104880,Magda.Fady@example.com,1/1/2016,2,1/1/2024,1/1/2026,5,Female,7/22/1988,37,Egyptian,Masters,8664,5,Junior Financial Analyst,Head Office,1024
+1502,Mamdouh,Sayed,Ibrahim,Mamdouh Sayed Ibrahim,20,1055605043,Mamdouh.Ibrahim@example.com,1/18/2017,2,1/18/2025,1/18/2027,5,Male,7/9/1977,48,Egyptian,Bachelor,5028,7,Cashier,Giza,1028
+1503,Magda,Tawfik,Soliman,Magda Tawfik Soliman,20,1164985706,Magda.Soliman@example.com,2/10/2021,2,2/10/2025,2/10/2027,3,Female,7/3/1993,32,Egyptian,Bachelor,4970,10,Sales Associate,Cairo,1026
+1504,Shaimaa,Abdelsalam,Reda,Shaimaa Abdelsalam Reda,20,1129942867,Shaimaa.Reda@example.com,2/24/2016,1,2/24/2025,2/24/2026,10,Female,11/27/1998,27,Sudanese,Diploma,6022,5,Cashier,Aswan,1038
+1505,Sahar,Ashraf,Tamer,Sahar Ashraf Tamer,20,1126183044,Sahar.Tamer@example.com,3/22/2016,1,3/22/2025,3/22/2026,9,Female,2/11/1983,42,Egyptian,Diploma,5266,10,Sales Associate,Alexandria,1029
+1506,Diaa,Aref,Sayed,Diaa Aref Sayed,20,1046450681,Diaa.Sayed@example.com,4/11/2020,2,4/11/2024,4/11/2026,3,Male,3/26/1969,56,Egyptian,Diploma,5713,9,Cashier,Cairo,1026
+1507,Ghada,Ayman,Bilal,Ghada Ayman Bilal,20,1065562105,Ghada.Bilal@example.com,4/24/2020,2,4/24/2024,4/24/2026,3,Female,7/3/1975,50,Egyptian,Diploma,6110,10,Cashier,Alexandria,1030
+1508,Naglaa,Sobhy,Saeed,Naglaa Sobhy Saeed,20,1196419525,Naglaa.Saeed@example.com,5/16/2017,2,5/16/2023,5/16/2025,4,Female,2/24/1979,46,Egyptian,Bachelor,6018,5,Stock Keeper,Mansoura,1032
+1509,Saber,Safwat,Mounir,Saber Safwat Mounir,20,1124437824,Saber.Mounir@example.com,6/14/2017,1,6/14/2024,6/14/2025,8,Male,8/21/2002,23,Egyptian,Bachelor,6465,7,Stock Keeper,Alexandria,1030
+1510,Sherine,Nabil,Ezzat,Sherine Nabil Ezzat,20,1268303439,Sherine.Ezzat@example.com,6/29/2016,1,6/29/2025,6/29/2026,9,Female,8/13/2000,25,Sudanese,Bachelor,5135,5,Security,Sharm El Sheikh,1033
+1511,Mona,Maged,Omar,Mona Maged Omar,20,1255252114,Mona.Omar@example.com,7/15/2021,1,7/15/2024,7/15/2025,4,Female,2/24/1981,44,Egyptian,Diploma,5622,6,Cashier,Luxor,1036
+1512,Heba,Abdelkader,Ayman,Heba Abdelkader Ayman,20,1266960648,Heba.Ayman@example.com,8/7/2021,2,8/7/2023,8/7/2025,2,Female,12/23/1981,44,Syrian,Bachelor,4610,7,Stock Keeper,Alexandria,1030
+1513,Rasha,Qasem,Hany,Rasha Qasem Hany,20,1027707825,Rasha.Hany@example.com,8/29/2019,1,8/29/2024,8/29/2025,6,Female,4/15/1972,53,Syrian,Undergraduate,5360,8,Cashier,Alexandria,1030
+1514,Ahmed,Raouf,Essam,Ahmed Raouf Essam,20,1020960850,Ahmed.Essam@example.com,9/22/2016,2,9/22/2024,9/22/2026,5,Male,9/12/1986,39,Egyptian,Diploma,6591,9,Cashier,Luxor,1036
+1515,Mahmoud,Mamdouh,Mostafa,Mahmoud Mamdouh Mostafa,20,1029952762,Mahmoud.Mostafa@example.com,10/10/2017,2,10/10/2023,10/10/2025,4,Male,5/15/1991,34,Egyptian,Bachelor,5917,8,Sales Associate,Aswan,1038
+1516,Hoda,Raouf,Fares,Hoda Raouf Fares,20,1272085396,Hoda.Fares@example.com,10/22/2017,1,10/22/2024,10/22/2025,8,Female,6/7/1987,38,Egyptian,Bachelor,5066,7,Cashier,Cairo,1026
+1517,Asmaa,Hisham,Ahmed,Asmaa Hisham Ahmed,20,1132587887,Asmaa.Ahmed@example.com,11/6/2021,1,11/6/2024,11/6/2025,4,Female,5/24/1972,53,Egyptian,Diploma,7311,6,Customer Service,Cairo,1025
+1518,Kamal,Abdelnasser,Rami,Kamal Abdelnasser Rami,20,1009858935,Kamal.Rami@example.com,12/2/2018,2,12/2/2024,12/2/2026,4,Male,3/17/1989,36,Egyptian,Diploma,6107,5,Security,Alexandria,1030
+1519,Nehal,Fady,Lotfy,Nehal Fady Lotfy,20,1098624097,Nehal.Lotfy@example.com,12/30/2020,1,12/30/2024,12/30/2025,5,Female,5/17/1994,31,Egyptian,Bachelor,5341,7,Sales Associate,Sharm El Sheikh,1034
+1520,Helmy,Kamal,Qasem,Helmy Kamal Qasem,20,1273046820,Helmy.Qasem@example.com,1/24/2016,2,1/24/2024,1/24/2026,5,Male,6/5/1982,43,Egyptian,Bachelor,5412,5,Stock Keeper,Aswan,1038
+1521,Hoda,Hany,Shady,Hoda Hany Shady,20,1123071725,Hoda.Shady@example.com,2/12/2020,1,2/12/2025,2/12/2026,6,Female,9/16/2001,24,Egyptian,Diploma,5992,9,Cashier,Mansoura,1032
+1522,Tarek,Anwar,Magdy,Tarek Anwar Magdy,20,1107105103,Tarek.Magdy@example.com,3/2/2021,1,3/2/2025,3/2/2026,5,Male,1/19/1982,43,Sudanese,Bachelor,5045,7,Sales Associate,Giza,1028
+1523,Amr,Aref,Hossni,Amr Aref Hossni,20,1077451870,Amr.Hossni@example.com,4/1/2018,2,4/1/2024,4/1/2026,4,Male,9/7/1998,27,Egyptian,Bachelor,5051,9,Sales Associate,Cairo,1025
+1524,Iman,Abdelsalam,Magdy,Iman Abdelsalam Magdy,20,1084644056,Iman.Magdy@example.com,4/30/2021,2,4/30/2023,4/30/2025,2,Female,2/22/1976,49,Egyptian,Bachelor,4220,8,Sales Associate,Mansoura,1032
+1525,Basma,Islam,Ali,Basma Islam Ali,20,1253350785,Basma.Ali@example.com,5/24/2015,1,5/24/2024,5/24/2025,10,Female,9/11/1971,54,Egyptian,Diploma,5155,8,Security,Sharm El Sheikh,1033
+1526,Lotfy,Aref,Anwar,Lotfy Aref Anwar,20,1210099934,Lotfy.Anwar@example.com,6/3/2021,1,6/3/2024,6/3/2025,4,Male,4/20/1988,37,Sudanese,Diploma,4947,5,Sales Associate,Luxor,1035
+1527,Rasha,Montasser,Abdelhady,Rasha Montasser Abdelhady,20,1058906379,Rasha.Abdelhady@example.com,6/30/2020,1,6/30/2024,6/30/2025,5,Female,12/22/1984,41,Egyptian,Diploma,5926,6,Sales Associate,Luxor,1035
+1528,Hana,Adel,Yasser,Hana Adel Yasser,20,1080958691,Hana.Yasser@example.com,7/21/2019,1,7/21/2024,7/21/2025,6,Female,9/3/1978,47,Egyptian,Bachelor,6847,9,Customer Service,Cairo,1025
+1529,Hend,Fares,Saeed,Hend Fares Saeed,20,1264992403,Hend.Saeed@example.com,8/5/2020,2,8/5/2024,8/5/2026,3,Female,5/4/1980,45,Egyptian,Diploma,7447,8,Customer Service,Luxor,1036
+1530,Hend,Sayed,Khalil,Hend Sayed Khalil,20,1242582624,Hend.Khalil@example.com,8/18/2018,2,8/18/2024,8/18/2026,4,Female,1/9/1977,48,Syrian,Bachelor,4341,10,Sales Associate,Mansoura,1032
+1531,Sohair,Sherif,Nabil,Sohair Sherif Nabil,20,1072623057,Sohair.Nabil@example.com,8/28/2019,2,8/28/2023,8/28/2025,3,Female,11/20/1976,49,Syrian,Bachelor,6226,8,Cashier,Cairo,1025
+1532,Yasmin,Khalil,Hossni,Yasmin Khalil Hossni,20,1086526116,Yasmin.Hossni@example.com,9/27/2018,1,9/27/2024,9/27/2025,7,Female,4/7/1970,55,Egyptian,Bachelor,4159,10,Sales Associate,Sharm El Sheikh,1034
+1533,Zakaria,Gamal,Kamal,Zakaria Gamal Kamal,20,1129062805,Zakaria.Kamal@example.com,10/19/2017,2,10/19/2023,10/19/2025,4,Male,2/23/1980,45,Egyptian,Diploma,7280,8,Customer Service,Cairo,1025
+1534,Sameh,Kamal,Bahaa,Sameh Kamal Bahaa,20,1122178270,Sameh.Bahaa@example.com,11/4/2018,2,11/4/2024,11/4/2026,4,Male,10/5/1992,33,Egyptian,Bachelor,5660,6,Stock Keeper,Giza,1027
+1535,Anwar,Adel,Rashed,Anwar Adel Rashed,20,1187231201,Anwar.Rashed@example.com,11/29/2017,2,11/29/2023,11/29/2025,4,Male,8/16/1997,28,Egyptian,Bachelor,5265,8,Cashier,Alexandria,1030
+1536,Dina,Nabil,Amr,Dina Nabil Amr,20,1129349635,Dina.Amr@example.com,12/19/2018,1,12/19/2024,12/19/2025,7,Female,11/27/1972,53,Egyptian,Diploma,6341,7,Stock Keeper,Mansoura,1032
+1537,Nadia,Abdelsalam,Rashed,Nadia Abdelsalam Rashed,20,1124785397,Nadia.Rashed@example.com,1/9/2019,1,1/9/2025,1/9/2026,7,Female,12/25/1984,41,Egyptian,Bachelor,4924,5,Stock Keeper,Aswan,1038
+1538,Marwa,Essam,Qasem,Marwa Essam Qasem,20,1074654077,Marwa.Qasem@example.com,1/30/2019,2,1/30/2025,1/30/2027,4,Female,3/17/1977,48,Egyptian,Diploma,5896,7,Security,Giza,1027
+1539,Noureldin,Helmy,Sobhy,Noureldin Helmy Sobhy,20,1073002964,Noureldin.Sobhy@example.com,2/18/2017,1,2/18/2026,2/18/2027,9,Male,1/20/1997,28,Egyptian,Bachelor,6035,10,Cashier,Giza,1028
+1540,Lobna,Tarek,Gamal,Lobna Tarek Gamal,20,1093723969,Lobna.Gamal@example.com,3/8/2017,2,3/8/2025,3/8/2027,5,Female,7/18/1984,41,Egyptian,Bachelor,5223,6,Stock Keeper,Alexandria,1030
+1541,Ahmed,Waheed,Zakaria,Ahmed Waheed Zakaria,20,1023941303,Ahmed.Zakaria@example.com,4/6/2020,2,4/6/2024,4/6/2026,3,Male,9/2/1972,53,Egyptian,Diploma,5809,6,Cashier,Cairo,1026
+1542,Rania,Abdelmonem,Abdelrahman,Rania Abdelmonem Abdelrahman,20,1243513925,Rania.Abdelrahman@example.com,4/20/2019,1,4/20/2024,4/20/2025,6,Female,1/21/1975,50,Egyptian,Bachelor,5708,6,Stock Keeper,Luxor,1036
+1543,Inas,Tamer,Moataz,Inas Tamer Moataz,20,1183308525,Inas.Moataz@example.com,5/14/2020,2,5/14/2024,5/14/2026,3,Female,9/27/1998,27,Egyptian,Bachelor,5424,5,Cashier,Luxor,1036
+1544,Nahed,Hatem,Rashed,Nahed Hatem Rashed,20,1117966566,Nahed.Rashed@example.com,5/27/2021,1,5/27/2024,5/27/2025,4,Female,10/23/1983,42,Egyptian,Bachelor,4562,6,Stock Keeper,Sharm El Sheikh,1034
+1545,Ismail,Khaled,Ayman,Ismail Khaled Ayman,20,1210685275,Ismail.Ayman@example.com,6/17/2017,2,6/17/2023,6/17/2025,4,Male,11/9/1973,52,Egyptian,Bachelor,5600,8,Sales Associate,Sharm El Sheikh,1034
+1546,Rashed,Mostafa,Rashed,Rashed Mostafa Rashed,20,1056279217,Rashed.Rashed@example.com,7/2/2017,2,7/2/2023,7/2/2025,4,Male,1/25/1975,50,Egyptian,Bachelor,5123,8,Sales Associate,Sharm El Sheikh,1034
+1547,Basel,Hussein,Ibrahim,Basel Hussein Ibrahim,20,1007118176,Basel.Ibrahim@example.com,7/15/2016,1,7/15/2025,7/15/2026,9,Male,1/12/1973,52,Egyptian,Diploma,5283,10,Cashier,Cairo,1026
+1548,Fatma,Saeed,Reda,Fatma Saeed Reda,20,1226065586,Fatma.Reda@example.com,7/29/2016,2,7/29/2024,7/29/2026,5,Female,1/4/1969,56,Syrian,Bachelor,5376,9,Cashier,Cairo,1026
+1549,Hisham,Ziad,Tawfik,Hisham Ziad Tawfik,20,1177704561,Hisham.Tawfik@example.com,8/16/2017,1,8/16/2024,8/16/2025,8,Male,9/12/1981,44,Sudanese,Diploma,6064,5,Cashier,Sharm El Sheikh,1034
+1550,Dina,Montasser,Mostafa,Dina Montasser Mostafa,20,1148820195,Dina.Mostafa@example.com,9/6/2020,1,9/6/2024,9/6/2025,5,Female,6/18/1973,52,Egyptian,Bachelor,5913,5,Cashier,Giza,1028
+1551,Abdelsalam,Ismail,Anwar,Abdelsalam Ismail Anwar,20,1241988213,Abdelsalam.Anwar@example.com,9/25/2018,2,9/25/2024,9/25/2026,4,Male,1/27/1991,34,Egyptian,Bachelor,8158,8,Junior Financial Analyst,Head Office,1023
+1552,Qasem,Mahmoud,Aref,Qasem Mahmoud Aref,20,1072312130,Qasem.Aref@example.com,10/7/2020,2,10/7/2024,10/7/2026,3,Male,4/15/1978,47,Egyptian,Bachelor,5404,7,Cashier,Alexandria,1030
+1553,Ayman,Hatem,Atef,Ayman Hatem Atef,20,1144694607,Ayman.Atef@example.com,10/23/2017,2,10/23/2023,10/23/2025,4,Male,6/19/1989,36,Egyptian,Diploma,6338,6,Cashier,Luxor,1036
+1554,Sayed,Sameh,Hany,Sayed Sameh Hany,20,1208593489,Sayed.Hany@example.com,11/12/2021,1,11/12/2024,11/12/2025,4,Male,12/10/1975,50,Egyptian,Diploma,5615,8,Security,Sharm El Sheikh,1034
+1555,Mansour,Sayed,Mamdouh,Mansour Sayed Mamdouh,20,1162887201,Mansour.Mamdouh@example.com,11/24/2018,1,11/24/2024,11/24/2025,7,Male,4/11/1994,31,Egyptian,Bachelor,6068,6,Stock Keeper,Giza,1027
+1556,Rania,Nabil,Amr,Rania Nabil Amr,20,1147925764,Rania.Amr@example.com,12/7/2016,2,12/7/2024,12/7/2026,5,Female,1/14/1987,38,Egyptian,Bachelor,4853,6,Stock Keeper,Cairo,1025
+1557,Amal,Abdelaziz,Ismail,Amal Abdelaziz Ismail,20,1155743760,Amal.Ismail@example.com,12/28/2021,1,12/28/2024,12/28/2025,4,Female,4/21/1994,31,Egyptian,Diploma,4500,6,Sales Associate,Cairo,1025
+1558,Nour,Anwar,Khaled,Nour Anwar Khaled,20,1038138664,Nour.Khaled@example.com,1/21/2015,2,1/21/2025,1/21/2027,6,Female,8/5/1976,49,Egyptian,Diploma,6311,5,Security,Sharm El Sheikh,1034
+1559,Manar,Diaa,Mostafa,Manar Diaa Mostafa,20,1063609776,Manar.Mostafa@example.com,2/19/2016,1,2/19/2025,2/19/2026,10,Female,7/11/1977,48,Egyptian,Bachelor,6393,7,Stock Keeper,Cairo,1025
+1560,Aya,Mostafa,Omar,Aya Mostafa Omar,20,1093124450,Aya.Omar@example.com,3/13/2018,1,3/13/2025,3/13/2026,8,Female,9/12/1981,44,Egyptian,Bachelor,6537,6,Customer Service,Aswan,1038
+1561,Nour,Ziad,Abdelhady,Nour Ziad Abdelhady,20,1129823208,Nour.Abdelhady@example.com,4/10/2018,2,4/10/2024,4/10/2026,4,Female,4/1/1977,48,Sudanese,Bachelor,5304,5,Stock Keeper,Mansoura,1032
+1562,Adel,Hisham,Saber,Adel Hisham Saber,20,1176690387,Adel.Saber@example.com,4/28/2021,2,4/28/2023,4/28/2025,2,Male,5/8/1975,50,Sudanese,Bachelor,5470,9,Sales Associate,Mansoura,1032
+1563,Moataz,Emad,Fouad,Moataz Emad Fouad,20,1276386333,Moataz.Fouad@example.com,5/23/2017,1,5/23/2024,5/23/2025,8,Male,11/14/1974,51,Egyptian,Diploma,7922,5,Customer Service,Luxor,1036
+1564,Ghada,Mohamed,Ayman,Ghada Mohamed Ayman,20,1044466975,Ghada.Ayman@example.com,6/12/2020,1,6/12/2024,6/12/2025,5,Female,5/24/1998,27,Sudanese,Diploma,5341,7,Sales Associate,Alexandria,1030
+1565,Helmy,Safwat,Mohamed,Helmy Safwat Mohamed,20,1160401777,Helmy.Mohamed@example.com,7/14/2015,1,7/14/2024,7/14/2025,10,Male,3/11/1993,32,Egyptian,Diploma,6905,6,Cashier,Luxor,1036
+1566,Bahaa,Yasser,Moataz,Bahaa Yasser Moataz,20,1050384485,Bahaa.Moataz@example.com,8/4/2020,2,8/4/2024,8/4/2026,3,Male,8/10/1991,34,Egyptian,Diploma,7866,9,Customer Service,Alexandria,1030
+1567,Walaa,Fouad,Bahaa,Walaa Fouad Bahaa,20,1050361090,Walaa.Bahaa@example.com,8/16/2019,1,8/16/2024,8/16/2025,6,Female,8/19/1979,46,Egyptian,Bachelor,5145,5,Stock Keeper,Aswan,1038
+1568,Lina,Magdy,Abdelnasser,Lina Magdy Abdelnasser,20,1297644901,Lina.Abdelnasser@example.com,9/10/2021,2,9/10/2023,9/10/2025,2,Female,11/4/1984,41,Sudanese,Undergraduate,5485,6,Cashier,Aswan,1038
+1569,Marwa,Waheed,Hossni,Marwa Waheed Hossni,20,1227326149,Marwa.Hossni@example.com,10/2/2015,2,10/2/2023,10/2/2025,5,Female,2/25/1985,40,Egyptian,Bachelor,5783,6,Stock Keeper,Alexandria,1030
+1570,Mamdouh,Atef,Fady,Mamdouh Atef Fady,20,1247438849,Mamdouh.Fady@example.com,10/16/2021,2,10/16/2023,10/16/2025,2,Male,1/22/1984,41,Egyptian,Bachelor,4832,7,Stock Keeper,Giza,1027
+1571,Hend,Lotfy,Ayman,Hend Lotfy Ayman,20,1172065655,Hend.Ayman@example.com,10/30/2018,2,10/30/2024,10/30/2026,4,Female,6/22/1993,32,Egyptian,Diploma,5040,8,Security,Giza,1027
+1572,Sahar,Tawfik,Mamdouh,Sahar Tawfik Mamdouh,20,1137511361,Sahar.Mamdouh@example.com,11/26/2017,2,11/26/2023,11/26/2025,4,Female,4/1/1982,43,Egyptian,Diploma,6130,5,Customer Service,Aswan,1038
+1573,Heba,Hany,Ezzat,Heba Hany Ezzat,20,1034716971,Heba.Ezzat@example.com,12/24/2019,2,12/24/2023,12/24/2025,3,Female,6/11/1997,28,Egyptian,Bachelor,6377,9,Cashier,Cairo,1026
+1574,Iman,Reda,Reda,Iman Reda Reda,20,1128562980,Iman.Reda@example.com,1/12/2019,1,1/12/2025,1/12/2026,7,Female,8/8/1976,49,Egyptian,Bachelor,6456,5,Cashier,Cairo,1026
+1575,Samira,Zakaria,Hassan,Samira Zakaria Hassan,20,1166782545,Samira.Hassan@example.com,1/28/2020,1,1/28/2025,1/28/2026,6,Female,11/9/1974,51,Egyptian,Bachelor,6767,9,Customer Service,Luxor,1036
+1576,Asmaa,Noureldin,Moataz,Asmaa Noureldin Moataz,20,1202813960,Asmaa.Moataz@example.com,2/20/2021,1,2/20/2025,2/20/2026,5,Female,5/18/1968,57,Egyptian,Diploma,5707,10,Sales Associate,Cairo,1026
+1577,Sohair,Khalil,Rashed,Sohair Khalil Rashed,20,1086851271,Sohair.Rashed@example.com,3/3/2020,1,3/3/2025,3/3/2026,6,Female,4/12/1981,44,Sudanese,Bachelor,6545,10,Cashier,Sharm El Sheikh,1034
+1578,Magda,Ashraf,Essam,Magda Ashraf Essam,20,1131841367,Magda.Essam@example.com,3/23/2018,2,3/23/2024,3/23/2026,4,Female,5/24/1976,49,Egyptian,Diploma,5548,9,Sales Associate,Luxor,1035
+1579,Reham,Tarek,Fady,Reham Tarek Fady,20,1118986806,Reham.Fady@example.com,4/5/2016,1,4/5/2025,4/5/2026,9,Female,12/11/1970,55,Egyptian,Bachelor,4154,10,Sales Associate,Giza,1028
+1580,Ziad,Tarek,Osama,Ziad Tarek Osama,20,1184458017,Ziad.Osama@example.com,4/26/2016,1,4/26/2025,4/26/2026,9,Male,9/21/1971,54,Egyptian,Diploma,4803,5,Sales Associate,Alexandria,1030
+1581,Tamer,Sayed,Ali,Tamer Sayed Ali,20,1008915789,Tamer.Ali@example.com,5/7/2018,2,5/7/2024,5/7/2026,4,Male,5/5/1979,46,Egyptian,Bachelor,5404,10,Sales Associate,Mansoura,1032
+1582,Hany,Hossni,Wael,Hany Hossni Wael,20,1258029010,Hany.Wael@example.com,5/20/2019,1,5/20/2024,5/20/2025,6,Male,7/7/1997,28,Egyptian,Diploma,5346,7,Security,Cairo,1025
+1583,Sohair,Shady,Tawfik,Sohair Shady Tawfik,20,1085213713,Sohair.Tawfik@example.com,6/16/2021,2,6/16/2023,6/16/2025,2,Female,11/7/1967,58,Egyptian,Diploma,5134,6,Sales Associate,Cairo,1025
+1584,Emad,Karim,Nasser,Emad Karim Nasser,20,1221341246,Emad.Nasser@example.com,7/5/2021,2,7/5/2023,7/5/2025,2,Male,11/6/2002,23,Egyptian,Bachelor,4107,10,Sales Associate,Luxor,1035
+1585,Laila,Hisham,Abdelhady,Laila Hisham Abdelhady,20,1064387403,Laila.Abdelhady@example.com,7/25/2015,1,7/25/2024,7/25/2025,10,Female,4/24/1972,53,Sudanese,Diploma,5089,7,Cashier,Cairo,1026
+1586,Ahmed,Ezzat,Hossam,Ahmed Ezzat Hossam,20,1028608303,Ahmed.Hossam@example.com,8/5/2021,2,8/5/2023,8/5/2025,2,Male,10/24/1976,49,Egyptian,Diploma,4739,6,Sales Associate,Giza,1028
+1587,Bahaa,Khalil,Helmy,Bahaa Khalil Helmy,20,1267812481,Bahaa.Helmy@example.com,8/21/2018,2,8/21/2024,8/21/2026,4,Male,1/18/1973,52,Egyptian,Diploma,6230,8,Security,Aswan,1038
+1588,Naglaa,Essam,Saber,Naglaa Essam Saber,20,1292404286,Naglaa.Saber@example.com,9/1/2017,2,9/1/2023,9/1/2025,4,Female,9/7/1985,40,Egyptian,Bachelor,4755,9,Sales Associate,Mansoura,1032
+1589,Hussein,Osama,Mohamed,Hussein Osama Mohamed,20,1035803061,Hussein.Mohamed@example.com,9/24/2018,1,9/24/2024,9/24/2025,7,Male,8/9/1988,37,Syrian,Bachelor,5283,6,Stock Keeper,Giza,1028
+1590,Sara,Ismail,Rami,Sara Ismail Rami,20,1212418518,Sara.Rami@example.com,10/24/2019,1,10/24/2024,10/24/2025,6,Female,5/22/1982,43,Egyptian,Diploma,7091,10,Customer Service,Sharm El Sheikh,1034
+1591,Ayman,Hatem,Ramy,Ayman Hatem Ramy,20,1239028729,Ayman.Ramy@example.com,11/7/2020,1,11/7/2024,11/7/2025,5,Male,11/8/2001,24,Egyptian,Diploma,5304,8,Security,Sharm El Sheikh,1034
+1592,Salma,Karim,Abdelkader,Salma Karim Abdelkader,20,1290044194,Salma.Abdelkader@example.com,11/20/2019,1,11/20/2024,11/20/2025,6,Female,2/25/1977,48,Egyptian,Bachelor,7835,5,Customer Service,Cairo,1026
+1593,Walaa,Tamer,Abdelhady,Walaa Tamer Abdelhady,20,1242226009,Walaa.Abdelhady@example.com,12/9/2016,2,12/9/2024,12/9/2026,5,Female,10/25/1984,41,Egyptian,Bachelor,4695,5,Sales Associate,Mansoura,1032
+1594,Yasmin,Fady,Saeed,Yasmin Fady Saeed,20,1096034611,Yasmin.Saeed@example.com,1/7/2018,1,1/7/2025,1/7/2026,8,Female,3/1/1990,35,Egyptian,Bachelor,6930,5,Cashier,Mansoura,1032
+1595,Ghada,Soliman,Tarek,Ghada Soliman Tarek,20,1174976261,Ghada.Tarek@example.com,1/22/2018,1,1/22/2025,1/22/2026,8,Female,9/20/2001,24,Egyptian,Bachelor,4463,8,Sales Associate,Alexandria,1030
+1596,Magda,Nabil,Gamal,Magda Nabil Gamal,20,1172769041,Magda.Gamal@example.com,2/19/2020,1,2/19/2025,2/19/2026,6,Female,12/19/1981,44,Egyptian,Undergraduate,6713,7,Customer Service,Giza,1028
+1597,Mona,Yehia,Sameh,Mona Yehia Sameh,20,1007379719,Mona.Sameh@example.com,3/2/2021,1,3/2/2025,3/2/2026,5,Female,8/8/1968,57,Egyptian,Diploma,4402,9,Sales Associate,Alexandria,1030
+1598,Nehal,Helmy,Hossni,Nehal Helmy Hossni,20,1183122465,Nehal.Hossni@example.com,3/13/2016,1,3/13/2025,3/13/2026,10,Female,7/28/1970,55,Syrian,Diploma,5643,8,Sales Associate,Mansoura,1032
+1599,Shady,Bilal,Ahmed,Shady Bilal Ahmed,20,1125208530,Shady.Ahmed@example.com,4/8/2015,2,4/8/2023,4/8/2025,5,Male,4/28/1989,36,Egyptian,Diploma,4981,5,Stock Keeper,Sharm El Sheikh,1034
+1600,Hossam,Saber,Bilal,Hossam Saber Bilal,20,1116464898,Hossam.Bilal@example.com,4/29/2020,2,4/29/2024,4/29/2026,3,Male,5/13/1979,46,Egyptian,Bachelor,4538,6,Stock Keeper,Cairo,1025
+1601,Mona,Hatem,Hisham,Mona Hatem Hisham,20,1153933385,Mona.Hisham@example.com,5/14/2019,2,5/14/2023,5/14/2025,3,Female,5/26/1993,32,Egyptian,Bachelor,7336,8,Junior HR,Head Office,1008
+1602,Shaimaa,Bilal,Shady,Shaimaa Bilal Shady,20,1097820759,Shaimaa.Shady@example.com,5/27/2017,2,5/27/2023,5/27/2025,4,Female,7/13/1971,54,Egyptian,Undergraduate,6396,6,Cashier,Giza,1028
+1603,Maged,Shady,Nabil,Maged Shady Nabil,20,1050738297,Maged.Nabil@example.com,6/20/2020,1,6/20/2024,6/20/2025,5,Male,10/8/1987,38,Egyptian,Diploma,6499,9,Customer Service,Alexandria,1030
+1604,Samira,Osama,Morsy,Samira Osama Morsy,20,1260587319,Samira.Morsy@example.com,7/3/2021,2,7/3/2023,7/3/2025,2,Female,7/13/1976,49,Egyptian,Diploma,4762,7,Sales Associate,Cairo,1026
+1605,Hossni,Mansour,Fady,Hossni Mansour Fady,20,1248365493,Hossni.Fady@example.com,8/1/2017,1,8/1/2024,8/1/2025,8,Male,1/12/2000,25,Egyptian,Diploma,5834,6,Sales Associate,Mansoura,1032
+1606,Rasha,Ali,Nasr,Rasha Ali Nasr,20,1073845381,Rasha.Nasr@example.com,8/12/2020,1,8/12/2024,8/12/2025,5,Female,2/6/1976,49,Sudanese,Bachelor,4673,9,Sales Associate,Cairo,1026
+1607,Mona,Abdelmonem,Sobhy,Mona Abdelmonem Sobhy,20,1145626798,Mona.Sobhy@example.com,8/30/2019,2,8/30/2023,8/30/2025,3,Female,1/28/1997,28,Egyptian,Diploma,6774,7,Cashier,Cairo,1026
+1608,Dalia,Ibrahim,Nasser,Dalia Ibrahim Nasser,20,1111625154,Dalia.Nasser@example.com,9/17/2015,1,9/17/2024,9/17/2025,10,Female,5/27/1987,38,Egyptian,Diploma,6330,8,Customer Service,Luxor,1036
+1609,Heba,Saber,Hany,Heba Saber Hany,20,1181431193,Heba.Hany@example.com,10/2/2019,2,10/2/2023,10/2/2025,3,Female,9/13/1989,36,Egyptian,Bachelor,4598,6,Stock Keeper,Luxor,1036
+1610,Sohair,Ezzat,Abdelhady,Sohair Ezzat Abdelhady,20,1257080764,Sohair.Abdelhady@example.com,10/26/2019,1,10/26/2024,10/26/2025,6,Female,3/26/1986,39,Syrian,Undergraduate,5711,8,Cashier,Alexandria,1030
+1611,Sara,Abdelkader,Aref,Sara Abdelkader Aref,20,1066798686,Sara.Aref@example.com,11/5/2020,1,11/5/2024,11/5/2025,5,Female,6/6/1975,50,Egyptian,Bachelor,5113,5,Cashier,Cairo,1026
+1612,Ahmed,Ezzat,Aref,Ahmed Ezzat Aref,20,1050120844,Ahmed.Aref@example.com,12/2/2017,2,12/2/2023,12/2/2025,4,Male,10/15/1981,44,Sudanese,Bachelor,4172,6,Sales Associate,Cairo,1026
+1613,Essam,Fares,Fouad,Essam Fares Fouad,20,1237116973,Essam.Fouad@example.com,12/18/2020,1,12/18/2024,12/18/2025,5,Male,3/11/1996,29,Egyptian,Bachelor,6455,5,Stock Keeper,Aswan,1038
+1614,Nadia,Hisham,Sobhy,Nadia Hisham Sobhy,20,1252412693,Nadia.Sobhy@example.com,12/29/2021,2,12/29/2023,12/29/2025,2,Female,8/4/1971,54,Egyptian,Diploma,5911,5,Sales Associate,Sharm El Sheikh,1034
+1615,Emad,Emad,Khalil,Emad Emad Khalil,20,1291717965,Emad.Khalil@example.com,1/24/2015,1,1/24/2025,1/24/2026,11,Male,4/24/1984,41,Egyptian,Diploma,5327,10,Sales Associate,Luxor,1036
+1616,Nesrine,Sobhy,Bilal,Nesrine Sobhy Bilal,20,1096906122,Nesrine.Bilal@example.com,2/14/2018,2,2/14/2024,2/14/2026,4,Female,6/28/1969,56,Egyptian,Diploma,5973,6,Stock Keeper,Giza,1028
+1617,Magda,Omar,Moheb,Magda Omar Moheb,20,1284902678,Magda.Moheb@example.com,3/10/2019,1,3/10/2025,3/10/2026,7,Female,8/2/1977,48,Egyptian,Bachelor,6362,6,Stock Keeper,Mansoura,1032
+1618,Basel,Adel,Morsy,Basel Adel Morsy,20,1098652663,Basel.Morsy@example.com,3/26/2019,2,3/26/2023,3/26/2025,3,Male,11/24/1974,51,Egyptian,Diploma,6033,8,Cashier,Luxor,1036
+1619,Hoda,Fares,Essam,Hoda Fares Essam,20,1121565690,Hoda.Essam@example.com,5/1/2016,2,5/1/2024,5/1/2026,5,Female,9/15/1994,31,Egyptian,Diploma,5842,5,Cashier,Mansoura,1032
+1620,Bilal,Wael,Waheed,Bilal Wael Waheed,20,1119649728,Bilal.Waheed@example.com,5/20/2021,2,5/20/2023,5/20/2025,2,Male,7/19/1978,47,Egyptian,Diploma,5178,8,Security,Cairo,1025
+1621,Nour,Noureldin,Rami,Nour Noureldin Rami,20,1233319008,Nour.Rami@example.com,6/18/2017,2,6/18/2023,6/18/2025,4,Female,6/27/1977,48,Egyptian,Bachelor,4629,6,Stock Keeper,Luxor,1036
+1622,Doaa,Tawfik,Ashraf,Doaa Tawfik Ashraf,20,1078379897,Doaa.Ashraf@example.com,7/6/2016,2,7/6/2024,7/6/2026,5,Female,9/14/2000,25,Egyptian,Bachelor,5598,9,Sales Associate,Cairo,1026
+1623,Walaa,Farouk,Nasser,Walaa Farouk Nasser,20,1282082057,Walaa.Nasser@example.com,7/28/2018,1,7/28/2024,7/28/2025,7,Female,6/5/1977,48,Egyptian,Bachelor,6271,9,Cashier,Aswan,1038
+1624,Doaa,Sameh,Fares,Doaa Sameh Fares,20,1296258095,Doaa.Fares@example.com,8/8/2018,2,8/8/2024,8/8/2026,4,Female,6/14/1982,43,Egyptian,Bachelor,4773,6,Sales Associate,Luxor,1036
+1625,Amal,Bahaa,Sherif,Amal Bahaa Sherif,20,1123308636,Amal.Sherif@example.com,8/21/2019,2,8/21/2023,8/21/2025,3,Female,7/23/1974,51,Egyptian,Bachelor,5440,10,Cashier,Sharm El Sheikh,1033
+1626,Adel,Ismail,Nasr,Adel Ismail Nasr,20,1212479994,Adel.Nasr@example.com,9/14/2020,1,9/14/2024,9/14/2025,5,Male,11/24/1980,45,Egyptian,Undergraduate,5111,7,Sales Associate,Cairo,1025
+1627,Eman,Ahmed,Hatem,Eman Ahmed Hatem,20,1230326228,Eman.Hatem@example.com,10/6/2021,1,10/6/2024,10/6/2025,4,Female,11/7/2002,23,Egyptian,Undergraduate,4927,3,HR Trainee,Head Office,1008
+1628,Eman,Abdelsalam,Mamdouh,Eman Abdelsalam Mamdouh,20,1125955944,Eman.Mamdouh@example.com,11/3/2017,1,11/3/2024,11/3/2025,8,Female,10/14/1996,29,Egyptian,Bachelor,4930,9,Sales Associate,Giza,1028
+1629,Ibrahim,Hassan,Galal,Ibrahim Hassan Galal,20,1220734544,Ibrahim.Galal@example.com,11/26/2020,1,11/26/2024,11/26/2025,5,Male,2/16/1977,48,Egyptian,Bachelor,5447,6,Stock Keeper,Mansoura,1032
+1630,Sobhy,Magdy,Ahmed,Sobhy Magdy Ahmed,20,1060455322,Sobhy.Ahmed@example.com,12/15/2017,2,12/15/2023,12/15/2025,4,Male,6/24/1995,30,Sudanese,Bachelor,5246,6,Sales Associate,Luxor,1036
+1631,Naglaa,Farouk,Sherif,Naglaa Farouk Sherif,20,1212780009,Naglaa.Sherif@example.com,12/30/2015,1,12/30/2024,12/30/2025,10,Female,4/27/2002,23,Egyptian,Diploma,5658,8,Cashier,Mansoura,1032
+1632,Laila,Hisham,Youssef,Laila Hisham Youssef,20,1156856064,Laila.Youssef@example.com,1/28/2021,2,1/28/2025,1/28/2027,3,Female,12/6/1967,58,Egyptian,Bachelor,5633,6,Cashier,Mansoura,1032
+1633,Eman,Ramy,Reda,Eman Ramy Reda,20,1057020766,Eman.Reda@example.com,2/13/2021,2,2/13/2025,2/13/2027,3,Female,9/27/1985,40,Egyptian,Diploma,6991,6,Customer Service,Luxor,1036
+1634,Naglaa,Tarek,Karim,Naglaa Tarek Karim,20,1286144035,Naglaa.Karim@example.com,3/1/2021,1,3/1/2025,3/1/2026,5,Female,7/23/2000,25,Egyptian,Undergraduate,4330,3,HR Trainee,Head Office,1009
+1635,Noureldin,Essam,Hassan,Noureldin Essam Hassan,20,1023070081,Noureldin.Hassan@example.com,3/16/2020,2,3/16/2024,3/16/2026,3,Male,1/24/1986,39,Egyptian,Diploma,5723,9,Cashier,Cairo,1026
+1636,Fady,Sobhy,Youssef,Fady Sobhy Youssef,20,1004401328,Fady.Youssef@example.com,4/4/2017,1,4/4/2024,4/4/2025,8,Male,5/6/1968,57,Egyptian,Bachelor,5849,5,Security,Aswan,1038
+1637,Shaimaa,Mansour,Ehab,Shaimaa Mansour Ehab,20,1160749323,Shaimaa.Ehab@example.com,4/22/2015,1,4/22/2024,4/22/2025,10,Female,1/22/1987,38,Sudanese,Bachelor,4523,10,Sales Associate,Cairo,1026
+1638,Shady,Abdelaziz,Mahmoud,Shady Abdelaziz Mahmoud,20,1081941390,Shady.Mahmoud@example.com,5/9/2015,2,5/9/2023,5/9/2025,5,Male,4/6/1995,30,Egyptian,Bachelor,5993,7,Stock Keeper,Giza,1028
+1639,Magda,Lotfy,Tamer,Magda Lotfy Tamer,20,1108778116,Magda.Tamer@example.com,5/27/2018,1,5/27/2024,5/27/2025,7,Female,2/7/1993,32,Egyptian,Bachelor,5410,7,Stock Keeper,Luxor,1036
+1640,Aya,Hossni,Zakaria,Aya Hossni Zakaria,20,1005671918,Aya.Zakaria@example.com,6/24/2019,2,6/24/2023,6/24/2025,3,Female,5/8/2002,23,Egyptian,Diploma,5632,6,Cashier,Luxor,1036
+1641,Hoda,Lotfy,Kamal,Hoda Lotfy Kamal,20,1042487180,Hoda.Kamal@example.com,7/17/2017,2,7/17/2023,7/17/2025,4,Female,9/15/1981,44,Egyptian,Diploma,5816,5,Cashier,Cairo,1026
+1642,Rania,Emad,Mamdouh,Rania Emad Mamdouh,20,1000388198,Rania.Mamdouh@example.com,8/16/2021,2,8/16/2023,8/16/2025,2,Female,5/11/1975,50,Egyptian,Bachelor,4919,7,Sales Associate,Giza,1028
+1643,Nour,Tarek,Islam,Nour Tarek Islam,20,1018106819,Nour.Islam@example.com,8/28/2020,2,8/28/2024,8/28/2026,3,Female,1/20/1970,55,Egyptian,Bachelor,6899,7,Customer Service,Luxor,1036
+1644,Radwa,Abdelhady,Fares,Radwa Abdelhady Fares,20,1040817773,Radwa.Fares@example.com,9/25/2018,1,9/25/2024,9/25/2025,7,Female,10/25/1977,48,Syrian,Undergraduate,5151,9,Sales Associate,Mansoura,1032
+1645,Reham,Ahmed,Hisham,Reham Ahmed Hisham,20,1086619224,Reham.Hisham@example.com,10/13/2018,1,10/13/2024,10/13/2025,7,Female,2/21/1989,36,Egyptian,Bachelor,4258,10,Sales Associate,Cairo,1025
+1646,Nasser,Ismail,Mounir,Nasser Ismail Mounir,20,1223901115,Nasser.Mounir@example.com,11/11/2017,2,11/11/2023,11/11/2025,4,Male,1/27/1990,35,Syrian,Bachelor,5933,9,Sales Associate,Cairo,1025
+1647,Shady,Tawfik,Fouad,Shady Tawfik Fouad,20,1115989986,Shady.Fouad@example.com,12/4/2015,2,12/4/2023,12/4/2025,5,Male,2/4/1967,58,Egyptian,Diploma,4151,6,Sales Associate,Sharm El Sheikh,1034
+1648,Maged,Youssef,Ahmed,Maged Youssef Ahmed,20,1102316167,Maged.Ahmed@example.com,12/21/2016,1,12/21/2025,12/21/2026,9,Male,12/20/1979,46,Egyptian,Bachelor,4733,7,Sales Associate,Cairo,1025
+1649,Salma,Maged,Magdy,Salma Maged Magdy,20,1295953654,Salma.Magdy@example.com,1/4/2020,2,1/4/2024,1/4/2026,3,Female,11/6/1984,41,Egyptian,Diploma,5924,7,Sales Associate,Alexandria,1030
+1650,Laila,Moataz,Soliman,Laila Moataz Soliman,20,1283822629,Laila.Soliman@example.com,2/3/2015,2,2/3/2025,2/3/2027,6,Female,5/25/1990,35,Syrian,Diploma,5142,5,Sales Associate,Sharm El Sheikh,1034
+1651,Islam,Ashraf,Shady,Islam Ashraf Shady,20,1258379034,Islam.Shady@example.com,2/15/2018,1,2/15/2025,2/15/2026,8,Male,6/12/1971,54,Egyptian,Diploma,5692,6,Security,Alexandria,1030
+1652,Hana,Farouk,Magdy,Hana Farouk Magdy,20,1199555565,Hana.Magdy@example.com,2/27/2018,1,2/27/2025,2/27/2026,8,Female,1/22/1980,45,Sudanese,Diploma,4547,8,Sales Associate,Sharm El Sheikh,1034
+1653,Anwar,Waheed,Adel,Anwar Waheed Adel,20,1158297079,Anwar.Adel@example.com,3/25/2018,2,3/25/2024,3/25/2026,4,Male,3/4/1989,36,Egyptian,Bachelor,6042,7,Stock Keeper,Cairo,1025
+1654,Eman,Mansour,Islam,Eman Mansour Islam,20,1114619375,Eman.Islam@example.com,4/15/2021,2,4/15/2023,4/15/2025,2,Female,4/2/1984,41,Egyptian,Diploma,6361,7,Cashier,Cairo,1026
+1655,Nihal,Mohamed,Hatem,Nihal Mohamed Hatem,20,1049333413,Nihal.Hatem@example.com,5/1/2019,2,5/1/2023,5/1/2025,3,Female,3/27/1995,30,Egyptian,Bachelor,7189,8,Customer Service,Sharm El Sheikh,1034
+1656,Eman,Noureldin,Youssef,Eman Noureldin Youssef,20,1294620194,Eman.Youssef@example.com,5/24/2021,2,5/24/2023,5/24/2025,2,Female,9/3/1976,49,Egyptian,Diploma,4879,10,Sales Associate,Alexandria,1030
+1657,Shaimaa,Khalil,Bassem,Shaimaa Khalil Bassem,20,1144109199,Shaimaa.Bassem@example.com,6/11/2017,2,6/11/2023,6/11/2025,4,Female,5/14/1970,55,Egyptian,Bachelor,5527,6,Stock Keeper,Cairo,1025
+1658,Zakaria,Sobhy,Ziad,Zakaria Sobhy Ziad,20,1204947127,Zakaria.Ziad@example.com,6/21/2021,1,6/21/2024,6/21/2025,4,Male,6/1/1976,49,Egyptian,Diploma,6330,9,Cashier,Alexandria,1030
+1659,Nour,Ashraf,Bahaa,Nour Ashraf Bahaa,20,1102362096,Nour.Bahaa@example.com,7/21/2018,1,7/21/2024,7/21/2025,7,Female,12/12/1994,31,Egyptian,Undergraduate,5072,10,Sales Associate,Luxor,1036
+1660,Lotfy,Abdelmonem,Tamer,Lotfy Abdelmonem Tamer,20,1296068927,Lotfy.Tamer@example.com,8/16/2017,1,8/16/2024,8/16/2025,8,Male,11/14/1980,45,Sudanese,Diploma,5532,5,Sales Associate,Mansoura,1032
+1661,Soliman,Ali,Hatem,Soliman Ali Hatem,20,1249114089,Soliman.Hatem@example.com,9/9/2019,1,9/9/2024,9/9/2025,6,Male,3/24/1991,34,Egyptian,Bachelor,6793,10,Cashier,Giza,1028
+1662,Hend,Mamdouh,Reda,Hend Mamdouh Reda,20,1213781766,Hend.Reda@example.com,10/9/2017,1,10/9/2024,10/9/2025,8,Female,1/1/1995,30,Egyptian,Bachelor,5458,5,Cashier,Aswan,1038
+1663,Nisreen,Yehia,Magdy,Nisreen Yehia Magdy,20,1014426420,Nisreen.Magdy@example.com,10/23/2015,2,10/23/2023,10/23/2025,5,Female,12/25/1970,55,Syrian,Bachelor,5140,7,Cashier,Sharm El Sheikh,1034
+1664,Sherine,Emad,Omar,Sherine Emad Omar,20,1078088969,Sherine.Omar@example.com,11/18/2016,1,11/18/2025,11/18/2026,9,Female,9/15/1990,35,Sudanese,Diploma,5531,8,Cashier,Cairo,1026
+1665,Manar,Sherif,Abdelsalam,Manar Sherif Abdelsalam,20,1236038526,Manar.Abdelsalam@example.com,12/17/2020,1,12/17/2024,12/17/2025,5,Female,1/7/1977,48,Egyptian,Bachelor,5293,10,Sales Associate,Giza,1028
+1666,Bilal,Mohamed,Abdelmonem,Bilal Mohamed Abdelmonem,20,1299539645,Bilal.Abdelmonem@example.com,1/2/2017,1,1/2/2026,1/2/2027,9,Male,1/6/1989,36,Egyptian,Bachelor,6577,10,Customer Service,Alexandria,1030
+1667,Hossni,Hossni,Yasser,Hossni Hossni Yasser,20,1144668864,Hossni.Yasser@example.com,1/31/2016,1,1/31/2025,1/31/2026,10,Male,9/22/1978,47,Egyptian,Bachelor,5809,6,Cashier,Giza,1028
+1668,Doaa,Zakaria,Fady,Doaa Zakaria Fady,20,1004922492,Doaa.Fady@example.com,2/20/2020,1,2/20/2025,2/20/2026,6,Female,1/5/1972,53,Egyptian,Diploma,6718,8,Cashier,Luxor,1036
+1669,Mansour,Bassem,Abdelkader,Mansour Bassem Abdelkader,20,1155218735,Mansour.Abdelkader@example.com,3/7/2020,1,3/7/2025,3/7/2026,6,Male,11/3/1979,46,Egyptian,Bachelor,5771,8,Sales Associate,Giza,1028
+1670,Abdelaziz,Yasser,Abdelatif,Abdelaziz Yasser Abdelatif,20,1054895716,Abdelaziz.Abdelatif@example.com,3/17/2019,1,3/17/2025,3/17/2026,7,Male,8/4/1980,45,Egyptian,Bachelor,4544,8,Sales Associate,Mansoura,1032
+1671,Tawfik,Galal,Ramy,Tawfik Galal Ramy,20,1109590478,Tawfik.Ramy@example.com,4/6/2016,2,4/6/2024,4/6/2026,5,Male,12/6/1972,53,Egyptian,Bachelor,6444,7,Cashier,Mansoura,1032
+1672,Fares,Safwat,Abdelsalam,Fares Safwat Abdelsalam,20,1290677105,Fares.Abdelsalam@example.com,4/17/2019,1,4/17/2024,4/17/2025,6,Male,5/28/1998,27,Syrian,Bachelor,5276,6,Stock Keeper,Aswan,1038
+1673,Moataz,Helmy,Sherif,Moataz Helmy Sherif,20,1238838345,Moataz.Sherif@example.com,5/6/2018,1,5/6/2024,5/6/2025,7,Male,3/15/1981,44,Egyptian,Bachelor,5348,5,Sales Associate,Giza,1028
+1674,Khalil,Bilal,Nasr,Khalil Bilal Nasr,20,1171902163,Khalil.Nasr@example.com,6/10/2019,2,6/10/2023,6/10/2025,3,Male,11/12/1991,34,Egyptian,Diploma,6658,7,Security,Giza,1028
+1675,Khaled,Hassan,Saber,Khaled Hassan Saber,20,1276441386,Khaled.Saber@example.com,6/28/2020,2,6/28/2024,6/28/2026,3,Male,11/15/1978,47,Syrian,Bachelor,6287,8,Stock Keeper,Sharm El Sheikh,1034
+1676,Nasser,Khalil,Hany,Nasser Khalil Hany,20,1141231199,Nasser.Hany@example.com,7/26/2019,1,7/26/2024,7/26/2025,6,Male,6/24/2001,24,Egyptian,Bachelor,6359,6,Stock Keeper,Aswan,1038
+1677,Ibrahim,Aref,Bilal,Ibrahim Aref Bilal,20,1251821645,Ibrahim.Bilal@example.com,8/20/2020,1,8/20/2024,8/20/2025,5,Male,2/26/1982,43,Egyptian,Bachelor,5523,6,Stock Keeper,Luxor,1036
+1678,Walaa,Fady,Adel,Walaa Fady Adel,20,1188546243,Walaa.Adel@example.com,9/1/2021,2,9/1/2023,9/1/2025,2,Female,4/2/2001,24,Egyptian,Bachelor,5462,6,Security,Mansoura,1031
+1679,Fatma,Rami,Raouf,Fatma Rami Raouf,20,1123516122,Fatma.Raouf@example.com,9/21/2016,1,9/21/2025,9/21/2026,9,Female,1/20/1977,48,Egyptian,Bachelor,6109,5,Stock Keeper,Luxor,1036
+1680,Walaa,Ibrahim,Sayed,Walaa Ibrahim Sayed,20,1228201931,Walaa.Sayed@example.com,10/13/2020,2,10/13/2024,10/13/2026,3,Female,2/13/1968,57,Egyptian,Bachelor,5088,8,Stock Keeper,Aswan,1038
+1681,Radwa,Hany,Bilal,Radwa Hany Bilal,20,1071675911,Radwa.Bilal@example.com,11/6/2019,2,11/6/2023,11/6/2025,3,Female,4/15/1967,58,Egyptian,Diploma,5832,5,Cashier,Sharm El Sheikh,1033
+1682,Mariam,Tarek,Amr,Mariam Tarek Amr,20,1152529603,Mariam.Amr@example.com,11/28/2019,2,11/28/2023,11/28/2025,3,Female,1/1/1987,38,Sudanese,Bachelor,4870,9,Sales Associate,Mansoura,1032
+1683,Naglaa,Galal,Ziad,Naglaa Galal Ziad,20,1222796504,Naglaa.Ziad@example.com,12/18/2017,2,12/18/2023,12/18/2025,4,Female,2/10/1980,45,Sudanese,Diploma,5384,8,Sales Associate,Luxor,1036
+1684,Hend,Sameh,Moheb,Hend Sameh Moheb,20,1009106743,Hend.Moheb@example.com,12/29/2019,1,12/29/2024,12/29/2025,6,Female,2/20/1977,48,Egyptian,Undergraduate,4865,6,Sales Associate,Cairo,1026
+1685,Walaa,Saeed,Hassan,Walaa Saeed Hassan,20,1291119774,Walaa.Hassan@example.com,1/26/2019,2,1/26/2025,1/26/2027,4,Female,10/5/1977,48,Egyptian,Bachelor,4350,6,Sales Associate,Alexandria,1030
+1686,Mounir,Mahmoud,Ali,Mounir Mahmoud Ali,20,1277886954,Mounir.Ali@example.com,2/14/2018,2,2/14/2024,2/14/2026,4,Male,4/27/1975,50,Egyptian,Bachelor,4013,8,Sales Associate,Giza,1028
+1687,Manar,Hatem,Mahmoud,Manar Hatem Mahmoud,20,1165803476,Manar.Mahmoud@example.com,4/3/2018,2,4/3/2024,4/3/2026,4,Female,1/25/1967,58,Sudanese,Bachelor,6526,9,Cashier,Luxor,1036
+1688,Gamal,Mamdouh,Tawfik,Gamal Mamdouh Tawfik,20,1185173596,Gamal.Tawfik@example.com,5/30/2015,1,5/30/2024,5/30/2025,10,Male,6/2/1968,57,Egyptian,Bachelor,7031,8,Customer Service,Sharm El Sheikh,1034
+1689,Samira,Tarek,Morsy,Samira Tarek Morsy,20,1222657290,Samira.Morsy@example.com,6/17/2020,1,6/17/2024,6/17/2025,5,Female,11/3/1975,50,Egyptian,Diploma,5434,8,Cashier,Alexandria,1030
+1690,Hisham,Islam,Shady,Hisham Islam Shady,20,1039812477,Hisham.Shady@example.com,7/4/2020,2,7/4/2024,7/4/2026,3,Male,10/2/1971,54,Sudanese,Bachelor,5256,7,Sales Associate,Cairo,1026
+1691,Naglaa,Safwat,Tawfik,Naglaa Safwat Tawfik,20,1072878432,Naglaa.Tawfik@example.com,8/2/2016,1,8/2/2025,8/2/2026,9,Female,8/20/1987,38,Egyptian,Diploma,4224,7,Sales Associate,Mansoura,1032
+1692,Ghada,Bassem,Omar,Ghada Bassem Omar,20,1114926709,Ghada.Omar@example.com,8/25/2020,1,8/25/2024,8/25/2025,5,Female,2/2/1977,48,Egyptian,Diploma,5037,7,Cashier,Mansoura,1032
+1693,Walaa,Emad,Sayed,Walaa Emad Sayed,20,1195524242,Walaa.Sayed@example.com,9/22/2016,2,9/22/2024,9/22/2026,5,Female,9/16/1993,32,Egyptian,Diploma,5640,7,Security,Mansoura,1032
+1694,Bilal,Safwat,Abdelmonem,Bilal Safwat Abdelmonem,20,1239357583,Bilal.Abdelmonem@example.com,10/20/2017,1,10/20/2024,10/20/2025,8,Male,2/20/2002,23,Egyptian,Diploma,5886,7,Security,Sharm El Sheikh,1034
+1695,Rasha,Reda,Hisham,Rasha Reda Hisham,20,1126511454,Rasha.Hisham@example.com,11/8/2018,2,11/8/2024,11/8/2026,4,Female,10/15/1994,31,Egyptian,Bachelor,5604,6,Sales Associate,Giza,1028
+1696,Ahmed,Shady,Qasem,Ahmed Shady Qasem,20,1177151223,Ahmed.Qasem@example.com,11/23/2015,2,11/23/2023,11/23/2025,5,Male,12/8/1996,29,Egyptian,Bachelor,5894,6,Stock Keeper,Sharm El Sheikh,1034
+1697,Naglaa,Bilal,Youssef,Naglaa Bilal Youssef,20,1239886968,Naglaa.Youssef@example.com,12/18/2019,1,12/18/2024,12/18/2025,6,Female,7/1/1967,58,Egyptian,Diploma,6447,8,Customer Service,Sharm El Sheikh,1034
+1698,Heba,Ahmed,Kamal,Heba Ahmed Kamal,20,1020969634,Heba.Kamal@example.com,1/13/2016,2,1/13/2024,1/13/2026,5,Female,6/11/2001,24,Egyptian,Undergraduate,5643,9,Sales Associate,Luxor,1036
+1699,Sameh,Bahaa,Sobhy,Sameh Bahaa Sobhy,20,1052217800,Sameh.Sobhy@example.com,2/3/2016,1,2/3/2025,2/3/2026,10,Male,12/3/1993,32,Egyptian,Bachelor,6126,8,Stock Keeper,Luxor,1036
+1700,Ghada,Gamal,Fady,Ghada Gamal Fady,20,1253266948,Ghada.Fady@example.com,2/16/2019,1,2/16/2025,2/16/2026,7,Female,3/23/1967,58,Sudanese,Diploma,6262,7,Security,Luxor,1035
+1701,Essam,Shady,Mohamed,Essam Shady Mohamed,20,1122003150,Essam.Mohamed@example.com,3/16/2016,2,3/16/2024,3/16/2026,5,Male,9/26/1968,57,Egyptian,Diploma,4607,7,Stock Keeper,Giza,1028
+1702,Amr,Rashed,Nasr,Amr Rashed Nasr,20,1126390946,Amr.Nasr@example.com,4/14/2015,1,4/14/2024,4/14/2025,10,Male,6/19/1982,43,Egyptian,Bachelor,5885,5,Cashier,Cairo,1026
+1703,Gamal,Ashraf,Abdelhady,Gamal Ashraf Abdelhady,20,1256468707,Gamal.Abdelhady@example.com,5/13/2020,2,5/13/2024,5/13/2026,3,Male,8/11/1975,50,Egyptian,Bachelor,5240,10,Sales Associate,Giza,1028
+1704,Qasem,Soliman,Emad,Qasem Soliman Emad,20,1074183406,Qasem.Emad@example.com,6/8/2015,2,6/8/2023,6/8/2025,5,Male,11/17/1988,37,Egyptian,Bachelor,5283,5,Stock Keeper,Mansoura,1032
+1705,Hend,Ibrahim,Abdelmonem,Hend Ibrahim Abdelmonem,20,1083777335,Hend.Abdelmonem@example.com,7/3/2019,2,7/3/2023,7/3/2025,3,Female,5/26/1996,29,Egyptian,Bachelor,6319,5,Junior HR,Head Office,1008
+1706,Doaa,Hassan,Soliman,Doaa Hassan Soliman,20,1275464353,Doaa.Soliman@example.com,7/23/2018,2,7/23/2024,7/23/2026,4,Female,1/24/1989,36,Egyptian,Bachelor,5399,6,Sales Associate,Giza,1028
+1707,Islam,Abdelaziz,Morsy,Islam Abdelaziz Morsy,20,1214004480,Islam.Morsy@example.com,8/11/2020,1,8/11/2024,8/11/2025,5,Male,7/20/1969,56,Egyptian,Bachelor,5796,10,Sales Associate,Sharm El Sheikh,1034
+1708,Basma,Tawfik,Sayed,Basma Tawfik Sayed,20,1289514239,Basma.Sayed@example.com,9/5/2020,1,9/5/2024,9/5/2025,5,Female,2/6/1998,27,Egyptian,Bachelor,4684,8,Stock Keeper,Cairo,1025
+1709,Abdelatif,Tarek,Sameh,Abdelatif Tarek Sameh,20,1128805658,Abdelatif.Sameh@example.com,9/27/2020,1,9/27/2024,9/27/2025,5,Male,5/21/1982,43,Sudanese,Bachelor,7292,7,Customer Service,Sharm El Sheikh,1034
+1710,Islam,Tawfik,Rami,Islam Tawfik Rami,20,1066444057,Islam.Rami@example.com,10/7/2015,2,10/7/2023,10/7/2025,5,Male,7/22/1984,41,Egyptian,Bachelor,5858,7,Sales Associate,Cairo,1025
+1711,Emad,Abdelmonem,Diaa,Emad Abdelmonem Diaa,20,1228305580,Emad.Diaa@example.com,10/24/2017,2,10/24/2023,10/24/2025,4,Male,1/23/1974,51,Syrian,Bachelor,5022,10,Sales Associate,Alexandria,1030
+1712,Fouad,Abdelnasser,Hatem,Fouad Abdelnasser Hatem,20,1058121504,Fouad.Hatem@example.com,11/22/2019,2,11/22/2023,11/22/2025,3,Male,8/18/1975,50,Sudanese,Bachelor,7865,9,Customer Service,Cairo,1026
+1713,Moheb,Rashed,Sherif,Moheb Rashed Sherif,20,1083899217,Moheb.Sherif@example.com,12/16/2021,2,12/16/2023,12/16/2025,2,Male,11/6/1990,35,Egyptian,Diploma,6019,7,Customer Service,Giza,1028
+1714,Salma,Raouf,Rami,Salma Raouf Rami,20,1138952477,Salma.Rami@example.com,12/31/2021,1,12/31/2024,12/31/2025,4,Female,7/27/1990,35,Egyptian,Diploma,7270,10,Customer Service,Alexandria,1030
+1715,Ghada,Islam,Abdelmonem,Ghada Islam Abdelmonem,20,1187854695,Ghada.Abdelmonem@example.com,1/14/2017,1,1/14/2026,1/14/2027,9,Female,3/20/1972,53,Syrian,Diploma,6131,7,Security,Sharm El Sheikh,1034
+1716,Bilal,Galal,Hassan,Bilal Galal Hassan,20,1011352876,Bilal.Hassan@example.com,2/6/2018,2,2/6/2024,2/6/2026,4,Male,10/21/1985,40,Sudanese,Bachelor,5059,9,Sales Associate,Luxor,1036
+1717,Marwa,Mamdouh,Amr,Marwa Mamdouh Amr,20,1105951770,Marwa.Amr@example.com,3/4/2021,1,3/4/2025,3/4/2026,5,Female,8/23/1984,41,Egyptian,Bachelor,4961,7,Sales Associate,Cairo,1025
+1718,Amal,Ayman,Khalil,Amal Ayman Khalil,20,1284368114,Amal.Khalil@example.com,4/2/2018,2,4/2/2024,4/2/2026,4,Female,5/6/1986,39,Egyptian,Diploma,6297,6,Cashier,Mansoura,1032
+1719,Essam,Abdelrahman,Magdy,Essam Abdelrahman Magdy,20,1127113481,Essam.Magdy@example.com,4/26/2019,2,4/26/2023,4/26/2025,3,Male,4/3/1980,45,Egyptian,Bachelor,5553,5,Sales Associate,Luxor,1036
+1720,Farouk,Shady,Reda,Farouk Shady Reda,20,1055695190,Farouk.Reda@example.com,5/26/2019,2,5/26/2023,5/26/2025,3,Male,5/4/1974,51,Egyptian,Bachelor,7865,8,Customer Service,Giza,1028
+1721,Yasmin,Omar,Nabil,Yasmin Omar Nabil,20,1181707255,Yasmin.Nabil@example.com,6/24/2016,1,6/24/2025,6/24/2026,9,Female,1/2/1984,41,Egyptian,Diploma,6122,6,Customer Service,Luxor,1036
+1722,Basel,Mahmoud,Ibrahim,Basel Mahmoud Ibrahim,20,1025691790,Basel.Ibrahim@example.com,7/8/2016,1,7/8/2025,7/8/2026,9,Male,1/18/1967,58,Egyptian,Bachelor,6475,5,Stock Keeper,Giza,1028
+1723,Ibrahim,Abdelatif,Maged,Ibrahim Abdelatif Maged,20,1271599805,Ibrahim.Maged@example.com,7/18/2021,1,7/18/2024,7/18/2025,4,Male,1/25/1997,28,Egyptian,Bachelor,4711,5,Sales Associate,Luxor,1036
+1724,Laila,Abdelsalam,Ismail,Laila Abdelsalam Ismail,20,1229603139,Laila.Ismail@example.com,8/5/2021,2,8/5/2023,8/5/2025,2,Female,5/25/1997,28,Egyptian,Undergraduate,4354,7,Sales Associate,Giza,1028
+1725,Nasser,Tarek,Moheb,Nasser Tarek Moheb,20,1149508386,Nasser.Moheb@example.com,9/3/2018,2,9/3/2024,9/3/2026,4,Male,7/6/1973,52,Egyptian,Diploma,5532,7,Security,Mansoura,1032
+1726,Sohair,Mamdouh,Khaled,Sohair Mamdouh Khaled,20,1089575364,Sohair.Khaled@example.com,9/24/2017,2,9/24/2023,9/24/2025,4,Female,10/18/1978,47,Egyptian,Bachelor,4970,7,Sales Associate,Sharm El Sheikh,1034
+1727,Safwat,Hussein,Anwar,Safwat Hussein Anwar,20,1270408357,Safwat.Anwar@example.com,10/15/2021,1,10/15/2024,10/15/2025,4,Male,2/10/1971,54,Egyptian,Diploma,5406,9,Cashier,Aswan,1038
+1728,Bilal,Basel,Mohamed,Bilal Basel Mohamed,20,1176911328,Bilal.Mohamed@example.com,11/14/2017,1,11/14/2024,11/14/2025,8,Male,1/26/1973,52,Egyptian,Diploma,5409,6,Security,Aswan,1038
+1729,Samira,Sherif,Fouad,Samira Sherif Fouad,20,1202290999,Samira.Fouad@example.com,11/29/2020,1,11/29/2024,11/29/2025,5,Female,1/13/1975,50,Egyptian,Undergraduate,5937,9,Sales Associate,Cairo,1026
+1730,Mansour,Nasr,Tamer,Mansour Nasr Tamer,20,1183834773,Mansour.Tamer@example.com,12/23/2021,1,12/23/2024,12/23/2025,4,Male,5/23/1990,35,Egyptian,Diploma,6480,9,Customer Service,Cairo,1026
+1731,Samira,Raouf,Diaa,Samira Raouf Diaa,20,1118912233,Samira.Diaa@example.com,1/17/2019,1,1/17/2025,1/17/2026,7,Female,1/15/2001,24,Sudanese,Bachelor,6545,6,Cashier,Aswan,1037
+1732,Magda,Qasem,Ayman,Magda Qasem Ayman,20,1087139449,Magda.Ayman@example.com,2/9/2018,1,2/9/2025,2/9/2026,8,Female,12/17/1967,58,Egyptian,Bachelor,5783,9,Sales Associate,Cairo,1026
+1733,Ashraf,Ashraf,Saber,Ashraf Ashraf Saber,20,1262911023,Ashraf.Saber@example.com,3/10/2016,1,3/10/2025,3/10/2026,10,Male,6/2/1992,33,Egyptian,Bachelor,5586,6,Stock Keeper,Giza,1028
+1734,Rashed,Adel,Rashed,Rashed Adel Rashed,20,1039029932,Rashed.Rashed@example.com,4/2/2016,1,4/2/2025,4/2/2026,9,Male,9/1/1985,40,Egyptian,Diploma,4443,9,Sales Associate,Sharm El Sheikh,1034
+1735,Reham,Magdy,Aref,Reham Magdy Aref,20,1070652874,Reham.Aref@example.com,4/13/2019,1,4/13/2024,4/13/2025,6,Female,3/16/1981,44,Egyptian,Bachelor,4289,8,Sales Associate,Luxor,1036
+1736,Rasha,Bassem,Ramy,Rasha Bassem Ramy,20,1052339849,Rasha.Ramy@example.com,5/3/2019,2,5/3/2023,5/3/2025,3,Female,8/10/1986,39,Egyptian,Masters,8848,8,Junior Financial Analyst,Head Office,1024
+1737,Mariam,Abdelrahman,Yehia,Mariam Abdelrahman Yehia,20,1017595136,Mariam.Yehia@example.com,5/16/2021,2,5/16/2023,5/16/2025,2,Female,5/21/1973,52,Egyptian,Diploma,6129,8,Stock Keeper,Sharm El Sheikh,1033
+1738,Qasem,Qasem,Atef,Qasem Qasem Atef,20,1218316241,Qasem.Atef@example.com,6/13/2021,1,6/13/2024,6/13/2025,4,Male,10/14/1986,39,Egyptian,Bachelor,5728,10,Sales Associate,Mansoura,1031
+1739,Yasmin,Karim,Ziad,Yasmin Karim Ziad,20,1241987685,Yasmin.Ziad@example.com,7/12/2018,2,7/12/2024,7/12/2026,4,Female,1/28/2002,23,Egyptian,Bachelor,4703,7,Stock Keeper,Alexandria,1030
+1740,Yehia,Nasser,Aref,Yehia Nasser Aref,20,1063544393,Yehia.Aref@example.com,8/6/2019,1,8/6/2024,8/6/2025,6,Male,12/20/1981,44,Sudanese,Bachelor,5984,6,Sales Associate,Giza,1027
+1741,Youssef,Ziad,Khalil,Youssef Ziad Khalil,20,1015356955,Youssef.Khalil@example.com,8/19/2020,2,8/19/2024,8/19/2026,3,Male,10/23/1989,36,Egyptian,Bachelor,5650,7,Stock Keeper,Aswan,1037
+1742,Doaa,Maged,Lotfy,Doaa Maged Lotfy,20,1033907938,Doaa.Lotfy@example.com,9/15/2020,2,9/15/2024,9/15/2026,3,Female,5/13/1981,44,Syrian,Diploma,6409,6,Cashier,Mansoura,1031
+1743,Nihal,Abdelkader,Zakaria,Nihal Abdelkader Zakaria,20,1294880393,Nihal.Zakaria@example.com,10/5/2018,2,10/5/2024,10/5/2026,4,Female,2/11/1990,35,Egyptian,Diploma,6522,8,Customer Service,Alexandria,1029
+1744,Hoda,Mamdouh,Maged,Hoda Mamdouh Maged,20,1093301262,Hoda.Maged@example.com,10/29/2021,1,10/29/2024,10/29/2025,4,Female,11/23/1970,55,Egyptian,Undergraduate,5009,9,Cashier,Alexandria,1030
+1745,Laila,Abdelhady,Mansour,Laila Abdelhady Mansour,20,1277002433,Laila.Mansour@example.com,11/12/2021,2,11/12/2023,11/12/2025,2,Female,12/14/1997,28,Syrian,Bachelor,5064,6,Stock Keeper,Alexandria,1029
+1746,Laila,Abdelatif,Abdelatif,Laila Abdelatif Abdelatif,20,1056512829,Laila.Abdelatif@example.com,12/2/2020,1,12/2/2024,12/2/2025,5,Female,9/7/1988,37,Egyptian,Diploma,5858,8,Sales Associate,Cairo,1025
+1747,Hanan,Morsy,Amr,Hanan Morsy Amr,20,1031950945,Hanan.Amr@example.com,12/14/2020,1,12/14/2024,12/14/2025,5,Female,7/4/1983,42,Egyptian,Diploma,5545,6,Security,Aswan,1037
+1748,Helmy,Sayed,Hassan,Helmy Sayed Hassan,20,1042561537,Helmy.Hassan@example.com,12/25/2019,1,12/25/2024,12/25/2025,6,Male,6/4/1978,47,Egyptian,Diploma,5846,8,Security,Alexandria,1029
+1749,Heba,Ashraf,Osama,Heba Ashraf Osama,20,1289361422,Heba.Osama@example.com,1/24/2017,2,1/24/2025,1/24/2027,5,Female,4/8/1983,42,Egyptian,Bachelor,5941,9,Sales Associate,Sharm El Sheikh,1033
+1750,Walaa,Morsy,Hassan,Walaa Morsy Hassan,20,1076482668,Walaa.Hassan@example.com,2/4/2019,1,2/4/2025,2/4/2026,7,Female,1/1/1980,45,Egyptian,Bachelor,4599,6,Sales Associate,Giza,1027
+1751,Shaimaa,Nabil,Essam,Shaimaa Nabil Essam,20,1156153932,Shaimaa.Essam@example.com,2/14/2020,1,2/14/2025,2/14/2026,6,Female,9/18/1972,53,Egyptian,Bachelor,5895,5,Security,Aswan,1037
+1752,Ismail,Abdelhady,Hossam,Ismail Abdelhady Hossam,20,1025216921,Ismail.Hossam@example.com,3/13/2017,2,3/13/2025,3/13/2027,5,Male,1/3/1991,34,Syrian,Undergraduate,5252,8,Sales Associate,Aswan,1037
+1753,Doaa,Basel,Moataz,Doaa Basel Moataz,20,1041579897,Doaa.Moataz@example.com,4/4/2016,2,4/4/2024,4/4/2026,5,Female,11/27/1972,53,Egyptian,Diploma,6601,8,Security,Mansoura,1032
+1754,Soliman,Mansour,Amr,Soliman Mansour Amr,20,1032918801,Soliman.Amr@example.com,4/24/2018,2,4/24/2024,4/24/2026,4,Male,8/18/1983,42,Egyptian,Undergraduate,7271,8,Customer Service,Cairo,1025
+1755,Lina,Rami,Safwat,Lina Rami Safwat,20,1149482017,Lina.Safwat@example.com,5/4/2018,1,5/4/2024,5/4/2025,7,Female,6/23/1976,49,Egyptian,Bachelor,5726,8,Sales Associate,Mansoura,1031
+1756,Manar,Abdelrahman,Essam,Manar Abdelrahman Essam,20,1257508650,Manar.Essam@example.com,5/28/2021,1,5/28/2024,5/28/2025,4,Female,6/8/1967,58,Egyptian,Diploma,7648,10,Customer Service,Cairo,1025
+1757,Sameh,Fady,Ashraf,Sameh Fady Ashraf,20,1014965124,Sameh.Ashraf@example.com,6/27/2018,2,6/27/2024,6/27/2026,4,Male,12/7/1987,38,Egyptian,Bachelor,6666,10,Cashier,Cairo,1025
+1758,Nehal,Youssef,Waheed,Nehal Youssef Waheed,20,1075379064,Nehal.Waheed@example.com,7/10/2019,1,7/10/2024,7/10/2025,6,Female,5/9/1982,43,Egyptian,Bachelor,6186,5,Cashier,Cairo,1025
+1759,Magdy,Hossam,Abdelnasser,Magdy Hossam Abdelnasser,20,1200668178,Magdy.Abdelnasser@example.com,8/4/2018,2,8/4/2024,8/4/2026,4,Male,10/19/1971,54,Egyptian,Diploma,4384,7,Sales Associate,Mansoura,1031
+1760,Doaa,Adel,Farouk,Doaa Adel Farouk,20,1071913396,Doaa.Farouk@example.com,8/17/2020,1,8/17/2024,8/17/2025,5,Female,11/24/1970,55,Egyptian,Diploma,7353,5,Customer Service,Cairo,1026
+1761,Basel,Hossni,Abdelatif,Basel Hossni Abdelatif,20,1040498658,Basel.Abdelatif@example.com,9/14/2016,1,9/14/2025,9/14/2026,9,Male,4/15/1996,29,Egyptian,Undergraduate,4378,5,Sales Associate,Alexandria,1029
+1762,Ashraf,Basel,Hatem,Ashraf Basel Hatem,20,1076525016,Ashraf.Hatem@example.com,10/8/2021,1,10/8/2024,10/8/2025,4,Male,10/19/1993,32,Egyptian,Diploma,6959,6,Cashier,Alexandria,1029
+1763,Hoda,Mounir,Fouad,Hoda Mounir Fouad,20,1202808078,Hoda.Fouad@example.com,11/18/2018,1,11/18/2024,11/18/2025,7,Female,7/20/1981,44,Egyptian,Diploma,6859,5,Customer Service,Giza,1027
+1764,Iman,Ibrahim,Sameh,Iman Ibrahim Sameh,20,1144034383,Iman.Sameh@example.com,12/1/2018,1,12/1/2024,12/1/2025,7,Female,7/1/1999,26,Egyptian,Bachelor,6417,8,Security,Giza,1028
+1765,Rania,Abdelhady,Tawfik,Rania Abdelhady Tawfik,20,1021473696,Rania.Tawfik@example.com,12/21/2016,1,12/21/2025,12/21/2026,9,Female,3/28/1994,31,Egyptian,Bachelor,5484,6,Cashier,Sharm El Sheikh,1033
+1766,Rania,Bahaa,Sobhy,Rania Bahaa Sobhy,20,1060533447,Rania.Sobhy@example.com,1/1/2020,2,1/1/2024,1/1/2026,3,Female,4/8/1976,49,Egyptian,Diploma,6338,9,Cashier,Mansoura,1031
+1767,Nahed,Islam,Youssef,Nahed Islam Youssef,20,1149707093,Nahed.Youssef@example.com,1/16/2017,1,1/16/2026,1/16/2027,9,Female,5/23/2001,24,Egyptian,Undergraduate,5291,8,Cashier,Mansoura,1031
+1768,Safwat,Abdelsalam,Islam,Safwat Abdelsalam Islam,20,1203617685,Safwat.Islam@example.com,2/12/2017,2,2/12/2025,2/12/2027,5,Male,7/21/1989,36,Egyptian,Bachelor,6102,8,Stock Keeper,Mansoura,1031
+1769,Emad,Essam,Ashraf,Emad Essam Ashraf,20,1176201417,Emad.Ashraf@example.com,3/2/2015,1,3/2/2024,3/2/2025,10,Male,8/13/1971,54,Sudanese,Bachelor,6102,7,Customer Service,Sharm El Sheikh,1033
+1770,Radwa,Hassan,Khaled,Radwa Hassan Khaled,20,1097741074,Radwa.Khaled@example.com,3/27/2018,2,3/27/2024,3/27/2026,4,Female,12/17/1981,44,Egyptian,Bachelor,6459,6,Stock Keeper,Giza,1027
+1771,Doaa,Hassan,Atef,Doaa Hassan Atef,20,1003199348,Doaa.Atef@example.com,4/7/2020,1,4/7/2024,4/7/2025,5,Female,3/14/1995,30,Egyptian,Masters,7098,6,Customer Service,Giza,1027
+1772,Amal,Zakaria,Bilal,Amal Zakaria Bilal,20,1066317625,Amal.Bilal@example.com,4/19/2015,2,4/19/2023,4/19/2025,5,Female,2/4/1988,37,Egyptian,Diploma,4089,9,Sales Associate,Alexandria,1030
+1773,Marwa,Bahaa,Abdelaziz,Marwa Bahaa Abdelaziz,20,1134968626,Marwa.Abdelaziz@example.com,5/4/2021,2,5/4/2023,5/4/2025,2,Female,2/17/2002,23,Syrian,Bachelor,6304,5,Stock Keeper,Giza,1027
+1774,Fares,Mounir,Mostafa,Fares Mounir Mostafa,20,1116945172,Fares.Mostafa@example.com,6/2/2016,1,6/2/2025,6/2/2026,9,Male,10/4/2001,24,Egyptian,Bachelor,4761,8,Stock Keeper,Aswan,1037
+1775,Sohair,Qasem,Ashraf,Sohair Qasem Ashraf,20,1129001857,Sohair.Ashraf@example.com,6/21/2016,2,6/21/2024,6/21/2026,5,Female,9/1/1999,26,Egyptian,Bachelor,5440,7,Security,Giza,1028
+1776,Soliman,Osama,Islam,Soliman Osama Islam,20,1085637144,Soliman.Islam@example.com,7/5/2020,2,7/5/2024,7/5/2026,3,Male,2/15/1970,55,Sudanese,Diploma,6633,8,Customer Service,Alexandria,1029
+1777,Basel,Abdelsalam,Sherif,Basel Abdelsalam Sherif,20,1250974500,Basel.Sherif@example.com,7/17/2020,2,7/17/2024,7/17/2026,3,Male,2/24/1967,58,Egyptian,Bachelor,5067,10,Sales Associate,Giza,1027
+1778,Iman,Nasser,Morsy,Iman Nasser Morsy,20,1013517956,Iman.Morsy@example.com,8/13/2019,1,8/13/2024,8/13/2025,6,Female,10/22/1977,48,Egyptian,Diploma,4085,7,Sales Associate,Mansoura,1031
+1779,Eman,Raouf,Hisham,Eman Raouf Hisham,20,1137834517,Eman.Hisham@example.com,8/31/2016,2,8/31/2024,8/31/2026,5,Female,9/5/1984,41,Syrian,Bachelor,5966,8,Cashier,Giza,1027
+1780,Nehal,Helmy,Ashraf,Nehal Helmy Ashraf,20,1021237935,Nehal.Ashraf@example.com,9/20/2017,1,9/20/2024,9/20/2025,8,Female,3/28/1967,58,Egyptian,Diploma,6614,8,Cashier,Giza,1027
+1781,Basma,Abdelrahman,Abdelaziz,Basma Abdelrahman Abdelaziz,20,1031221644,Basma.Abdelaziz@example.com,10/1/2021,1,10/1/2024,10/1/2025,4,Female,9/5/1978,47,Egyptian,Bachelor,4951,6,Stock Keeper,Aswan,1037
+1782,Rashed,Mohamed,Ziad,Rashed Mohamed Ziad,20,1266535869,Rashed.Ziad@example.com,10/28/2016,2,10/28/2024,10/28/2026,5,Male,6/21/1988,37,Egyptian,Bachelor,5850,8,Stock Keeper,Sharm El Sheikh,1033
+1783,Walaa,Essam,Khalil,Walaa Essam Khalil,20,1126066341,Walaa.Khalil@example.com,11/20/2015,2,11/20/2023,11/20/2025,5,Female,12/13/1967,58,Egyptian,Bachelor,6853,6,Cashier,Sharm El Sheikh,1033
+1784,Khalil,Osama,Adel,Khalil Osama Adel,20,1215532919,Khalil.Adel@example.com,12/17/2020,2,12/17/2024,12/17/2026,3,Male,3/3/1976,49,Egyptian,Bachelor,6442,7,Cashier,Sharm El Sheikh,1033
+1785,Moheb,Bilal,Yehia,Moheb Bilal Yehia,20,1000749221,Moheb.Yehia@example.com,1/12/2021,1,1/12/2025,1/12/2026,5,Male,4/17/1988,37,Egyptian,Bachelor,7237,9,Customer Service,Sharm El Sheikh,1033
+1786,Sahar,Mamdouh,Rami,Sahar Mamdouh Rami,20,1089955572,Sahar.Rami@example.com,2/6/2015,1,2/6/2025,2/6/2026,11,Female,12/5/1980,45,Egyptian,Bachelor,6190,7,Customer Service,Cairo,1025
+1787,Sherine,Abdelkader,Fares,Sherine Abdelkader Fares,20,1261518072,Sherine.Fares@example.com,3/2/2016,1,3/2/2025,3/2/2026,10,Female,1/4/1984,41,Syrian,Diploma,4883,10,Sales Associate,Mansoura,1031
+1788,Lina,Helmy,Raouf,Lina Helmy Raouf,20,1173476233,Lina.Raouf@example.com,3/14/2015,1,3/14/2024,3/14/2025,10,Female,10/14/1967,58,Egyptian,Diploma,6467,8,Cashier,Giza,1027
+1789,Bassem,Ayman,Osama,Bassem Ayman Osama,20,1021740951,Bassem.Osama@example.com,4/9/2021,1,4/9/2024,4/9/2025,4,Male,7/19/1989,36,Egyptian,Bachelor,5278,8,Sales Associate,Cairo,1025
+1790,Hanan,Safwat,Waheed,Hanan Safwat Waheed,20,1152426954,Hanan.Waheed@example.com,4/24/2018,1,4/24/2024,4/24/2025,7,Female,3/10/1974,51,Sudanese,Diploma,5178,9,Cashier,Giza,1028
+1791,Nehal,Soliman,Nasr,Nehal Soliman Nasr,20,1086390269,Nehal.Nasr@example.com,5/13/2016,1,5/13/2025,5/13/2026,9,Female,7/26/2002,23,Egyptian,Diploma,5895,7,Cashier,Sharm El Sheikh,1033
+1792,Dina,Adel,Mamdouh,Dina Adel Mamdouh,20,1043309194,Dina.Mamdouh@example.com,6/8/2018,1,6/8/2024,6/8/2025,7,Female,2/22/1970,55,Egyptian,Diploma,5557,6,Stock Keeper,Giza,1027
+1793,Basma,Bahaa,Saeed,Basma Bahaa Saeed,20,1017102497,Basma.Saeed@example.com,6/21/2017,2,6/21/2023,6/21/2025,4,Female,3/11/2000,25,Egyptian,Masters,6950,10,Customer Service,Alexandria,1030
+1794,Magdy,Helmy,Hany,Magdy Helmy Hany,20,1247441619,Magdy.Hany@example.com,7/9/2015,1,7/9/2024,7/9/2025,10,Male,12/27/1989,36,Egyptian,Diploma,6011,8,Security,Giza,1028
+1795,Laila,Ehab,Shady,Laila Ehab Shady,20,1183677590,Laila.Shady@example.com,7/23/2016,1,7/23/2025,7/23/2026,9,Female,8/7/1968,57,Egyptian,Undergraduate,5532,9,Sales Associate,Aswan,1037
+1796,Abdelnasser,Hossam,Abdelaziz,Abdelnasser Hossam Abdelaziz,20,1138953167,Abdelnasser.Abdelaziz@example.com,8/19/2016,2,8/19/2024,8/19/2026,5,Male,8/3/1998,27,Egyptian,Bachelor,6776,9,Junior HR,Head Office,1008
+1797,Qasem,Moheb,Abdelhady,Qasem Moheb Abdelhady,20,1098601044,Qasem.Abdelhady@example.com,8/31/2019,1,8/31/2024,8/31/2025,6,Male,1/9/1993,32,Egyptian,Bachelor,5833,6,Stock Keeper,Alexandria,1029
+1798,Fatma,Emad,Ali,Fatma Emad Ali,20,1056452812,Fatma.Ali@example.com,9/30/2020,2,9/30/2024,9/30/2026,3,Female,9/10/1981,44,Egyptian,Bachelor,6246,8,Stock Keeper,Alexandria,1029
+1799,Sahar,Lotfy,Youssef,Sahar Lotfy Youssef,20,1200468964,Sahar.Youssef@example.com,10/18/2021,1,10/18/2024,10/18/2025,4,Female,5/4/1987,38,Egyptian,Diploma,6405,8,Customer Service,Cairo,1026
+1800,Abdelaziz,Omar,Galal,Abdelaziz Omar Galal,20,1007260608,Abdelaziz.Galal@example.com,11/8/2019,1,11/8/2024,11/8/2025,6,Male,7/2/1969,56,Egyptian,Bachelor,4954,8,Sales Associate,Alexandria,1029
+1801,Tawfik,Rami,Hisham,Tawfik Rami Hisham,20,1019876703,Tawfik.Hisham@example.com,11/19/2018,1,11/19/2024,11/19/2025,7,Male,1/9/1983,42,Egyptian,Bachelor,4970,6,Stock Keeper,Mansoura,1031
+1802,Rashed,Emad,Nasser,Rashed Emad Nasser,20,1249421451,Rashed.Nasser@example.com,12/19/2021,2,12/19/2023,12/19/2025,2,Male,2/5/1971,54,Egyptian,Diploma,5714,7,Security,Alexandria,1029
+1803,Farouk,Wael,Abdelkader,Farouk Wael Abdelkader,20,1223108260,Farouk.Abdelkader@example.com,1/17/2017,1,1/17/2026,1/17/2027,9,Male,2/24/1973,52,Egyptian,Undergraduate,5422,10,Sales Associate,Mansoura,1031
+1804,Abdelmonem,Nasr,Ehab,Abdelmonem Nasr Ehab,20,1220354372,Abdelmonem.Ehab@example.com,1/30/2019,1,1/30/2025,1/30/2026,7,Male,4/25/1983,42,Egyptian,Diploma,6596,6,Security,Alexandria,1030
+1805,Samaa,Bilal,Saeed,Samaa Bilal Saeed,20,1121772192,Samaa.Saeed@example.com,2/12/2020,1,2/12/2025,2/12/2026,6,Female,7/11/1998,27,Egyptian,Bachelor,5225,8,Stock Keeper,Alexandria,1029
+1806,Abdelmonem,Hany,Gamal,Abdelmonem Hany Gamal,20,1013975418,Abdelmonem.Gamal@example.com,2/23/2018,2,2/23/2024,2/23/2026,4,Male,4/21/1980,45,Egyptian,Diploma,5820,10,Cashier,Giza,1028
+1807,Doaa,Nabil,Emad,Doaa Nabil Emad,20,1056866399,Doaa.Emad@example.com,3/24/2015,2,3/24/2023,3/24/2025,5,Female,10/14/1974,51,Sudanese,Diploma,5314,5,Security,Luxor,1035
+1808,Hoda,Youssef,Yehia,Hoda Youssef Yehia,20,1171149328,Hoda.Yehia@example.com,4/23/2015,1,4/23/2024,4/23/2025,10,Female,7/7/1975,50,Egyptian,Bachelor,5122,7,Stock Keeper,Luxor,1035
+1809,Hisham,Yehia,Ismail,Hisham Yehia Ismail,20,1075829323,Hisham.Ismail@example.com,5/4/2021,1,5/4/2024,5/4/2025,4,Male,10/11/1973,52,Egyptian,Bachelor,5628,10,Cashier,Mansoura,1031
+1810,Ziad,Aref,Atef,Ziad Aref Atef,20,1269910049,Ziad.Atef@example.com,6/2/2016,2,6/2/2024,6/2/2026,5,Male,12/13/1983,42,Sudanese,Bachelor,7422,9,Customer Service,Mansoura,1032
+1811,Sohair,Noureldin,Magdy,Sohair Noureldin Magdy,20,1105845925,Sohair.Magdy@example.com,6/26/2018,2,6/26/2024,6/26/2026,4,Female,9/9/1978,47,Egyptian,Bachelor,4932,5,Sales Associate,Mansoura,1031
+1812,Laila,Montasser,Hany,Laila Montasser Hany,20,1130856803,Laila.Hany@example.com,7/21/2018,1,7/21/2024,7/21/2025,7,Female,5/3/1970,55,Egyptian,Bachelor,4775,7,Stock Keeper,Sharm El Sheikh,1033
+1813,Lobna,Tawfik,Karim,Lobna Tawfik Karim,20,1126638318,Lobna.Karim@example.com,8/4/2021,2,8/4/2023,8/4/2025,2,Female,4/27/1980,45,Egyptian,Diploma,6650,9,Cashier,Mansoura,1031
+1814,Hatem,Saeed,Khaled,Hatem Saeed Khaled,20,1043892656,Hatem.Khaled@example.com,8/15/2020,1,8/15/2024,8/15/2025,5,Male,1/28/1983,42,Egyptian,Bachelor,5642,8,Stock Keeper,Luxor,1035
+1815,Mansour,Anwar,Moheb,Mansour Anwar Moheb,20,1250701795,Mansour.Moheb@example.com,8/25/2018,2,8/25/2024,8/25/2026,4,Male,12/28/2000,25,Egyptian,Diploma,6630,7,Customer Service,Alexandria,1030
+1816,Safwat,Lotfy,Emad,Safwat Lotfy Emad,20,1226919837,Safwat.Emad@example.com,9/17/2016,2,9/17/2024,9/17/2026,5,Male,11/25/1980,45,Sudanese,Bachelor,6528,9,Customer Service,Mansoura,1032
+1817,Nisreen,Osama,Rashed,Nisreen Osama Rashed,20,1000207515,Nisreen.Rashed@example.com,10/3/2020,2,10/3/2024,10/3/2026,3,Female,9/19/1993,32,Egyptian,Bachelor,6914,7,Cashier,Sharm El Sheikh,1033
+1818,Mona,Anwar,Shady,Mona Anwar Shady,20,1136991691,Mona.Shady@example.com,10/24/2020,2,10/24/2024,10/24/2026,3,Female,2/20/1993,32,Egyptian,Bachelor,5485,5,Sales Associate,Sharm El Sheikh,1033
+1819,Shaimaa,Hossni,Hussein,Shaimaa Hossni Hussein,20,1186989474,Shaimaa.Hussein@example.com,11/8/2016,1,11/8/2025,11/8/2026,9,Female,3/2/1969,56,Egyptian,Diploma,5574,9,Sales Associate,Cairo,1025
+1820,Sherif,Ayman,Raouf,Sherif Ayman Raouf,20,1180766380,Sherif.Raouf@example.com,11/23/2020,1,11/23/2024,11/23/2025,5,Male,12/12/1991,34,Egyptian,Bachelor,6358,8,Stock Keeper,Aswan,1038
+1821,Nehal,Ziad,Islam,Nehal Ziad Islam,20,1173954994,Nehal.Islam@example.com,12/17/2017,1,12/17/2024,12/17/2025,8,Female,4/10/1986,39,Egyptian,Bachelor,4537,8,Stock Keeper,Cairo,1025
+1822,Moataz,Emad,Hatem,Moataz Emad Hatem,20,1131923279,Moataz.Hatem@example.com,1/14/2015,1,1/14/2025,1/14/2026,11,Male,2/16/1993,32,Sudanese,Bachelor,4369,6,Sales Associate,Alexandria,1029
+1823,Atef,Saber,Khalil,Atef Saber Khalil,20,1092806501,Atef.Khalil@example.com,2/11/2015,2,2/11/2025,2/11/2027,6,Male,2/2/1967,58,Egyptian,Bachelor,7835,5,Customer Service,Aswan,1037
+1824,Rania,Ayman,Qasem,Rania Ayman Qasem,20,1062871835,Rania.Qasem@example.com,2/28/2019,2,2/28/2025,2/28/2027,4,Female,8/28/1993,32,Syrian,Bachelor,4721,7,Sales Associate,Aswan,1037
+1825,Khaled,Ahmed,Essam,Khaled Ahmed Essam,20,1112017950,Khaled.Essam@example.com,3/14/2018,1,3/14/2025,3/14/2026,8,Male,9/27/1986,39,Egyptian,Diploma,5676,6,Security,Cairo,1025
+1826,Fatma,Safwat,Rashed,Fatma Safwat Rashed,20,1117434287,Fatma.Rashed@example.com,4/9/2021,1,4/9/2024,4/9/2025,4,Female,3/2/1995,30,Egyptian,Diploma,5160,7,Stock Keeper,Mansoura,1031
+1827,Aya,Ehab,Ziad,Aya Ehab Ziad,20,1076064241,Aya.Ziad@example.com,5/2/2020,2,5/2/2024,5/2/2026,3,Female,4/9/1992,33,Egyptian,Diploma,5791,5,Security,Giza,1027
+1828,Hatem,Youssef,Ashraf,Hatem Youssef Ashraf,20,1185475905,Hatem.Ashraf@example.com,6/1/2020,1,6/1/2024,6/1/2025,5,Male,7/6/1986,39,Syrian,Undergraduate,4934,6,Sales Associate,Giza,1027
+1829,Sherine,Raouf,Mohamed,Sherine Raouf Mohamed,20,1163567780,Sherine.Mohamed@example.com,6/23/2021,1,6/23/2024,6/23/2025,4,Female,7/28/1979,46,Egyptian,Diploma,5638,8,Sales Associate,Aswan,1037
+1830,Aya,Gamal,Helmy,Aya Gamal Helmy,20,1287791691,Aya.Helmy@example.com,7/12/2016,1,7/12/2025,7/12/2026,9,Female,7/11/1990,35,Egyptian,Bachelor,4145,7,Sales Associate,Giza,1027
+1831,Nehal,Ismail,Abdelrahman,Nehal Ismail Abdelrahman,20,1169845096,Nehal.Abdelrahman@example.com,8/7/2016,2,8/7/2024,8/7/2026,5,Female,8/25/1973,52,Egyptian,Bachelor,5693,7,Sales Associate,Cairo,1025
+1832,Galal,Hossni,Bassem,Galal Hossni Bassem,20,1059417534,Galal.Bassem@example.com,8/24/2019,1,8/24/2024,8/24/2025,6,Male,12/13/1980,45,Egyptian,Bachelor,4558,6,Sales Associate,Alexandria,1029
+1833,Doaa,Mansour,Raouf,Doaa Mansour Raouf,20,1139238922,Doaa.Raouf@example.com,9/13/2018,1,9/13/2024,9/13/2025,7,Female,1/7/1987,38,Syrian,Bachelor,5047,7,Sales Associate,Cairo,1025
+1834,Nasser,Ehab,Helmy,Nasser Ehab Helmy,20,1272998334,Nasser.Helmy@example.com,10/1/2018,1,10/1/2024,10/1/2025,7,Male,3/27/1989,36,Egyptian,Bachelor,6387,7,Stock Keeper,Mansoura,1031
+1835,Sahar,Mamdouh,Mostafa,Sahar Mamdouh Mostafa,20,1237238741,Sahar.Mostafa@example.com,10/24/2017,1,10/24/2024,10/24/2025,8,Female,3/19/1998,27,Egyptian,Bachelor,5700,5,Security,Sharm El Sheikh,1033
+1836,Moataz,Diaa,Mostafa,Moataz Diaa Mostafa,20,1016864593,Moataz.Mostafa@example.com,11/3/2020,2,11/3/2024,11/3/2026,3,Male,12/15/1987,38,Egyptian,Undergraduate,5088,9,Sales Associate,Sharm El Sheikh,1033
+1837,Ghada,Abdelmonem,Youssef,Ghada Abdelmonem Youssef,20,1023726456,Ghada.Youssef@example.com,11/30/2015,1,11/30/2024,11/30/2025,10,Female,10/20/1997,28,Sudanese,Undergraduate,6914,5,Cashier,Alexandria,1029
+1838,Nehal,Ramy,Ahmed,Nehal Ramy Ahmed,20,1033083043,Nehal.Ahmed@example.com,12/17/2016,1,12/17/2025,12/17/2026,9,Female,4/7/1968,57,Egyptian,Diploma,6179,7,Security,Giza,1027
+1839,Radwa,Saber,Maged,Radwa Saber Maged,20,1093810469,Radwa.Maged@example.com,1/17/2015,1,1/17/2025,1/17/2026,11,Female,8/17/1992,33,Egyptian,Diploma,5785,5,Cashier,Cairo,1025
+1840,Magda,Rami,Mansour,Magda Rami Mansour,20,1109378418,Magda.Mansour@example.com,2/8/2019,1,2/8/2025,2/8/2026,7,Female,9/18/2001,24,Egyptian,Undergraduate,6475,7,Cashier,Cairo,1026
+1841,Moheb,Basel,Sherif,Moheb Basel Sherif,20,1111685315,Moheb.Sherif@example.com,2/22/2015,2,2/22/2025,2/22/2027,6,Male,1/23/1973,52,Sudanese,Bachelor,6351,9,Customer Service,Mansoura,1032
+1842,Osama,Moataz,Diaa,Osama Moataz Diaa,20,1027953638,Osama.Diaa@example.com,3/20/2015,1,3/20/2024,3/20/2025,10,Male,10/6/1982,43,Egyptian,Bachelor,6907,5,Cashier,Mansoura,1031
+1843,Mostafa,Nasr,Ziad,Mostafa Nasr Ziad,20,1013575270,Mostafa.Ziad@example.com,4/8/2015,2,4/8/2023,4/8/2025,5,Male,11/27/1970,55,Egyptian,Bachelor,7720,9,Customer Service,Cairo,1026
+1844,Rasha,Islam,Adel,Rasha Islam Adel,20,1226416847,Rasha.Adel@example.com,4/18/2018,1,4/18/2024,4/18/2025,7,Female,10/12/1975,50,Egyptian,Diploma,5495,9,Cashier,Luxor,1035
+1845,Galal,Nabil,Youssef,Galal Nabil Youssef,20,1237818369,Galal.Youssef@example.com,5/18/2021,2,5/18/2023,5/18/2025,2,Male,7/4/1988,37,Egyptian,Diploma,6826,6,Security,Giza,1028
+1846,Nour,Bahaa,Reda,Nour Bahaa Reda,20,1288601902,Nour.Reda@example.com,6/16/2015,1,6/16/2024,6/16/2025,10,Female,8/7/1976,49,Egyptian,Undergraduate,6998,6,Cashier,Giza,1027
+1847,Waheed,Sayed,Youssef,Waheed Sayed Youssef,20,1141380267,Waheed.Youssef@example.com,7/28/2020,2,7/28/2024,7/28/2026,3,Male,12/2/2001,24,Egyptian,Bachelor,6819,9,Cashier,Sharm El Sheikh,1033
+1848,Mariam,Soliman,Amr,Mariam Soliman Amr,20,1181363605,Mariam.Amr@example.com,8/18/2015,1,8/18/2024,8/18/2025,10,Female,5/3/1991,34,Egyptian,Bachelor,6276,6,Stock Keeper,Sharm El Sheikh,1033
+1849,Radwa,Raouf,Kamal,Radwa Raouf Kamal,20,1214738706,Radwa.Kamal@example.com,9/15/2015,2,9/15/2023,9/15/2025,5,Female,2/28/2001,24,Egyptian,Bachelor,5575,5,Cashier,Alexandria,1030
+1850,Mansour,Raouf,Aref,Mansour Raouf Aref,20,1198838929,Mansour.Aref@example.com,10/9/2017,1,10/9/2024,10/9/2025,8,Male,2/2/1982,43,Egyptian,Bachelor,5179,8,Sales Associate,Cairo,1025
+1851,Sara,Nasr,Abdelatif,Sara Nasr Abdelatif,20,1134677874,Sara.Abdelatif@example.com,10/25/2017,2,10/25/2023,10/25/2025,4,Female,6/16/1978,47,Egyptian,Bachelor,6721,9,Cashier,Alexandria,1029
+1852,Inas,Abdelatif,Morsy,Inas Abdelatif Morsy,20,1220642428,Inas.Morsy@example.com,11/17/2019,2,11/17/2023,11/17/2025,3,Female,6/18/1982,43,Egyptian,Diploma,5592,6,Sales Associate,Aswan,1037
+1853,Sohair,Shady,Sayed,Sohair Shady Sayed,20,1234596907,Sohair.Sayed@example.com,11/27/2019,1,11/27/2024,11/27/2025,6,Female,7/7/2001,24,Egyptian,Bachelor,5707,9,Sales Associate,Aswan,1037
+1854,Nasser,Sameh,Emad,Nasser Sameh Emad,20,1081469421,Nasser.Emad@example.com,12/16/2017,2,12/16/2023,12/16/2025,4,Male,4/12/1978,47,Egyptian,Bachelor,5524,6,Sales Associate,Giza,1027
+1855,Ayman,Ehab,Farouk,Ayman Ehab Farouk,20,1130221163,Ayman.Farouk@example.com,1/10/2020,1,1/10/2025,1/10/2026,6,Male,12/22/1985,40,Egyptian,Diploma,7628,8,Customer Service,Mansoura,1032
+1856,Doaa,Karim,Gamal,Doaa Karim Gamal,20,1274282207,Doaa.Gamal@example.com,2/7/2020,1,2/7/2025,2/7/2026,6,Female,1/27/1996,29,Egyptian,Diploma,7259,6,Customer Service,Aswan,1037
+1857,Hassan,Abdelmonem,Atef,Hassan Abdelmonem Atef,20,1219177086,Hassan.Atef@example.com,3/4/2019,2,3/4/2025,3/4/2027,4,Male,3/13/1968,57,Egyptian,Diploma,7907,9,Customer Service,Alexandria,1029
+1858,Amal,Abdelatif,Abdelrahman,Amal Abdelatif Abdelrahman,20,1144267027,Amal.Abdelrahman@example.com,4/7/2020,2,4/7/2024,4/7/2026,3,Female,6/21/1967,58,Sudanese,Bachelor,6826,5,Security,Giza,1028
+1859,Sara,Montasser,Sobhy,Sara Montasser Sobhy,20,1053643555,Sara.Sobhy@example.com,5/21/2016,1,5/21/2025,5/21/2026,9,Female,8/28/1983,42,Egyptian,Bachelor,5853,6,Stock Keeper,Luxor,1035
+1860,Magda,Ezzat,Ezzat,Magda Ezzat Ezzat,20,1268827169,Magda.Ezzat@example.com,5/31/2019,1,5/31/2024,5/31/2025,6,Female,5/22/1985,40,Egyptian,Diploma,4824,7,Sales Associate,Mansoura,1031
+1861,Moheb,Anwar,Basel,Moheb Anwar Basel,20,1041867523,Moheb.Basel@example.com,6/19/2020,1,6/19/2024,6/19/2025,5,Male,12/14/1974,51,Egyptian,Bachelor,5128,6,Sales Associate,Luxor,1035
+1862,Anwar,Montasser,Lotfy,Anwar Montasser Lotfy,20,1067394545,Anwar.Lotfy@example.com,7/14/2019,2,7/14/2023,7/14/2025,3,Male,8/11/1993,32,Egyptian,Diploma,7234,5,Customer Service,Aswan,1037
+1863,Ghada,Fouad,Reda,Ghada Fouad Reda,20,1054652379,Ghada.Reda@example.com,7/24/2020,2,7/24/2024,7/24/2026,3,Female,3/18/1969,56,Egyptian,Diploma,5291,9,Cashier,Giza,1027
+1864,Sara,Youssef,Nasser,Sara Youssef Nasser,20,1055674715,Sara.Nasser@example.com,8/15/2015,1,8/15/2024,8/15/2025,10,Female,3/24/1984,41,Egyptian,Bachelor,6102,5,Cashier,Aswan,1037
+1865,Hanan,Rami,Safwat,Hanan Rami Safwat,20,1078555239,Hanan.Safwat@example.com,9/14/2017,1,9/14/2024,9/14/2025,8,Female,4/25/1980,45,Egyptian,Bachelor,5952,8,Cashier,Aswan,1038
+1866,Nadia,Essam,Maged,Nadia Essam Maged,20,1225786372,Nadia.Maged@example.com,10/10/2017,2,10/10/2023,10/10/2025,4,Female,12/12/1969,56,Egyptian,Diploma,4716,6,Sales Associate,Aswan,1037
+1867,Hoda,Noureldin,Omar,Hoda Noureldin Omar,20,1085221356,Hoda.Omar@example.com,11/9/2015,1,11/9/2024,11/9/2025,10,Female,10/27/1978,47,Egyptian,Diploma,7011,6,Customer Service,Aswan,1037
+1868,Mamdouh,Raouf,Diaa,Mamdouh Raouf Diaa,20,1000593482,Mamdouh.Diaa@example.com,12/5/2018,1,12/5/2024,12/5/2025,7,Male,5/25/1987,38,Egyptian,Bachelor,5927,10,Sales Associate,Sharm El Sheikh,1033
+1869,Nehal,Moataz,Karim,Nehal Moataz Karim,20,1273916397,Nehal.Karim@example.com,12/30/2019,2,12/30/2023,12/30/2025,3,Female,10/18/2002,23,Egyptian,Undergraduate,5948,5,Sales Associate,Giza,1027
+1870,Islam,Abdelhady,Ismail,Islam Abdelhady Ismail,20,1060224676,Islam.Ismail@example.com,1/16/2021,1,1/16/2025,1/16/2026,5,Male,12/3/2002,23,Egyptian,Diploma,4356,9,Sales Associate,Luxor,1035
+1871,Fatma,Sayed,Sayed,Fatma Sayed Sayed,20,1209144041,Fatma.Sayed@example.com,2/7/2019,2,2/7/2025,2/7/2027,4,Female,5/5/1981,44,Egyptian,Bachelor,5068,9,Cashier,Giza,1027
+1872,Laila,Nasr,Omar,Laila Nasr Omar,20,1047349474,Laila.Omar@example.com,2/21/2021,2,2/21/2025,2/21/2027,3,Female,2/21/1982,43,Syrian,Diploma,6530,5,Cashier,Sharm El Sheikh,1034
+1873,Atef,Sobhy,Basel,Atef Sobhy Basel,20,1185830933,Atef.Basel@example.com,3/14/2021,2,3/14/2025,3/14/2027,3,Male,3/27/1974,51,Egyptian,Bachelor,5502,8,Cashier,Alexandria,1030
+1874,Manar,Sherif,Amr,Manar Sherif Amr,20,1104533450,Manar.Amr@example.com,3/28/2017,1,3/28/2024,3/28/2025,8,Female,3/18/1993,32,Egyptian,Bachelor,5037,8,Stock Keeper,Aswan,1037
+1875,Iman,Hossni,Mansour,Iman Hossni Mansour,20,1100755644,Iman.Mansour@example.com,4/9/2020,1,4/9/2024,4/9/2025,5,Female,6/4/1976,49,Egyptian,Bachelor,6483,8,Cashier,Alexandria,1030
+1876,Nehal,Abdelrahman,Mamdouh,Nehal Abdelrahman Mamdouh,20,1013961515,Nehal.Mamdouh@example.com,5/9/2019,2,5/9/2023,5/9/2025,3,Female,4/2/1970,55,Egyptian,Bachelor,5669,9,Cashier,Alexandria,1029
+1877,Amal,Mamdouh,Yasser,Amal Mamdouh Yasser,20,1150400365,Amal.Yasser@example.com,6/22/2018,2,6/22/2024,6/22/2026,4,Female,12/23/2002,23,Egyptian,Diploma,7537,5,Customer Service,Cairo,1026
+1878,Mariam,Nasr,Gamal,Mariam Nasr Gamal,20,1176263396,Mariam.Gamal@example.com,7/16/2015,2,7/16/2023,7/16/2025,5,Female,5/13/1984,41,Egyptian,Bachelor,6160,10,Cashier,Aswan,1038
+1879,Sobhy,Gamal,Abdelmonem,Sobhy Gamal Abdelmonem,20,1269767707,Sobhy.Abdelmonem@example.com,7/26/2016,1,7/26/2025,7/26/2026,9,Male,2/27/1999,26,Egyptian,Bachelor,5004,7,Security,Aswan,1037
+1880,Noureldin,Abdelkader,Hussein,Noureldin Abdelkader Hussein,20,1000794717,Noureldin.Hussein@example.com,8/12/2020,2,8/12/2024,8/12/2026,3,Male,9/9/1972,53,Egyptian,Bachelor,5740,10,Cashier,Mansoura,1031
+1881,Gihan,Hany,Sameh,Gihan Hany Sameh,20,1232780417,Gihan.Sameh@example.com,8/26/2017,1,8/26/2024,8/26/2025,8,Female,3/9/1982,43,Egyptian,Bachelor,4928,7,Sales Associate,Luxor,1035
+1882,Aya,Sameh,Diaa,Aya Sameh Diaa,20,1186437518,Aya.Diaa@example.com,9/19/2020,2,9/19/2024,9/19/2026,3,Female,4/17/1974,51,Egyptian,Diploma,4694,7,Stock Keeper,Luxor,1035
+1883,Dina,Morsy,Ezzat,Dina Morsy Ezzat,20,1003328840,Dina.Ezzat@example.com,10/1/2016,1,10/1/2025,10/1/2026,9,Female,12/21/1998,27,Egyptian,Bachelor,5725,8,Cashier,Giza,1027
+1884,Amal,Atef,Mostafa,Amal Atef Mostafa,20,1237241796,Amal.Mostafa@example.com,10/31/2019,2,10/31/2023,10/31/2025,3,Female,10/12/2002,23,Egyptian,Diploma,4534,6,Sales Associate,Giza,1027
+1885,Basel,Diaa,Adel,Basel Diaa Adel,20,1152062826,Basel.Adel@example.com,11/11/2020,1,11/11/2024,11/11/2025,5,Male,1/4/1974,51,Egyptian,Bachelor,5075,6,Cashier,Luxor,1035
+1886,Nour,Magdy,Safwat,Nour Magdy Safwat,20,1143651475,Nour.Safwat@example.com,12/8/2020,1,12/8/2024,12/8/2025,5,Female,8/19/1969,56,Egyptian,Bachelor,5235,7,Sales Associate,Aswan,1038
+1887,Hossam,Basel,Qasem,Hossam Basel Qasem,20,1111184483,Hossam.Qasem@example.com,12/21/2018,2,12/21/2024,12/21/2026,4,Male,6/15/2002,23,Egyptian,Bachelor,7093,7,Customer Service,Alexandria,1029
+1888,Ismail,Morsy,Reda,Ismail Morsy Reda,20,1133722080,Ismail.Reda@example.com,1/8/2017,2,1/8/2025,1/8/2027,5,Male,6/22/1972,53,Egyptian,Bachelor,6474,7,Stock Keeper,Cairo,1025
+1889,Inas,Sameh,Emad,Inas Sameh Emad,20,1099369417,Inas.Emad@example.com,1/26/2018,2,1/26/2024,1/26/2026,4,Female,4/10/1995,30,Egyptian,Bachelor,4687,8,Stock Keeper,Mansoura,1031
+1890,Hana,Noureldin,Hassan,Hana Noureldin Hassan,20,1293751758,Hana.Hassan@example.com,2/16/2017,1,2/16/2026,2/16/2027,9,Female,5/26/1994,31,Syrian,Diploma,5746,5,Cashier,Alexandria,1029
+1891,Essam,Bassem,Abdelhady,Essam Bassem Abdelhady,20,1116085861,Essam.Abdelhady@example.com,3/12/2021,1,3/12/2025,3/12/2026,5,Male,2/5/1971,54,Egyptian,Bachelor,4028,6,Sales Associate,Alexandria,1029
+1892,Amal,Hossni,Hossni,Amal Hossni Hossni,20,1045683793,Amal.Hossni@example.com,3/29/2020,2,3/29/2024,3/29/2026,3,Female,6/24/1990,35,Egyptian,Bachelor,7186,5,Junior Financial Analyst,Head Office,1024
+1893,Ghada,Yehia,Ahmed,Ghada Yehia Ahmed,20,1006709525,Ghada.Ahmed@example.com,4/14/2015,2,4/14/2023,4/14/2025,5,Female,10/7/1991,34,Syrian,Diploma,7311,5,Customer Service,Sharm El Sheikh,1034
+1894,Lina,Ashraf,Abdelatif,Lina Ashraf Abdelatif,20,1148111192,Lina.Abdelatif@example.com,4/30/2018,2,4/30/2024,4/30/2026,4,Female,8/18/1990,35,Egyptian,Bachelor,6072,8,Stock Keeper,Cairo,1025
+1895,Mariam,Magdy,Youssef,Mariam Magdy Youssef,20,1036613888,Mariam.Youssef@example.com,5/23/2016,1,5/23/2025,5/23/2026,9,Female,9/22/2002,23,Egyptian,Bachelor,5299,4,HR Trainee,Head Office,1009
+1896,Islam,Bilal,Hisham,Islam Bilal Hisham,20,1112248079,Islam.Hisham@example.com,6/6/2020,1,6/6/2024,6/6/2025,5,Male,11/28/1999,26,Egyptian,Bachelor,4244,6,Sales Associate,Sharm El Sheikh,1034
+1897,Lina,Saeed,Anwar,Lina Saeed Anwar,20,1268311885,Lina.Anwar@example.com,6/30/2017,1,6/30/2024,6/30/2025,8,Female,12/6/1991,34,Egyptian,Diploma,6083,5,Cashier,Cairo,1026
+1898,Hany,Kamal,Gamal,Hany Kamal Gamal,20,1239503915,Hany.Gamal@example.com,7/23/2021,2,7/23/2023,7/23/2025,2,Male,7/20/1992,33,Egyptian,Bachelor,6433,5,Junior HR,Head Office,1009
+1899,Nehal,Amr,Ali,Nehal Amr Ali,20,1213191778,Nehal.Ali@example.com,8/4/2016,2,8/4/2024,8/4/2026,5,Female,1/6/1984,41,Sudanese,Bachelor,5405,10,Sales Associate,Alexandria,1030
+1900,Amal,Abdelkader,Moataz,Amal Abdelkader Moataz,20,1254009860,Amal.Moataz@example.com,8/16/2018,2,8/16/2024,8/16/2026,4,Female,10/10/1983,42,Egyptian,Diploma,4646,10,Sales Associate,Cairo,1026
+1901,Rania,Bassem,Qasem,Rania Bassem Qasem,20,1224828959,Rania.Qasem@example.com,9/5/2021,1,9/5/2024,9/5/2025,4,Female,11/4/1983,42,Syrian,Bachelor,4981,8,Stock Keeper,Giza,1028
+1902,Atef,Khaled,Sobhy,Atef Khaled Sobhy,20,1092055070,Atef.Sobhy@example.com,9/17/2020,1,9/17/2024,9/17/2025,5,Male,2/28/1968,57,Sudanese,Bachelor,5032,9,Sales Associate,Luxor,1036
+1903,Sobhy,Ali,Bilal,Sobhy Ali Bilal,20,1135991138,Sobhy.Bilal@example.com,10/9/2017,1,10/9/2024,10/9/2025,8,Male,4/10/2002,23,Sudanese,Bachelor,5175,7,Sales Associate,Alexandria,1030
+1904,Ghada,Bahaa,Waheed,Ghada Bahaa Waheed,20,1142180707,Ghada.Waheed@example.com,10/26/2017,1,10/26/2024,10/26/2025,8,Female,1/7/1982,43,Egyptian,Bachelor,6401,9,Cashier,Alexandria,1029
+1905,Magda,Sayed,Ashraf,Magda Sayed Ashraf,20,1062949404,Magda.Ashraf@example.com,11/17/2016,1,11/17/2025,11/17/2026,9,Female,10/9/1976,49,Egyptian,Bachelor,6425,8,Cashier,Sharm El Sheikh,1034
+1906,Helmy,Tawfik,Abdelaziz,Helmy Tawfik Abdelaziz,20,1063228348,Helmy.Abdelaziz@example.com,12/7/2018,2,12/7/2024,12/7/2026,4,Male,3/4/1979,46,Egyptian,Diploma,5912,5,Cashier,Giza,1028
+1907,Hana,Nasser,Noureldin,Hana Nasser Noureldin,20,1279128747,Hana.Noureldin@example.com,1/15/2017,1,1/15/2026,1/15/2027,9,Female,5/13/1975,50,Egyptian,Bachelor,4133,8,Sales Associate,Luxor,1036
+1908,Fatma,Sameh,Nabil,Fatma Sameh Nabil,20,1223735388,Fatma.Nabil@example.com,1/31/2019,2,1/31/2025,1/31/2027,4,Female,6/9/1997,28,Egyptian,Diploma,6110,6,Stock Keeper,Giza,1028
+1909,Shady,Saber,Saeed,Shady Saber Saeed,20,1258546652,Shady.Saeed@example.com,3/11/2020,2,3/11/2024,3/11/2026,3,Male,7/18/1969,56,Egyptian,Diploma,6686,7,Cashier,Cairo,1026
+1910,Amal,Fady,Yasser,Amal Fady Yasser,20,1115173704,Amal.Yasser@example.com,3/29/2015,2,3/29/2023,3/29/2025,5,Female,7/14/1976,49,Egyptian,Bachelor,5117,8,Cashier,Giza,1028
+1911,Hanan,Ashraf,Morsy,Hanan Ashraf Morsy,20,1143967555,Hanan.Morsy@example.com,4/20/2021,1,4/20/2024,4/20/2025,4,Female,3/27/1991,34,Egyptian,Bachelor,4522,5,Sales Associate,Luxor,1036
+1912,Asmaa,Maged,Mahmoud,Asmaa Maged Mahmoud,20,1295047147,Asmaa.Mahmoud@example.com,5/7/2019,1,5/7/2024,5/7/2025,6,Female,9/3/1975,50,Egyptian,Bachelor,5178,6,Stock Keeper,Mansoura,1032
+1913,Nihal,Khalil,Yehia,Nihal Khalil Yehia,20,1076613665,Nihal.Yehia@example.com,5/21/2016,1,5/21/2025,5/21/2026,9,Female,7/11/1967,58,Egyptian,Bachelor,6127,5,Stock Keeper,Sharm El Sheikh,1034
+1914,Manar,Saeed,Ashraf,Manar Saeed Ashraf,20,1148300164,Manar.Ashraf@example.com,6/11/2016,2,6/11/2024,6/11/2026,5,Female,6/5/1986,39,Egyptian,Undergraduate,6739,8,Cashier,Luxor,1036
+1915,Sobhy,Diaa,Zakaria,Sobhy Diaa Zakaria,20,1199398361,Sobhy.Zakaria@example.com,7/9/2018,1,7/9/2024,7/9/2025,7,Male,12/23/1974,51,Egyptian,Diploma,4477,8,Sales Associate,Giza,1028
+1916,Nisreen,Ramy,Fouad,Nisreen Ramy Fouad,20,1267249572,Nisreen.Fouad@example.com,7/22/2020,2,7/22/2024,7/22/2026,3,Female,3/8/2001,24,Egyptian,Bachelor,5199,7,Stock Keeper,Luxor,1036
+1917,Ismail,Zakaria,Sobhy,Ismail Zakaria Sobhy,20,1227221126,Ismail.Sobhy@example.com,8/13/2020,1,8/13/2024,8/13/2025,5,Male,3/7/1994,31,Syrian,Diploma,6216,8,Cashier,Giza,1028
+1918,Hanan,Aref,Kamal,Hanan Aref Kamal,20,1121093818,Hanan.Kamal@example.com,9/8/2017,1,9/8/2024,9/8/2025,8,Female,8/18/1983,42,Egyptian,Diploma,4380,5,Sales Associate,Luxor,1036
+1919,Manar,Ehab,Gamal,Manar Ehab Gamal,20,1293191070,Manar.Gamal@example.com,9/28/2018,1,9/28/2024,9/28/2025,7,Female,4/28/1975,50,Egyptian,Diploma,6121,7,Security,Mansoura,1032
+1920,Gamal,Tawfik,Hisham,Gamal Tawfik Hisham,20,1153792374,Gamal.Hisham@example.com,10/28/2018,1,10/28/2024,10/28/2025,7,Male,1/17/1974,51,Egyptian,Bachelor,7340,9,Customer Service,Sharm El Sheikh,1034
+1921,Marwa,Noureldin,Osama,Marwa Noureldin Osama,20,1128516132,Marwa.Osama@example.com,11/19/2020,2,11/19/2024,11/19/2026,3,Female,9/19/1992,33,Egyptian,Undergraduate,6353,5,Cashier,Alexandria,1030
+1922,Basma,Mahmoud,Abdelnasser,Basma Mahmoud Abdelnasser,20,1010543379,Basma.Abdelnasser@example.com,12/13/2020,2,12/13/2024,12/13/2026,3,Female,9/13/1993,32,Egyptian,Diploma,6188,9,Cashier,Alexandria,1029
+1923,Fatma,Qasem,Abdelhady,Fatma Qasem Abdelhady,20,1271269600,Fatma.Abdelhady@example.com,12/28/2019,1,12/28/2024,12/28/2025,6,Female,2/21/1991,34,Egyptian,Bachelor,6303,7,Stock Keeper,Aswan,1038
+1924,Dalia,Yehia,Tamer,Dalia Yehia Tamer,20,1093895478,Dalia.Tamer@example.com,1/24/2019,2,1/24/2025,1/24/2027,4,Female,4/4/1967,58,Egyptian,Bachelor,5132,7,Cashier,Aswan,1038
+1925,Amr,Helmy,Rashed,Amr Helmy Rashed,20,1131690037,Amr.Rashed@example.com,2/12/2021,1,2/12/2025,2/12/2026,5,Male,6/13/1995,30,Egyptian,Diploma,5288,5,Stock Keeper,Cairo,1025
+1926,Naglaa,Safwat,Hassan,Naglaa Safwat Hassan,20,1231022333,Naglaa.Hassan@example.com,3/3/2018,2,3/3/2024,3/3/2026,4,Female,7/4/1969,56,Egyptian,Bachelor,4875,6,Stock Keeper,Giza,1028
+1927,Ghada,Raouf,Kamal,Ghada Raouf Kamal,20,1016570629,Ghada.Kamal@example.com,3/20/2017,1,3/20/2024,3/20/2025,8,Female,4/22/1985,40,Egyptian,Bachelor,4979,6,Stock Keeper,Sharm El Sheikh,1034
+1928,Sayed,Abdelsalam,Abdelkader,Sayed Abdelsalam Abdelkader,20,1191217687,Sayed.Abdelkader@example.com,4/6/2016,2,4/6/2024,4/6/2026,5,Male,1/14/1992,33,Egyptian,Bachelor,7585,9,Junior HR,Head Office,1009
+1929,Omar,Abdelatif,Farouk,Omar Abdelatif Farouk,20,1291736975,Omar.Farouk@example.com,5/3/2018,2,5/3/2024,5/3/2026,4,Male,4/14/1971,54,Egyptian,Diploma,4693,5,Sales Associate,Luxor,1036
+1930,Fady,Waheed,Hany,Fady Waheed Hany,20,1008559575,Fady.Hany@example.com,5/19/2019,2,5/19/2023,5/19/2025,3,Male,5/11/2002,23,Egyptian,Bachelor,7948,9,Customer Service,Sharm El Sheikh,1034
+1931,Nadia,Hatem,Zakaria,Nadia Hatem Zakaria,20,1220670738,Nadia.Zakaria@example.com,5/30/2018,1,5/30/2024,5/30/2025,7,Female,10/13/1967,58,Egyptian,Diploma,6638,7,Security,Luxor,1036
+1932,Fatma,Abdelaziz,Ali,Fatma Abdelaziz Ali,20,1242867542,Fatma.Ali@example.com,6/10/2017,2,6/10/2023,6/10/2025,4,Female,7/7/1981,44,Sudanese,Bachelor,5445,8,Stock Keeper,Mansoura,1031
+1933,Mona,Kamal,Soliman,Mona Kamal Soliman,20,1227838553,Mona.Soliman@example.com,6/30/2016,2,6/30/2024,6/30/2026,5,Female,6/25/1976,49,Egyptian,Bachelor,4562,5,Stock Keeper,Cairo,1026
+1934,Khaled,Abdelatif,Wael,Khaled Abdelatif Wael,20,1283541661,Khaled.Wael@example.com,7/25/2015,2,7/25/2023,7/25/2025,5,Male,2/11/1974,51,Egyptian,Bachelor,5365,5,Cashier,Mansoura,1032
+1935,Dalia,Mounir,Galal,Dalia Mounir Galal,20,1200809059,Dalia.Galal@example.com,8/23/2016,1,8/23/2025,8/23/2026,9,Female,10/24/1982,43,Egyptian,Diploma,4415,9,Sales Associate,Cairo,1026
+1936,Nahed,Tarek,Abdelaziz,Nahed Tarek Abdelaziz,20,1286166372,Nahed.Abdelaziz@example.com,9/14/2018,1,9/14/2024,9/14/2025,7,Female,2/8/1984,41,Syrian,Diploma,5397,8,Cashier,Alexandria,1029
+1937,Omar,Bilal,Rashed,Omar Bilal Rashed,20,1232906961,Omar.Rashed@example.com,10/13/2015,2,10/13/2023,10/13/2025,5,Male,11/15/1994,31,Sudanese,Bachelor,4470,8,Sales Associate,Luxor,1036
+1938,Khaled,Tawfik,Karim,Khaled Tawfik Karim,20,1028880228,Khaled.Karim@example.com,11/8/2019,1,11/8/2024,11/8/2025,6,Male,9/7/1970,55,Egyptian,Bachelor,5878,9,Sales Associate,Alexandria,1030
+1939,Rania,Nasr,Hany,Rania Nasr Hany,20,1180353334,Rania.Hany@example.com,12/7/2017,2,12/7/2023,12/7/2025,4,Female,9/25/1974,51,Egyptian,Bachelor,4340,8,Sales Associate,Sharm El Sheikh,1034
+1940,Sherine,Montasser,Soliman,Sherine Montasser Soliman,20,1035915912,Sherine.Soliman@example.com,12/23/2015,2,12/23/2023,12/23/2025,5,Female,5/23/1974,51,Sudanese,Bachelor,4477,5,Sales Associate,Luxor,1036
+1941,Ghada,Mansour,Atef,Ghada Mansour Atef,20,1233168956,Ghada.Atef@example.com,1/3/2020,2,1/3/2024,1/3/2026,3,Female,6/10/1969,56,Egyptian,Bachelor,4723,7,Stock Keeper,Aswan,1038
+1942,Yasmin,Hany,Bilal,Yasmin Hany Bilal,20,1141315200,Yasmin.Bilal@example.com,1/24/2016,2,1/24/2024,1/24/2026,5,Female,5/3/1971,54,Egyptian,Diploma,5174,5,Cashier,Mansoura,1032
+1943,Ghada,Yasser,Basel,Ghada Yasser Basel,20,1272872812,Ghada.Basel@example.com,2/15/2018,2,2/15/2024,2/15/2026,4,Female,10/12/2000,25,Egyptian,Diploma,6758,5,Cashier,Cairo,1026
+1944,Laila,Adel,Fares,Laila Adel Fares,20,1185118054,Laila.Fares@example.com,3/2/2020,1,3/2/2025,3/2/2026,6,Female,7/7/1999,26,Sudanese,Diploma,6164,5,Stock Keeper,Sharm El Sheikh,1034
+1945,Doaa,Galal,Hisham,Doaa Galal Hisham,20,1166658418,Doaa.Hisham@example.com,3/18/2015,2,3/18/2023,3/18/2025,5,Female,1/25/1981,44,Egyptian,Diploma,6186,7,Cashier,Sharm El Sheikh,1034
+1946,Walaa,Rami,Adel,Walaa Rami Adel,20,1250832704,Walaa.Adel@example.com,4/10/2017,1,4/10/2024,4/10/2025,8,Female,11/3/1997,28,Egyptian,Diploma,5569,5,Sales Associate,Cairo,1025
+1947,Fatma,Amr,Tarek,Fatma Amr Tarek,20,1037618771,Fatma.Tarek@example.com,5/8/2017,2,5/8/2023,5/8/2025,4,Female,11/16/1979,46,Egyptian,Diploma,6620,8,Security,Mansoura,1032
+1948,Nasser,Abdelhady,Mamdouh,Nasser Abdelhady Mamdouh,20,1080240254,Nasser.Mamdouh@example.com,5/22/2017,1,5/22/2024,5/22/2025,8,Male,7/20/1973,52,Egyptian,Bachelor,5741,10,Cashier,Sharm El Sheikh,1034
+1949,Yasmin,Shady,Mahmoud,Yasmin Shady Mahmoud,20,1161145898,Yasmin.Mahmoud@example.com,6/7/2015,2,6/7/2023,6/7/2025,5,Female,8/6/1989,36,Syrian,Diploma,6448,5,Security,Luxor,1036
+1950,Yehia,Abdelaziz,Hany,Yehia Abdelaziz Hany,20,1224034693,Yehia.Hany@example.com,7/9/2017,2,7/9/2023,7/9/2025,4,Male,8/15/1980,45,Egyptian,Bachelor,5949,7,Stock Keeper,Sharm El Sheikh,1034
+1951,Nasser,Ahmed,Ramy,Nasser Ahmed Ramy,20,1227354921,Nasser.Ramy@example.com,7/19/2020,2,7/19/2024,7/19/2026,3,Male,10/13/1980,45,Egyptian,Diploma,6339,8,Cashier,Luxor,1036
+1952,Iman,Moataz,Abdelmonem,Iman Moataz Abdelmonem,20,1023141283,Iman.Abdelmonem@example.com,8/7/2016,2,8/7/2024,8/7/2026,5,Female,7/23/1972,53,Egyptian,Diploma,6099,8,Security,Alexandria,1030
+1953,Basma,Saber,Montasser,Basma Saber Montasser,20,1188109782,Basma.Montasser@example.com,10/21/2022,1,10/21/2024,10/21/2025,3,Female,11/23/1974,51,Egyptian,Diploma,6158,6,Cashier,Mansoura,1032
+1954,Hend,Shady,Ramy,Hend Shady Ramy,20,1278020455,Hend.Ramy@example.com,4/4/2023,2,4/4/2023,4/4/2025,1,Female,11/16/1996,29,Syrian,Bachelor,6900,5,Cashier,Aswan,1038
+1955,Sherif,Hossam,Saeed,Sherif Hossam Saeed,20,1032499436,Sherif.Saeed@example.com,7/2/2023,2,7/2/2023,7/2/2025,1,Male,5/15/1984,41,Sudanese,Diploma,5217,10,Cashier,Sharm El Sheikh,1034
+1956,Nadia,Khaled,Ismail,Nadia Khaled Ismail,20,1066103613,Nadia.Ismail@example.com,7/17/2023,1,7/17/2024,7/17/2025,2,Female,4/27/2002,23,Egyptian,Diploma,6909,7,Cashier,Mansoura,1032
+1957,Saber,Mansour,Morsy,Saber Mansour Morsy,20,1026030178,Saber.Morsy@example.com,9/25/2022,2,9/25/2024,9/25/2026,2,Male,11/12/1967,58,Egyptian,Diploma,5025,7,Sales Associate,Sharm El Sheikh,1034
+1958,Lotfy,Noureldin,Rashed,Lotfy Noureldin Rashed,20,1288377603,Lotfy.Rashed@example.com,11/30/2022,1,11/30/2024,11/30/2025,3,Male,8/16/1985,40,Egyptian,Diploma,4089,9,Sales Associate,Cairo,1026
+1959,Rasha,Nabil,Ehab,Rasha Nabil Ehab,20,1024155231,Rasha.Ehab@example.com,12/22/2022,1,12/22/2024,12/22/2025,3,Female,10/20/1970,55,Egyptian,Bachelor,4768,5,Sales Associate,Sharm El Sheikh,1034
+1960,Hana,Ziad,Fares,Hana Ziad Fares,20,1201282628,Hana.Fares@example.com,1/6/2023,2,1/6/2025,1/6/2027,2,Female,12/4/1968,57,Egyptian,Bachelor,5848,9,Sales Associate,Sharm El Sheikh,1034
+1961,Reda,Fouad,Atef,Reda Fouad Atef,20,1072535833,Reda.Atef@example.com,1/27/2023,2,1/27/2025,1/27/2027,2,Male,1/7/1977,48,Egyptian,Bachelor,5050,6,Sales Associate,Sharm El Sheikh,1034
+1962,Shady,Tarek,Saeed,Shady Tarek Saeed,20,1125256285,Shady.Saeed@example.com,2/13/2023,2,2/13/2025,2/13/2027,2,Male,7/18/1989,36,Egyptian,Undergraduate,5420,5,Sales Associate,Cairo,1026
+1963,Hana,Sherif,Hatem,Hana Sherif Hatem,20,1046709898,Hana.Hatem@example.com,3/15/2023,2,3/15/2025,3/15/2027,2,Female,11/23/1973,52,Egyptian,Bachelor,5968,5,Sales Associate,Cairo,1026
+1964,Abdelmonem,Abdelmonem,Sameh,Abdelmonem Abdelmonem Sameh,20,1030645794,Abdelmonem.Sameh@example.com,6/18/2023,2,6/18/2023,6/18/2025,1,Male,12/25/1979,46,Egyptian,Diploma,5698,8,Security,Giza,1028
+1965,Nihal,Ayman,Reda,Nihal Ayman Reda,20,1109331429,Nihal.Reda@example.com,4/29/2023,1,4/29/2024,4/29/2025,2,Female,3/21/1972,53,Egyptian,Bachelor,4847,8,Stock Keeper,Alexandria,1030
+1966,Gihan,Ramy,Nasser,Gihan Ramy Nasser,20,1261272551,Gihan.Nasser@example.com,8/13/2023,2,8/13/2023,8/13/2025,1,Female,5/9/1971,54,Syrian,Bachelor,4789,8,Stock Keeper,Mansoura,1031
+1967,Nisreen,Omar,Zakaria,Nisreen Omar Zakaria,20,1034200032,Nisreen.Zakaria@example.com,11/9/2022,1,11/9/2024,11/9/2025,3,Female,6/6/1995,30,Egyptian,Diploma,5028,8,Cashier,Sharm El Sheikh,1033
+1968,Bilal,Ali,Abdelnasser,Bilal Ali Abdelnasser,20,1233082351,Bilal.Abdelnasser@example.com,5/25/2023,2,5/25/2023,5/25/2025,1,Male,3/13/1999,26,Syrian,Diploma,6953,5,Cashier,Alexandria,1030
