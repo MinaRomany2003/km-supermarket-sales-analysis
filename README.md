@@ -77,7 +77,6 @@ Using **Power BI**, we explore daily transactions, product-mix performance, seas
 - **Power BI (Desktop / Service)** – data modeling, DAX measures, interactive visuals  
 - **Excel / CSV** – initial data cleaning & transformation  
 - **DAX** – calculated columns, measures, time-intelligence functions  
-- **Python (optional)** – ad-hoc EDA and forecasting in Jupyter  
 - **Data Storytelling** – presentation of findings to stakeholders
 
 ---
